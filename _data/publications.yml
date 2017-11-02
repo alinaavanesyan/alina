@@ -1,0 +1,420 @@
+# ------------------------------------------------------------------------------
+# journal articles
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A., Jaffe, B.D., and C. Guédot (2017) Isolating
+    spermatheca and determining mating status of the invasive spotted wing
+    drosophila, Drosophila suzukii: a protocol for tissue dissection and its
+    applications. Insects: Special issue “Invasive Insect Species”. 8(1), 32;
+    doi:10.3390/insects8010032. Invited paper.' 
+  type: journal  
+  date: 2017-03-10
+  file: 2017_isolating.pdf
+  projects: [drosophila]
+
+- entry: '
+    Avanesyan, A., and T.M. Culley (2017) Tolerance of native and exotic prairie
+    grasses to herbivory by Melanoplus grasshoppers: application of a
+    non-destructive method for estimating plant biomass changes as a response to
+    herbivory. The Journal of the Torrey Botanical Society 144(1):15-25.'
+  type: journal  
+  date: 2016-12-07
+  url: 'http://www.bioone.org/doi/abs/10.3159/TORREY-D-15-00028'
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan, A., and T.M. Culley (2015) Feeding preferences of Melanoplus
+    femurrubrum grasshoppers on native and exotic grasses: behavioral and molecular
+    approaches. Entomologia Experimentalis et Applicata 157: 153-163.'
+  type: journal  
+  date: 2015-10-04
+  url: 'http://onlinelibrary.wiley.com/doi/10.1111/eea.12356/abstract'
+  projects: [dissertation_phd]
+    
+- entry: '
+    Merritt, B.J., Culley, T.M., Avanesyan, A., Stokes, R., and J. Brzyski (2015)
+    An empirical review: Characteristics of plant microsatellite markers that
+    confer greater levels of genetic variation. Applications in Plant Sciences
+    3(8):1500025.'
+  type: journal  
+  date: 2015-08-17
+  file: 2015_microsatellite.pdf
+  projects: [microsatellite]
+    
+- entry: '
+    Avanesyan, A., and T.M. Culley (2015) Herbivory of native and exotic
+    North-American prairie grasses by nymph Melanoplus grasshoppers. Plant Ecology
+    216: 451-464.'
+  type: journal  
+  date: 2015-01-15
+  file: 2015_herbivory.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan, A. (2014) Plant DNA detection from grasshopper gut contents: a
+    step-by-step protocol, from tissues preparation to obtaining plant DNA
+    sequences. Applications in Plant Sciences 2(2):1300082.'
+  type: journal  
+  date: 2014-02-01
+  file: 2014_dna.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Granovitch, А.I., Maximovich, A.N., Avanesyan, A.V., Starunova Z.I., and N.A.
+    Mikhailova (2013) Micro-spatial distribution of two sibling periwinkle species
+    across the intertidal indicates hybridization. Genetica 141 (7): 293-301.'
+  type: journal  
+  date: 2013-07-26
+  file: 2013_microspatial.pdf
+  projects: [cytology]
+    
+- entry: '
+    Ataev, G.L., Dobrovolskij, A.A., Avanessian, A.V., and E.S., Loker (2001) Germinal
+    elements and their development in Echinostoma caproni and Echinostoma paraensei
+    (Trematoda) miracidia. The Journal of Parasitology 87 (5): 1160-1164.'
+  type: journal  
+  date: 2001-10-01 #known: 2001-10
+  file: 2001_germinal.pdf
+  projects: [dissertation_cand]
+    
+- entry: '
+    Ataev, G.L., Avanessian, A.V., Loker, E.S., and A.A. Dobrovolskij (2001) The
+    organization of germinal material and dynamics of mother sporocyst reproduction
+    in the genus Echinostoma (Trematoda: Echinostomatidae). Parazitologia 35 (4):
+    307-319.(In Russian)'
+  type: journal  
+  date: 2001-08-01 #known: july/august 2001
+  url: 'http://www.unboundmedicine.com/medline/citation/11605455/%5BThe_organization_of_germinal_material_and_dynamics_of_mother_sporocyst_reproduction_in_the_genus_Echinostoma__Trematoda:_Echinostomatidae_%5D_'
+  file: 2001_organization_russian.pdf
+  projects: [dissertation_cand]
+    
+# ------------------------------------------------------------------------------
+# published abstracts
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A. (2005) Cellular defense mechanisms of Planorbis planorbis and
+    Planorbarius corneus snails. Journal of Ural Immunology 1 (4): 2. (In Russian)'
+  type: abstract
+  date: 2005-01-01
+    
+- entry: '
+    Avanesyan, A., and M.A. Gvozdev (2003) Epidemical importance of the pathogenic
+    organism activity in water reservoirs. In Environment and Human Health: The
+    complete Works of International Ecologic Forum, p. 30.'
+  type: abstract
+  date: 2003-05-01
+    
+- entry: '
+    Avanesyan, A., and M.A. Gvozdev (2003) Trematode infections of freshwater
+    snails in small water reservoirs of Leningrad Area. The Journal of Infectional
+    Pathology 10 (4): 8-9. (In Russian)'
+  type: abstract
+  date: 2003-04-01
+    
+- entry: '
+    Ataev, G.L., A.A. Dobrovolskij, A.V. Avanessian and C. Coustau (2000)
+    Significance of amoebocyte-producing organ of Biomphalaria glabrata snails
+    (strains selected for susceptibility/resistance) in cellular response to
+    Echinostoma caproni mother sporocysts infection. Proceedings of the symposium
+    on ecological parasitology at the turn of the millennium, St. Petersburg,
+    Russia, 1-7 July, 2000. Bulletin of the Scandinavian Society for Parasitology
+    10 (2): 65.'
+  type: abstract
+  date: 2000-07-01 #known: 2000-07
+  file: 2000_significance.pdf
+  projects: [dissertation_cand]
+ 
+# ------------------------------------------------------------------------------
+# manuscripts in preparation
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A., Lamp, W., Snook, K., and P. Follett. Short-term physiological
+    response of a native Hawaiian plant, Hibiscus arnottianus, to injury by the
+    exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae).'
+  type: journal_prep
+  date: 2017-10-20
+    
+- entry: '
+    Avanesyan, A. Should I eat or should I go? Feeding response of acridid
+    grasshoppers to introduced plants: a systematic review.'
+  type: journal_prep
+  date: 2017-10-19
+    
+# ------------------------------------------------------------------------------
+# conference presentations
+# ------------------------------------------------------------------------------
+- entry: '
+    Omanovic E., Welsch A., Graving S., Christiansen K., Avanesyan A., and I.
+    Hazan (2017) Sequencing of GAPDH Gene in Cilantro and Rosemary. Annual Grand
+    View Scholarship Symposium. Des Moines, IA. Poster presentation' 
+  type: conference
+  date: 2017-04-21
+  file: 2017_studentposter1.pdf
+  projects: [course_molecular_biology]
+
+- entry: '
+    Christofferson D., Miller R., Piatt D., Backer S., Reyes-Zuniga K.,
+    Avanesyan A., and I. Hazan (2017) Sequencing the GAPDH Gene of Rosmarinus
+    officinalis.  Annual Grand View Scholarship Symposium. Des Moines, IA. Poster
+    presentation' 
+  type: conference
+  date: 2017-04-21
+  file: 2017_studentposter2.pdf
+  projects: [course_molecular_biology]
+
+- entry: '
+    Geisinger S., Jones K., Sopher K., Salazar-Klock L., Avanesyan A., and I. Hazan
+    (2017). Sequencing of GAPDH Gene in Coriandrum sativum (Cilantro).  Annual
+    Grand View Scholarship Symposium. Des Moines, IA. Poster presentation' 
+  type: conference
+  date: 2017-04-21
+  file: 2017_studentposter3.pdf
+  projects: [course_molecular_biology]
+
+- entry: '
+    Merritt, B.J., Culley, T.M., Avanesyan A., Stokes, R., and J. Brzyski (2015) An
+    empirical review: Characteristics of plant microsatellite markers that confer
+    greater levels of genetic variation. Botany 2015: Annual Meeting of the
+    Botanical Society of America, Edmonton, Alberta, Canada. Poster presentation'
+  type: conference 
+  date: 2015-07-25
+  file: 2015_empirical.pdf
+  projects: [microsatellite]
+    
+- entry: '
+    Culley, T. M., and Avanesyan A. (2014) Estimating the tolerance of native and
+    exotic grasses to grasshopper herbivory. Botany 2014: Annual Meeting of the
+    Botanical Society of America. Boise, ID. Oral presentation'
+  type: conference 
+  date: 2014-07-26
+  file: 2014_estimating.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan, A., and T.M. Culley (2014) Prevalence of exotic and native plant
+    food in the gut contents of Melanoplus femurrubrum grasshoppers: molecular
+    confirmation of diet. 5th Annual Midwest Graduate Research Symposium. Toledo,
+    OH. Oral presentation'
+  type: conference 
+  date: 2014-04-01 #known 2014-04
+  file: 2014_prevalence.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan, A., and T.M. Culley (2013) Plant DNA detection from grasshoppers’
+    gut contents: method and applications. 61st Annual Meeting of the Entomological
+    Society of America, Austin, TX. Oral presentation'
+  type: conference 
+  date: 2013-11-01 #known 2013-11
+  file: 2013_dna.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A., and T.M. Culley (2013) Interaction of native and invasive grasses
+    with a generalist herbivore insect (Updated: results from 2012-2013). 98th
+    Annual Meeting of the Ecological Society of America. Minneapolis, MN. Oral
+    presentation'
+  type: conference 
+  date: 2013-08-01 #known 2013-08
+  file: 2013_interaction_minneapolis.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A., and T.M. Culley (2013) Interaction of native and invasive grasses
+    with a generalist herbivore insect. 4th Annual Midwest Graduate Research
+    Symposium. Toledo, OH. Oral presentation'
+  type: conference 
+  date: 2013-04-01 #known 2013-04
+  file: 2013_interaction_toledo.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A., and T.M. Culley (2013) Feeding preferences of the generalist
+    insect herbivore, Melanoplus femurrubrum grasshopper, on invasive and native
+    plants. Entomological Society of America Annual Meeting, Eastern Branch.
+    Lancaster, PA. Oral presentation'
+  type: conference 
+  date: 2013-03-16
+  file: 2013_feeding.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A., and T.M. Culley (2013) A comparison of Miscanthus sinensis and
+    two native grasses in their resistance and tolerance to herbivory by a
+    generalist insect. Ohio Invasive Plants Council Research Conference. Columbus,
+    OH. Poster presentation'
+  type: conference 
+  date: 2013-12-20 #known 2013-12
+  file: 2013_comparison.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A., Stamper T.I. , Timm A., Wong E., Dahlem G.A., and R. DeBry (2010)
+    Phylogenetic relationships of the Sarcophagidae (Diptera), using three
+    mitochondrial loci (COI, COII, and ND4) and one nuclear locus (PER). 58th
+    Annual Meeting of the Entomological Society of America. San Diego, CA. Poster
+    presentation'
+  type: conference 
+  date: 2010-11-01 #known 2010-11
+  file: 2010_phylogenetic.pdf
+  projects: [phylogenetics]
+    
+- entry: '
+    Avanesyan A., Stamper T.I., and R. DeBry (2010) Infection rate of grasshoppers
+    in Montana, parasitized by Sarcophagidae flies: a host range and parasite
+    species determination. Graduate Poster Forum, University of Cincinnati.
+    Poster presentation'
+  type: conference 
+  date: 2010-03-01 #known 2010-03
+  file: 2010_infection.pdf
+  projects: [phylogenetics]
+    
+- entry: '
+    Berendzen, P.B., J.D. Ophus and A.V. Avanesyan. (2007) A cross-cultural study
+    of students’ understanding of evolution. The nature of science and their need
+    for cognition. X Russian-American Conference: Modern Concepts in Higher
+    Education. Herzen State University, St. Petersburg, Russia. Oral presentation'
+  type: conference 
+  date: 2007-05-01 #known 2007-05
+  projects: [teaching]
+    
+- entry: '
+    Gvozdev, M.A. and A.V. Avanesyan. (2006) Bioethical aspects of the development
+    of aquaculture in Russia. Annual Scientific Conference: Problems of biology and
+    ecology training under the modernization of higher education, Herzen State
+    University of Russia, Saint-Petersburg. November 2006. Oral presentation'
+  type: conference 
+  date: 2006-11-01 #known 2006-11
+  projects: [teaching]
+    
+- entry: '
+    Avanesyan, A.V. and G.L. Ataev. (2001) The organization of amoebocyte-producing
+    organ in different pulmonate snails. International Symposium: Animal
+    Physiology, I. M. Sechenov Institute of Evolutionary Physiology and
+    Biochemistry, St.-Petersburg, Russia. Poster presentation'
+  type: conference 
+  date: 2001-10-01 #known 2001-10
+  projects: [dissertation_cand]
+    
+- entry: '
+    Ataev, G.L., A.A. Dobrovolskij, A.V. Avanessian and C. Coustau. (2000)
+    Significance of amoebocyte-producing organ of Biomphalaria glabrata snails
+    (strains selected for susceptibility/resistance) in cellular response to
+    Echinostoma caproni mother sporocysts infection. The symposium on ecological
+    parasitology at the turn of the millennium. St. Petersburg, Russia. Oral
+    presentation'
+  type: conference 
+  date: 2000-07-01
+  projects: [dissertation_cand]
+    
+# ------------------------------------------------------------------------------
+# invited talks
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan A. (2016). Identifying and controlling spotted wing drosophila. Berry
+    Field Day organized by Wisconsin Berry Growers Association. River Falls, WI.'
+  type: talk 
+  date: 2016-05-01 #known 2016-05
+  projects: [drosophila]
+    
+- entry: '
+    Avanesyan A., and T.M. Culley (2014) Interaction of generalist grasshoppers
+    with native and exotic grasses: behavioral and molecular approaches. 62nd
+    Annual Meeting of the Entomological Society of America. Portland, OR.'
+  type: talk 
+  date: 2014-11-01 #known 2014-11
+  file: 2014_interaction.pdf
+  projects: [dissertation_phd]
+    
+- entry: '
+    Avanesyan A. (2008). Biology education in Russia. Departmental research
+    seminar. Biology Department, University of Northern Iowa, Cedar Falls, IA.'
+  type: talk 
+  date: 2008-02-01 #known 2008-02
+  projects: [teaching]
+    
+# ------------------------------------------------------------------------------
+# research reports
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A., Thurman C.L., and P.B. Berendzen (2008) Exploring effective
+    methods of DNA extraction and the amplification of specific mtDNA and nDNA
+    regions in fiddler crabs (Uca). Functional Morphology, Ecology and Animal Life
+    Cycles 8: 15-20. (In Russian)'
+  type: report
+  date: 2008-10-01 #known 2008
+    
+- entry: '
+    Avanesyan, A. (2005) Structural changes in the amebocyte-producing organ of
+    Biomphalaria pfeifferi snails during Echinostoma caproni infection. Functional
+    Morphology, Ecology and Animal Life Cycles 5: 102-106. (In Russian)'
+  type: report
+  date: 2005-10-01 #known 2005
+  projects: [dissertation_cand]
+    
+- entry: '
+    Avanesyan, A. and G.L. Ataev (2004) Hematopoiesis in gastropods. Functional
+    Morphology, Ecology and Animal Life Cycles 4: 105-111. (In Russian)'
+  type: report
+  date: 2004-10-01 #known 2004
+  projects: [dissertation_cand]
+    
+- entry: '
+    Ataev, G.L., and A. Avanesyan (2000) Snail defense responses to infection by
+    trematodes. Functional Morphology, Ecology and Animal Life Cycles, pp. 118-122.
+    (In Russian)'
+  type: report
+  date: 2000-10-01 #known 2000
+  projects: [dissertation_cand]
+    
+# ------------------------------------------------------------------------------
+# course materials
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A.V. (2003) Animal Ecology: Lecture notes. Herzen State University.
+    St. Petersburg, Russia. 40 p.'
+  type: course_materials
+  date: 2003-03-01 #known 2003
+  url: 'http://search.rsl.ru/ru/record/01002463759'
+  projects: [teaching]
+    
+- entry: '
+    Avanesyan, A.V. (2003) Animal Ecology: Lab assignments. Herzen State
+    University. St. Petersburg, Russia. 15 p.'
+  type: course_materials
+  date: 2003-02-01 #known 2003
+  url: 'http://search.rsl.ru/ru/record/01002467402'
+  projects: [teaching]
+    
+# ------------------------------------------------------------------------------
+# nesletters
+# ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A. and C. Guédot. (2016) Exclusion barriers as a sustainable
+    strategy for management of Spotted Wing Drosophila. Wisconsin Fruit News, 1(6).'
+  type: newsletter
+  date: 2016-06-01 #known 2006-06
+  file: 2016_exclusion.pdf
+  projects: [drosophila]
+    
+- entry: '
+    Avanesyan, A. and C. Guédot. (2016) Raspberry varieties and their infestation
+    by Drosophila suzukii. Wisconsin Fruit News, 1(4).'
+  type: newsletter
+  date: 2016-05-01 #known 2016-05
+  file: 2016_rasberry.pdf
+  projects: [drosophila]
+    
+# ------------------------------------------------------------------------------
+# genebank submission
+# ------------------------------------------------------------------------------
+- entry: '
+    Backer, S., Christiansen, K., Christofferson, D., Geisinger, S., Graving, S.,
+    Jones, K., Miller, R., Omanovic, E., Piatt, D., Reyes-Zuniga, K.,
+    Salazar-Klock, L., Sopher, K., Welsch, A., Avanesyan, A., and I. Hazan. (2017)
+    Salvia rosmarinus isolate rs GAPC-2 gene, partial cds. Direct Submission,
+    GenBank Accession no. MF074139'
+  type: genbank
+  date: 2017-05-10
+  projects: [course_molecular_biology]
+

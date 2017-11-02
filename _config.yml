@@ -1,0 +1,57 @@
+# Site data
+title: Alina Avanesyan
+tagline: Scientist in Training
+header-image-caption: Among the redwoods -- Muir Woods
+
+description: Alina's personal website
+
+destination: docs
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+strict_front_matter: true
+
+liquid:
+  error-mode: strict
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+permalink: /blog/:year/:month/:title/
+#source: pages 
+
+excerpt_separator: "<!--more-->"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+sass:
+  sass_dir: _sass
+  style: expanded:w
+
+
+publication_author_names:
+  - 'Avanesyan, A.V.'
+  - 'Avanessian, A.V.'
+  - 'Avanesyan, A.'
+  - 'Avanesyan A.'
+  - 'A.V. Avanessian'
+  - 'A.V. Avanesyan'
+  - 'A. Avanesyan'
+
+publication_files_path: /assets/content/publications/
+
+# TODO: must change based on environment.
+baseurl: 'alina'

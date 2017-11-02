@@ -1,0 +1,81 @@
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+@import '_bootstrap/_mixins/breakpoints.scss';
+
+@include media-breakpoint-up(xs) {
+  html {
+    font-size: 12px;
+  }
+
+  #grasshopper {
+    display: none;
+  }
+
+  #header-image {
+    float: left;
+  }
+
+  #site-title {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  .ic4f-nav {
+    a {
+      display: block;
+    }
+    a:not(.last) {
+      border-bottom: $border-1;
+    }
+  }
+
+  .w-40 {
+    width: 100%;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 14px;
+  }
+
+  #grasshopper {
+    display: inline;
+  }
+
+  #header-image {
+    float: right;
+  }
+
+  #site-title {
+    margin-left: 100px;
+    margin-top: -83px;
+  }
+
+  .ic4f-nav {
+    a {
+      border-bottom: none !important; 
+      display: inline-block;
+    }
+  }
+
+  .w-40 {
+    width: 65%;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 16px;
+  }
+
+  .w-40 {
+    width: 40%;
+  }
+}

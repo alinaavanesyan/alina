@@ -1,0 +1,349 @@
+$gray1:  #555;
+$gray2:  #999;
+$gray3:  #aaa;
+$gray4:  #ccc;
+$gray5:  #eaeaea;
+$gray6:  #f1f1f1;
+$gray7:  #f8f8f8;
+$green:  #008000;
+$blue:   #05a9c5;
+$orange: #ff8c00;
+$lightblue: $blue * 1.1;
+
+$border-1: $gray5 1px solid;
+
+@import url('https://fonts.googleapis.com/css?family=Handlee|Raleway:300');
+@import 'responsive.scss';
+
+@mixin border-hover {
+  border-color: $blue;
+  outline: 2px solid $blue;
+}
+
+a {
+  color: $blue;
+}
+a:hover {
+  color: $green;
+  text-decoration: none;
+}
+
+figcaption {
+  line-height: 1.1rem;
+}
+
+h1 {
+  color: $gray1;
+  font-size: 1.6rem;
+
+  a {
+    color: $green;
+  }
+  a:hover {
+    color: $blue;
+  }
+}
+
+h2 {
+  @extend h1;
+  font-size: 1.3rem;
+}
+
+h3 {
+  @extend h1;
+  font-size: 1.1rem;
+}
+
+h4, h5, h6 {
+  @extend h1;
+  font-size: 1rem;
+}
+
+#grasshopper {
+  opacity: .7;
+}
+
+#header-photo {
+  border: ($green * 1.3) 1px solid;
+  margin-top: 15px;
+  padding: 3px;
+}
+
+#header-photo:hover {
+  border-color: $lightblue;
+  outline: 1px solid $lightblue;
+}
+
+#modal {
+  background-color: rgba(0, 0, 0, .85);
+  cursor: -moz-zoom-out;
+  cursor: -webkit-zoom-out;
+  cursor: zoom-out;
+  display: none;
+  height: 100%;
+  left: 0;
+  overflow: auto;
+  padding-top: 5rem;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+#modal-caption {
+  color: $gray4;
+  font-size: 0.9rem;
+  padding: 1rem;
+}
+
+#modal-img {
+  border: $gray4 1px solid;
+  max-height: 90%;
+  max-width: 90%;
+}
+
+#site-tagline {
+  font-family: 'Handlee', cursive;
+  font-size: 1.1em;
+  font-style: italic;
+  margin: -7px 0 0 105px;
+  position: relative;
+
+  a {
+    color: $gray2;
+  }
+  a:hover {
+    color: $green;
+  }
+}
+
+#site-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.2em;
+  position: relative;
+
+  a {
+    color: $gray1;
+  }
+  a:hover {
+    color: $green;
+  }
+}
+
+.ic4f-blog-date {
+  color: $gray2;
+  font-size: .8rem;
+  margin: -10px 0 5px 0;
+}
+
+.ic4f-blog-list-date {
+  color: $gray2;
+  font-size: .8rem;
+  margin-bottom: 0;
+  line-height: 1rem;
+}
+
+.ic4f-blog-list-excerpt {
+  font-size: .9rem;
+}
+
+.ic4f-blog-list-more {
+  font-size: .8rem;
+}
+
+.ic4f-blog-list-title {
+  font-size: 1.1rem;
+  margin: 0;
+
+  a {
+    color: $green;
+  }
+  a:hover {
+    color: $blue;
+  }
+}
+
+.ic4f-blog-sidebar {
+
+  h2 {
+    font-size: 1rem;
+    color: $gray2;
+  }
+
+  ul {
+    font-size: .8rem;
+    line-height: 1rem;
+    padding-left: 1.1rem;
+  }
+
+  li {
+    margin-bottom: .5rem;
+  }
+
+  li:last-child {
+    list-style: none;
+
+    a {
+      color: $gray2;
+    }
+    a:hover {
+      color: $blue;
+    }
+  }
+}
+
+.ic4f-contact-row {
+  margin-bottom: -5px;
+  margin-top: 1px;
+  text-align: right;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    font-size: .8rem;
+    padding: 0 10px 0 0;
+  }
+
+  a {
+    color: $gray3;
+  }
+  a:hover {
+    color: $blue;
+  }
+}
+
+.ic4f-container {
+    max-width: 900px;
+}
+
+.ic4f-content {
+  color: $gray1;
+  font-family: verdana, sans-serif;
+  font-size: .95rem;
+  line-height: 1.4rem;
+  margin-bottom: 1rem;
+  margin-top: 1.8rem;
+
+  img {
+    border: 1px solid $gray2;
+  }
+}
+
+.ic4f-download {
+  font-size: .85rem;
+}
+
+.ic4f-footer {
+  color: $gray2;
+  font-size: .8rem;
+  padding-bottom: 1.5rem;
+  padding-top: .7rem;
+  text-align: right;
+
+}
+
+.ic4f-header-row {
+  margin-bottom: 15px;
+}
+
+.ic4f-highlight {
+  color: $orange;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.ic4f-hline {
+  background: $gray5;
+  height: 1px;
+}
+
+.ic4f-indent {
+  margin-left: 20px;
+}
+
+.ic4f-list-img {
+  width: 120px;
+  margin-right: 1rem;
+}
+
+.ic4f-main-heading {
+  margin-bottom: 1.1rem;
+}
+
+.ic4f-max-height-md {
+  max-height: 320px;
+}
+
+.media h2 {
+  font-size: 1.1rem;
+  margin-bottom: .1rem;
+}
+
+.ic4f-mtrig {} /* none; used for js selection */
+
+.ic4f-nav {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  padding: 0;
+
+  a {
+    color: $gray1;
+    margin: 0;
+    padding: .5rem;
+  }
+  a:hover {
+    background: $gray7;
+    color: $green;
+  }
+  a.active {
+    background: $gray6;
+    color: $green;
+  }
+  a.active:hover {
+    background: $gray7;
+  }
+}
+
+.ic4f-nowrap {
+  white-space: nowrap;
+}
+
+.ic4f-pubs-all {
+  h1 { font-size: 1.3rem;}
+  h2 { font-size: 1.1rem;}
+  h3, h4, h5, h6 {font-size: 1rem; }
+}
+
+.ic4f-pubs-project {
+  @extend .ic4f-pubs-all;
+  border-top: $border-1;
+  padding-top: 1rem;
+}
+
+.ic4f-thumb {} /* none */
+
+.ic4f-thumb:hover {
+  @include border-hover;
+}
+
+.ic4f-zoomin {
+  cursor: -moz-zoom-in;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
+.ic4f-zoomin:hover {
+  @include border-hover;
+}
+
+.material-icons.md-18 {
+  font-size: 18px;
+}
+
+@import 'custom.scss';

@@ -1,0 +1,12 @@
+<div class="ic4f-blog-sidebar">
+  <h2>Latest Posts</h2>
+  <ul>
+
+  {% for post in site.posts limit:10 %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+
+  <li><a href="{{ site.baseurl }}{% link pages/index.md %}">all posts...</a></li>
+  </ul>
+
+</div>

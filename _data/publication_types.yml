@@ -1,0 +1,32 @@
+- type: peer_reviewed
+  heading: 'Peer-Reviewed Publications'
+  subtypes:
+  - type:    journal
+    heading: 'Journal Articles'
+  
+  - type:    abstract
+    heading: 'Published Abstracts'
+  
+  - type:    journal_prep
+    heading: 'Manuscripts in preparation'
+
+- type:    conference
+  heading: 'Conference Presentations'
+
+- type:    talk
+  heading: 'Invited Talks'
+
+- type:    genbank
+  heading: 'GenBank Submissions'
+
+- type:    non_peer_reviewed
+  heading: 'Non Peer-Reviewed Publications'
+  subtypes:
+  - type:    report
+    heading: 'Research Report'
+  
+  - type:    course_materials
+    heading: 'Course Materials'
+  
+  - type:    newsletter
+    heading: 'Newsletters'

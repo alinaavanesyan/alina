@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% include head.html %}
+<div class="container ic4f-container">
+
+  <div class="row ic4f-contact-row">
+    <div class="col">
+{% include contact.html %}
+    </div>
+  </div>
+
+  <div class="row ic4f-header-row">
+    <div class="col-12 col-sm-3 order-sm-2 zoom-in">
+      <figure class="m-0">
+        <img id="header-photo" 
+             class="ic4f-mtrig ic4f-zoomin" 
+             src="{{ '/assets/img/alina-s.jpg' | relative_url }}" 
+             alt="Alina Avanesyan" >
+        <figcaption class="d-none">{{ site.header-image-caption }}</figcaption>
+      </figure>
+    </div>
+    <div class="col-12 col-sm-9 order-sm-1">
+      <img id="grasshopper" src="{{ '/assets/img/grasshopper.gif' | relative_url }}" alt="grasshopper">
+      <div id="site-title"><a href="{{ site.baseurl }}{% link pages/index.md %}">{{ site.title }}</a></div>
+      <div id="site-tagline"><a href="{{ site.baseurl }}{% link pages/index.md %}">{{ site.tagline }}</a></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="ic4f-hline"></div>
+
+<div class="container ic4f-container">
+  <div class="row">
+    <div class="col">
+{% include main-menu.html %}    
+    </div>
+  </div>
+</div>
+
+<div class="ic4f-hline"></div>

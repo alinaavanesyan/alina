@@ -1,0 +1,22 @@
+items:
+
+  - title: Blog
+    url:   /
+
+  - title: Research
+    url:   /research/
+
+  - title: Teaching
+    url:   /teaching/
+
+  - title: Planting Science
+    url:   /planting-science/
+
+  - title: Publications
+    url:   /publications/
+
+  - title: CV
+    url:   /cv/
+
+  - title: About Me
+    url:   /about/

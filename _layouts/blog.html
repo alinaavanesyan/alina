@@ -1,0 +1,18 @@
+{% include layout-header.html -%}
+
+<div class="container ic4f-container">
+  <div class="row">
+    <div class="col-md-9 ic4f-content">
+      {% if page.title != '' %} 
+        <h1 class="ic4f-main-heading">{{ page.title }}</h1>
+      {% endif %}
+      <p class="ic4f-blog-date">– {{ page.date | date: '%B %e, %Y'}}</p>
+      {{ content }}
+    </div>
+    <div class="col-md-3 ic4f-content">
+{% include blog-sidebar.html %}
+    </div>
+  </div>
+</div>
+
+{% include layout-footer.html -%}

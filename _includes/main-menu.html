@@ -1,0 +1,26 @@
+      <nav class="ic4f-nav">
+      {%- assign page_menu = page.menu -%}
+      {%- if page_menu == null -%}
+        {%- assign page_menu = page.permalink -%}
+      {%- endif -%}
+
+      {%- for menuitem in site.data.menu.items -%}
+
+        {%- assign class_active = '' -%}
+        {%- if menuitem.url == page_menu -%}
+          {%- assign class_active = 'active' -%}
+        {%- endif -%}
+
+        {%- assign class_last = '' -%}
+        {%- if menuitem.url == site.data.menu.items.last.url -%}
+          {%- assign class_last = 'last' -%}
+        {%- endif -%}
+
+        {%- assign class_attribute = '' -%}
+        {%- capture classes -%}{{ class_active }} {{ class_last}}{%- endcapture -%}
+        {%- if classes != ' ' -%}
+          {%- capture class_attribute %} class="{{ classes | strip }}"{%- endcapture -%}
+        {%- endif %}
+        <a{{ class_attribute }} href="{{ menuitem.url | relative_url }}">{{ menuitem.title }}</a>
+      {%- endfor %}
+      </nav>

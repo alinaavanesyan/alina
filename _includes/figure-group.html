@@ -1,0 +1,66 @@
+{% comment %}
+Displays 1-4 figures w/captions in a row
+
+Parameters: 
+- img_path
+- src1
+- alt1
+- caption1
+
+Optional: hr=0 to turn off top and bottom horizontal break <hr>
+
+Optional: up to 4 sets of src#/alt#/caption#
+
+Note: Why 4 if statements instead of a loop?
+  Because there's no obvious way to construct variables in a loop in Liquid.
+
+{% endcomment %}
+{% if include.hr != 0 %}
+  <hr class="mb-2">
+{% endif -%}
+<div class="row">
+  <div class="col-12 col-sm">
+    <figure class="figure mb-0">
+      <img class="figure-img img-fluid" 
+           src="{{ site.baseurl }}{{ include.img_path }}{{ include.src1 }}" 
+           alt="{{ include.alt1 }}">
+      <figcaption class="figure-caption text-left">{{ include.caption1 }}</figcaption>
+    </figure>
+  </div>
+
+{%- if include.src2 %}
+  <div class="col-12 col-sm">
+    <figure class="figure">
+      <img class="figure-img img-fluid" 
+           src="{{ site.baseurl }}{{ include.img_path }}{{ include.src2 }}" 
+           alt="{{ include.alt2 }}">
+      <figcaption class="figure-caption text-left">{{ include.caption2 }}</figcaption>
+    </figure>
+  </div>
+{% endif -%}
+
+{% if include.src3 %}
+  <div class="col-12 col-sm">
+    <figure class="figure">
+      <img class="figure-img img-fluid" 
+           src="{{ site.baseurl }}{{ include.img_path }}{{ include.src3 }}" 
+           alt="{{ include.alt3 }}">
+      <figcaption class="figure-caption text-left">{{ include.caption3 }}</figcaption>
+    </figure>
+  </div>
+{%- endif -%}
+
+{% if include.src4 %}
+  <div class="col-12 col-sm">
+    <figure class="figure">
+      <img class="figure-img img-fluid" 
+           src="{{ site.baseurl }}{{ include.img_path }}{{ include.src4 }}" 
+           alt="{{ include.alt4 }}">
+      <figcaption class="figure-caption text-left">{{ include.caption4 }}</figcaption>
+    </figure>
+  </div>
+{% endif -%}
+</div>
+{% if include.hr != 0 %}
+  <hr class="mt-1">
+{% endif %}
