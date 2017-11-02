@@ -54,4 +54,4 @@ publication_author_names:
 publication_files_path: /assets/content/publications/
 
 # TODO: must change based on environment.
-baseurl: 'alina'
+baseurl: ''
