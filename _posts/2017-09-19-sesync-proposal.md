@@ -2,8 +2,9 @@
 title: "Proposal for SESYNC postdoctoral fellowship submitted"
 ---
 
-I've just submitted my proposal for a preliminary review for a postdoctoral fellowship at National
-Socio-Environmental Synthesis Center (SESYNC) in Maryland.<!--more--> Dr. Bill Lamp kindly offered to be my
+I've just submitted my proposal for a preliminary review for a postdoctoral fellowship at 
+<a href="https://www.sesync.org/">National Socio-Environmental Synthesis Center</a> (SESYNC) in Maryland.<!--more--> 
+<a href="http://entomology.umd.edu/lamp-william.html">Dr. Bill Lamp</a> kindly offered to be my
 collaborative mentor if I get this fellowship. So excited! I'll keep my fingers crossed!
 
 The main idea of my proposal is to analyze the patterns of plant traits (of introduced plants) in
