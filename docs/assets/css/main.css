@@ -213,6 +213,12 @@ h4, h5, h6 {
 .ic4f-blog-sidebar li {
   margin-bottom: .5rem;
 }
+.ic4f-blog-sidebar li a.active {
+  color: #008000;
+}
+.ic4f-blog-sidebar li a.active:hover {
+  color: #05a9c5;
+}
 .ic4f-blog-sidebar li:last-child {
   list-style: none;
 }
