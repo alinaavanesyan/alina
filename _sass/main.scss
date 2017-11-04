@@ -179,6 +179,13 @@ h4, h5, h6 {
 
   li {
     margin-bottom: .5rem;
+
+    a.active {
+      color: $green;
+    }
+    a.active:hover {
+      color: $blue;
+    }
   }
 
   li:last-child {

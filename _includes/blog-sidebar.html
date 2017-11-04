@@ -3,7 +3,14 @@
   <ul>
 
   {% for post in site.posts limit:10 %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+
+    {%- assign class_active = '' -%}
+    {%- if post.url == page.url -%}
+      {%- assign class_active = 'class="active"' -%}
+    {%- endif -%}
+
+    <li><a {{ class_active }} href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+
   {% endfor %}
 
   <li><a href="{{ site.baseurl }}{% link pages/index.md %}">all posts...</a></li>
