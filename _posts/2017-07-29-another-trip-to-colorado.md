@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Yet another trip to Colorado"
-menu: /
 ---
 
 Last week I spent in Colorado Springs at the Digging Deeper Summer Professional Development workshop

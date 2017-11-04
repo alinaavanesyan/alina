@@ -36,6 +36,17 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout:   "blog"
+      comments: true
+      menu:     /
+
+
+
+
 
 sass:
   sass_dir: _sass

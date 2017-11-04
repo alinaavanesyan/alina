@@ -8,6 +8,11 @@
       {% endif %}
       <p class="ic4f-blog-date">– {{ page.date | date: '%B %e, %Y'}}</p>
       {{ content }}
+
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+
     </div>
     <div class="col-md-3 ic4f-content">
 {% include blog-sidebar.html %}

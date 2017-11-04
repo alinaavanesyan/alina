@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Started working at Grand View University"
-menu: /
 ---
 
 I am very excited to join Department of Biology at Grand View University in Des Moines, IA as an

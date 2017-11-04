@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "First place at ESA meeting in Austin, TX"
-menu: /
 ---
 
 Last week I presented my research project on molecular confirmation of insect diet at the Annual

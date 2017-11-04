@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "More Media Coverage"
-menu: /
 ---
 
 Another story about my research on plant DNA detection from grasshopper gut contents has been just

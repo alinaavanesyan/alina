@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Student evaluations"
-menu: /
 ---
 
 At the end of each semester I receive students evaluations. It was a very difficult moment for me

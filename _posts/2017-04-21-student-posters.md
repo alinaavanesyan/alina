@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Three poster presentations of my students. Great job, guys!"
-menu: /
 ---
 
 Today my students presented their molecular biology term projects at 4th Annual Grand View

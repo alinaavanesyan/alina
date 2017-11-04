@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Second place at ESA Eastern Branch"
-menu: /
 ---
 
 Yesterday I presented at the Annual Meeting of the Eastern Branch of the Entomological Society of

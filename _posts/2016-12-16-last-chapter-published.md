@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "My last dissertation chapter is published! Now I can retire..."
-menu: /
 ---
 
 It will be included in January issue of The Journal of the Torrey Botanical Society:<!--more-->

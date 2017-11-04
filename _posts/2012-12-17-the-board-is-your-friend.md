@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "The board is your friend!"
-menu: /
 ---
 
 I teach biology labs. Our typical lab usually includes a short lecture, a discussion about homework
