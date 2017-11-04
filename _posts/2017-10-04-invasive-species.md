@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "New (or old?) mode of transport for invasive species" 
-menu: /
 ---
 
 <a href="http://www.care2.com/causes/invasive-species-are-still-hitching-rides-on-tsunami-debris.html">Carlton et al. Science 29 Sep 2017:</a>

@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Would you be so kind..."
-menu: /
 ---
 
 In my very first evaluation that I received from my students here in the US I saw this comment:

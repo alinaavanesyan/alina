@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Week 5 of Planting Science program"
-menu: /
 ---
 
 It has been 5 weeks of Planting Science program and my online mentorship of high school

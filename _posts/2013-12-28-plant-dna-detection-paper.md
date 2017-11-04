@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Plant DNA detection from grasshopper gut contents... published!"
-menu: /
 ---
 
 My paper “Plant DNA detection from grasshopper gut contents: a step-by-step protocol, from tissues

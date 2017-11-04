@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Paper published in Insects!"
-menu: /
 ---
 
 My paper from my <a href="{{ site.baseurl }}{% link pages/projects/drosophila-suzukii-raspberry.md %}">postdoctoral work</a> has been just published in Insects, in special issue "Invasive

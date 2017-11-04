@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "The board is your friend! (part 2)"
-menu: /
 ---
 
 I liked the idea of <a href="{% post_url 2012-12-17-the-board-is-your-friend %}">writing a lab flow

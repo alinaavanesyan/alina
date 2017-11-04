@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "How to build a cage"
-menu: /
 ---
 
 Last summer I started my grasses/grasshoppers feeding experiments in the field. The main problem I

@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Proposal for SESYNC postdoctoral fellowship submitted"
-menu: /
 ---
 
 I've just submitted my proposal for a preliminary review for a postdoctoral fellowship at National

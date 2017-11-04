@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Another paper published!"
-menu: /
 ---
 
 My <a href="{{ '/assets/content/publications/2014_dna.pdf' | relative_url }}">protocol paper</a> just came out in the February

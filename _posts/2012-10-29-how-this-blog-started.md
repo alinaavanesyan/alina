@@ -1,7 +1,5 @@
 ---
-layout: blog
 title: "Professor Sprout: How this blog started"
-menu: /
 ---
 
 At first this blog was anonymous. It lived at www.professorsprout.me – an address which
