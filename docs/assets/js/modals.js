@@ -1,10 +1,9 @@
 $(function() { const triggerSelector = '.ic4f-mtrig';
-  const modalId = 'modal';
-  const smallSuffix = '-s';
-  const fileExt = '.jpg';
-  const $modal = $('#modal');
-  const $modalImg = $('#modal-img');
-  const $modalCap = $('#modal-caption');
+  var modalId = 'modal';
+  var smallSuffix = '-s';
+  var fileExt = '.jpg';
+  var $modal = $('#modal');
+  var $modalCap = $('#modal-caption');
 
   $(triggerSelector).each(function(){ 
     var $img = $(this);
@@ -18,19 +17,21 @@ $(function() { const triggerSelector = '.ic4f-mtrig';
     }
 
     $($img).on('click', function() {
-      // change src attribute to large image
+      var modalImgId = '#modal-img';
+      if ($(modalImgId).length === 0) {
+        $('<img id="modal-img" alt=" ">').prependTo('#modal');
+        var $modalImg = $(modalImgId);
+      }
+
       $modalImg.attr('src', srcLarge);
-      // set caption if one exists
       setCaption($img);
 
       $modal
-        // show modal
         .fadeIn(100)
-        // attach click event handler
         .on('click', function() {
           $modal.fadeOut(100); // close modal
-          $modalImg.attr('src', '#');
-          $modalCap.text(''); // reset caption
+          $modalCap.text('');  // reset caption
+          $modalImg.remove();  // remove large img from tree
         });
     });
   });
