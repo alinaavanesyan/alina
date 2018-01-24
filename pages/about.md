@@ -62,6 +62,11 @@ upper-level Genetics and Molecular Biology laboratory courses for biotechnology 
 students in a variety of molecular techniques, including DNA extraction and PCR amplification,
 cloning, restriction mapping, and sequence analysis.
 
+Recently, I started as a Postdoctoral Associate at the Department of Entomology at the University of
+Maryland. I am working in <a href="http://www.clfs.umd.edu/entm/lamp">Dr. Bill Lamp’s lab</a>, where
+I will continue my research on ecology and evolution of plant-insect interactions with a focus on
+novel associations between native and introduced species.
+
 Outside my research and teaching I enjoy spending time with <a href="http://sergey.cs.uni.edu">my
 husband</a> and our little daughter. We enjoy the outdoors whenever we get a chance – hiking,
 biking, skiing, and simply exploring new places! And if the weather isn’t cooperating, you will find
