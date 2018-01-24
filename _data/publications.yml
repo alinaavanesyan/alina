@@ -416,5 +416,6 @@
     GenBank Accession no. MF074139'
   type: genbank
   date: 2017-05-10
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MF074139'
   projects: [course_molecular_biology]
 
