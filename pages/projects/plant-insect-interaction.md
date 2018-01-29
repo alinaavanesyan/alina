@@ -6,10 +6,10 @@ type:       project
 project_id: dissertation_phd
 order:      2
 excerpt:    '
-In my Ph.D. dissertation I explored the interactions between insect herbivores and their host plants
-within the context of invasion ecology. Specifically, I was interested in the potential impact of
-generalist insects on the successful spread of exotic plants. Using a grasses-grasshoppers model, I
-combClick for more information.'
+In my Ph.D. dissertation at the University of Cincinnati I explored the interactions between insect
+herbivores and their host plants within the context of invasion ecology. Specifically, I was
+interested in the potential impact of generalist insects on the successful spread of exotic plants.
+Using a grasses-grasshoppers model.' 
 ---
 
 **Ph.D. Dissertation**: Native versus exotic Grasses: the interaction between generalist insect
@@ -18,14 +18,15 @@ herbivores and their host plants. (Alina Avanesyan, 2014; University of Cincinna
 **Advisor**: <a href="http://homepages.uc.edu/~culleyt/CulleyLab.html">Dr. Theresa Culley</a>,
 Professor, Department of Biological Sciences, University of Cincinnati
 
-In my dissertation I explored the interactions between insect herbivores and their host plants
-within the context of invasion ecology. Specifically, I was interested in the potential impact of
-generalist insects on the successful spread of exotic plants. Using a grasses-grasshoppers model, I
-combined behavioral and molecular approaches to explore (1) tolerant and resistant responses of
-native and exotic grasses to herbivory by grasshoppers, and (2) grasshopper feeding preferences on
-these plants. I conducted laboratory and field experiments at two research centers (University of
-Cincinnati and University of Maryland) to explore whether plant responses to different insect
-populations were similar, and whether the insects acted in the same way.
+In my dissertation at the University of Cincinnati I explored the interactions between insect
+herbivores and their host plants within the context of invasion ecology. Specifically, I was
+interested in the potential impact of generalist insects on the successful spread of exotic plants.
+Using a grasses-grasshoppers model, I combined behavioral and molecular approaches to explore (1)
+tolerant and resistant responses of native and exotic grasses to herbivory by grasshoppers, and (2)
+grasshopper feeding preferences on these plants. I conducted laboratory and field experiments at two
+research centers (University of Cincinnati and University of Maryland) to explore whether plant
+responses to different insect populations were similar, and whether the insects acted in the same
+way.
 
 As part of my dissertation, I developed a new PCR-based method for accurate detection of plant meals
 from grasshopper guts, which had not been described in experimental studies. This method was
