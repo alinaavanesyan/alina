@@ -6,12 +6,12 @@ type:       project
 project_id: drosophila
 order:      1
 excerpt:    '
-  In my postdoctoral research I focused on biology and distribution of the invasive spotted wing
+  In my postdoctoral research at the University of Wisconsin-Madison I focused on biology and distribution of the invasive spotted wing
   drosophila, Drosophila suzukii in raspberry. I coordinated a multi-state bait comparison project for
   determining optimal attractants for D. suzukii.' 
 ---
 
-In my postdoctoral work I studied one of the emerging insect pests – the spotted wing drosophila,
+In my postdoctoral work at the University of Wisconsin-Madison I studied one of the emerging insect pests – the spotted wing drosophila,
 Drosophila suzukii Matsumura (Diptera: Drosophilidae). This is a highly invasive insect species,
 which attacks undamaged ripening fruit of a wide variety of soft-skinned fruits and berries. Native
 to Southeast Asia, currently it is observed in Europe, North America, and South America. Drosophila
