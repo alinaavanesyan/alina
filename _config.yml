@@ -24,6 +24,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - vendor/
 
 permalink: /blog/:year/:month/:title/
 #source: pages 
@@ -43,10 +44,6 @@ defaults:
       layout:   "blog"
       comments: true
       menu:     /
-
-
-
-
 
 sass:
   sass_dir: _sass
