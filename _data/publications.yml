@@ -2,6 +2,12 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+    Jaffe, B.D., Avanesyan, A., Bal, H. K., Grant, J., Grieshop, M.J., Lee, J.C., Liburd, O.E., Rhodes, E., Rodriguez-Saona, C., Sial, A.A., Zhang, A., and C. Guédot (2018) Multistate comparison of attractants and the impact of fruit development stage on trapping Drosophila suzukii (Diptera: Drosophilidae) in raspberry and blueberry. Environmental Entomology (Accepted).' 
+  type: journal  
+  date: 2018-04-01
+  projects: [drosophila]
+
+- entry: '
     Avanesyan, A., Jaffe, B.D., and C. Guédot (2017) Isolating
     spermatheca and determining mating status of the invasive spotted wing
     drosophila, Drosophila suzukii: a protocol for tissue dissection and its

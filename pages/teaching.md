@@ -5,6 +5,11 @@ permalink:  /teaching/
 
 ## Courses taught
 
+<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018–present)</p>
+
+* Insect Biodiversity: The Good, The Bad and The Weird (HONR208D; teaching assistant)
+* Aquatic Entomology (ENTM667; teaching assistant)
+
 <p class="mb-1"><strong>Biology Department, Grand View University</strong> (2016–2017)</p>
 
 * <a href="{{ site.baseurl }}{% link pages/courses/genetics.md %}">Genetics</a> (laboratory; 4 units; 2016–2017; instructor)
