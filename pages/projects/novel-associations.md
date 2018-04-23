@@ -29,6 +29,17 @@ for native versus introduced plants and, consequently, grasshopper potential for
 of native communities, that (as the review has shown) is surprisingly overlooked in experimental
 studies on invasion ecology.
 
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">My table pet for inspiration..
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
 <hr>
 
 ## Herbivore resistance in Miscanthus sinensis cultivars
@@ -37,6 +48,17 @@ be highly invasive in some states, not all of its cultivars are invasive. I am c
 my field and greenhouse experiments for the upcoming summer season to explore plant resistance to
 grasshopper herbivory and how this resistance differs among Miscanthus cultivars, and whether the
 initially introduced wild type demonstrates the highest level of herbivore resistance.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-2.png' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Some of the Miscanthus cultivars I consider to study
+    </figcaption>
+    </figure>
+  </div>
+</div>
 
 <hr>
 
@@ -52,6 +74,18 @@ but can also pick up some of the surrounding plant cells which allows DNA to be 
 insect gut contents. In this project, we would like to investigate whether (and how) we can apply
 this method for yet another sap-feeder, the potato leafhopper, to explore its host plant usage. 
 
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-9.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">This is what grasshoppers ate (Avanesyan, 2014); we hope to
+    find out what leafhoppers would like to feed on.
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
 <hr>
 
 ## Biodiversity of agricultural drainage ditches 
@@ -59,6 +93,33 @@ I’ve recently joined this ongoing project in Dr. Lamp’s lab, and I am curren
 herbarium plant specimens hoping that they will speak and tell me their taxonomic identity. Having
 almost zero previous experience in plant identification, so far I have barely advanced to plant
 family level (with the aid of textbooks and technology). A lot to learn, a lot to do…
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-right">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-8.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-4.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Some of my new plant friends
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-left">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-6.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">
+    </figcaption>
+    </figure>
+  </div>
+</div>
 
 <hr>
 
@@ -68,5 +129,40 @@ and its interaction with host plants. This emerging invasive insect pest is curr
 spreading in the eastern US, moving closer and closer to Maryland. This is a completely new study
 species for me, and while reading more and more about it I can’t stop being amazed by SLF unique
 ecology and behavior. 
+
+Update – 04/22/18: the grant proposal has recently been submitted to MDA. I’ll keep my fingers
+crossed!
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-1.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">The spotted lanternfly, Lycorma delicatula
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-3.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">L. delicatula: adult 
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-7.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">L. delicatula: egg mass
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+Photo credit: [Prof. Michael J. Raupp](http://entomology.umd.edu/raupp-michael-j.html), Department
+of Entomology, University of Maryland ([Bug of the
+week](http://bugoftheweek.com/blog/2018/3/16/help-find-the-spotted-lanternfly-ilycorma-delicatulai)).
+
 
 <div class="ic4f-pubs-project"> {% show_pubs novel_associations %} </div>
