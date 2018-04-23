@@ -2,9 +2,15 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
-    Jaffe, B.D., Avanesyan, A., Bal, H. K., Grant, J., Grieshop, M.J., Lee, J.C., Liburd, O.E., Rhodes, E., Rodriguez-Saona, C., Sial, A.A., Zhang, A., and C. Guédot (2018) Multistate comparison of attractants and the impact of fruit development stage on trapping Drosophila suzukii (Diptera: Drosophilidae) in raspberry and blueberry. Environmental Entomology (Accepted).' 
+    Jaffe, B.D., Avanesyan, A., Bal, H. K., Grant, J., Grieshop, M.J., Lee,
+    J.C., Liburd, O.E., Rhodes, E., Rodriguez-Saona, C., Sial, A.A., Zhang, A.,
+    and C. Guédot (2018) Multistate comparison of attractants and the impact of
+    fruit development stage on trapping Drosophila suzukii (Diptera:
+    Drosophilidae) in raspberry and blueberry. Environmental Entomology
+    (Accepted; doi: 10.1093/ee/nvy052).'
   type: journal  
   date: 2018-04-01
+  url: 'https://academic.oup.com/ee/advance-article-abstract/doi/10.1093/ee/nvy052/4970567'
   projects: [drosophila]
 
 - entry: '
