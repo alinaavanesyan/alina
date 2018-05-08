@@ -2,7 +2,7 @@
 title: "Maryland Day in pictures"
 ---
 
-We spent a wonderful time on campus celebrating our annual Maryland Day! I was really impressed how
+We spent a wonderful time on campus celebrating our annual [Maryland Day](https://marylandday.umd.edu/)! I was really impressed how
 well everything was organized and how many things there were to do with friends and family, and of
 course with little and not so little kids. <!--more-->We came there for 2 hours and stayed for the whole day!
 My daughter enjoyed our insect petting zoo very much, although she refused to touch the tarantula
@@ -22,7 +22,7 @@ pretty sure she thinks now that my work is Maryland Day every day!
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/blog/md-day-2.jpg' | relative_url }}" alt="">
     <figcaption class="figure-caption">
-    Insect petting zoo. Getting ready!  
+    My first time decorating the entrance
     </figcaption>
     </figure>
   </div>
@@ -32,7 +32,7 @@ pretty sure she thinks now that my work is Maryland Day every day!
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/blog/md-day-3.jpg' | relative_url }}" alt="">
     <figcaption class="figure-caption">
-    My first time decorating the entrance
+    Insect petting zoo. Getting ready!  
     </figcaption>
     </figure>
     </div>
