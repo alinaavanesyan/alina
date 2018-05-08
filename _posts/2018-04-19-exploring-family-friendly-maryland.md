@@ -15,7 +15,7 @@ with a gorgeous view on the Potomac River.
   
 <div class="row">
 
-  <div class="col-sm-5">
+  <div class="col-sm-4">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/blog/exploring-md-1.jpg' | relative_url }}" alt="">
@@ -23,7 +23,7 @@ with a gorgeous view on the Potomac River.
     </figcaption>
     </figure>
     </div>
-  <div class="col-sm-7">
+  <div class="col-sm-8">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/blog/exploring-md-10.jpg' | relative_url }}" alt="">
@@ -42,7 +42,7 @@ enjoyed birds, giraffes, camels, cheetahs, and tried not to wake kangaroos up.
 <div class="row">
 
   <div class="col-sm-7">
-    <figure class="text-center">
+    <figure class="text-left">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/blog/exploring-md-4.jpg' | relative_url }}" alt="">
     <figcaption class="figure-caption">

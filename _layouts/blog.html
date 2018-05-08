@@ -2,7 +2,7 @@
 
 <div class="container ic4f-container">
   <div class="row">
-    <div class="col-md-9 ic4f-content">
+    <div class="col ic4f-content">
       {% if page.title != '' %} 
         <h1 class="ic4f-main-heading">{{ page.title }}</h1>
       {% endif %}
@@ -13,9 +13,6 @@
         {% include disqus.html %}
       {% endif %}
 
-    </div>
-    <div class="col-md-3 ic4f-content">
-{% include blog-sidebar.html %}
     </div>
   </div>
 </div>
