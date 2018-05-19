@@ -135,7 +135,17 @@
   date: 2000-07-01 #known: 2000-07
   file: 2000_significance.pdf
   projects: [dissertation_cand]
- 
+
+# ------------------------------------------------------------------------------
+# submitted manuscripts 
+# ------------------------------------------------------------------------------
+- entry: '
+  Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
+  their novel host plants: implications for biotic resistance.'
+  type: journal_submit
+  date: 2018-05-18
+  projects: [novel_associations]
+
 # ------------------------------------------------------------------------------
 # manuscripts in preparation
 # ------------------------------------------------------------------------------
@@ -145,13 +155,6 @@
     exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae).'
   type: journal_prep
   date: 2017-10-20
-  projects: [novel_associations]
-    
-- entry: '
-    Avanesyan, A. Should I eat or should I go? Feeding response of acridid
-    grasshoppers to introduced plants: a systematic review.'
-  type: journal_prep
-  date: 2017-10-19
   projects: [novel_associations]
     
 # ------------------------------------------------------------------------------

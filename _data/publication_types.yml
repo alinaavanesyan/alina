@@ -7,6 +7,9 @@
   - type:    abstract
     heading: 'Published Abstracts'
   
+  - type:    journal_submit
+    heading: 'Submitted manuscripts'
+
   - type:    journal_prep
     heading: 'Manuscripts in preparation'
 
