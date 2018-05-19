@@ -29,6 +29,8 @@ for native versus introduced plants and, consequently, grasshopper potential for
 of native communities, that (as the review has shown) is surprisingly overlooked in experimental
 studies on invasion ecology.
 
+**Update** – 05/18/18: the manuscript has been submitted!
+
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
