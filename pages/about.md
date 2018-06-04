@@ -15,7 +15,7 @@ In 2016, I did a short postdoc at the Department of Entomology at the University
 
 Since January 2018, I am a Postdoctoral Associate at the Department of Entomology at the University of Maryland. I am working in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html), where I continue my research on ecology and evolution of plant-insect interactions with a focus on novel associations between native and introduced species. Currently, I am developing several research projects: I am planning to continue exploring herbivore resistance and tolerance in exotic grasses, a potential role of native insect generalists in biotic resistance of native communities, and, most recently, I’ve started developing a project on host plant usage by a recent invader, the spotted lanternfly. All this is super exciting, and I’m looking forward to my next research adventure..
 
-Outside my work I enjoy spending time with [my husband](http://sergey.cs.uni.edu/) and our little daughter. We enjoy the outdoors whenever we get a chance – hiking, biking, skiing, and simply exploring new places! And if the weather isn’t cooperating, you will find me exploring the unpredictable worlds of Neil Gaiman and George Martin, or looking for all those who disappeared and “were said to been seen in San-Francisco” with Armistead Maupin…
+Outside my work I enjoy spending time with [my husband](http://icode4.fun) and our little daughter. We enjoy the outdoors whenever we get a chance – hiking, biking, skiing, and simply exploring new places! And if the weather isn’t cooperating, you will find me exploring the unpredictable worlds of Neil Gaiman and George Martin, or looking for all those who disappeared and “were said to been seen in San-Francisco” with Armistead Maupin…
 
 
 <figure>
