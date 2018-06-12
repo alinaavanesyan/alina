@@ -161,6 +161,27 @@
 # conference presentations
 # ------------------------------------------------------------------------------
 - entry: '
+  Avanesyan, A., and W. Lamp (2018) Use of molecular markers for plant DNA to
+  determine host plant usage for potato leafhopper, Empoasca fabae. Annual
+  Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC
+    Joint Annual Meeting, Vancouver, BC, Canada. Oral presentation.'
+  type: conference_upcoming
+  date: 2018-11-11
+  projects: [novel_associations]
+
+- entry: '
+  Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
+  their novel host plants: implications for biotic resistance. Annual Meeting
+  of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual
+  Meeting, Vancouver, BC, Canada. Poster presentation
+  type: conference_upcoming
+  date: 2018-11-11
+  projects: [novel_associations]
+
+# ------------------------------------------------------------------------------
+# conference presentations
+# ------------------------------------------------------------------------------
+- entry: '
     Omanovic E., Welsch A., Graving S., Christiansen K., Avanesyan A., and I.
     Hazan (2017) Sequencing of GAPDH Gene in Cilantro and Rosemary. Annual Grand
     View Scholarship Symposium. Des Moines, IA. Poster presentation' 

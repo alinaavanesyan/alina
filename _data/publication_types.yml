@@ -16,6 +16,9 @@
 - type:    conference
   heading: 'Conference Presentations'
 
+- type:    conference_upcoming
+  heading: 'Upcoming Presentations'
+
 - type:    talk
   heading: 'Invited Talks'
 
