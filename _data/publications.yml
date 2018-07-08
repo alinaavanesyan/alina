@@ -141,22 +141,27 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
-  their novel host plants: implications for biotic resistance.'
+  their novel host plants: implications for biotic resistance. (under review)'
   type: journal_submit
   date: 2018-05-18
   projects: [novel_associations]
 
-# ------------------------------------------------------------------------------
-# manuscripts in preparation
-# ------------------------------------------------------------------------------
 - entry: '
-    Avanesyan, A., Lamp, W., Snook, K., and P. Follett. Short-term physiological
+    Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2018) Short-term physiological
     response of a native Hawaiian plant, Hibiscus arnottianus, to injury by the
-    exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae).'
-  type: journal_prep
-  date: 2017-10-20
+    exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae). (under review)'
+  type: journal_submit
+  date: 2018-07-07
   projects: [novel_associations]
-    
+ 
+- entry: '
+    Guédot, C., Avanesyan, A., and K. Hietala-Henschell. (2018) Effect of
+    temperature and humidity on the seasonal phenology of Drosophila suzukii
+    (Diptera: Drosophilidae) in Wisconsin. (under review)'
+  type: journal_submit
+  date: 2018-07-07
+  projects: [drosophila]
+
 # ------------------------------------------------------------------------------
 # conference presentations
 # ------------------------------------------------------------------------------

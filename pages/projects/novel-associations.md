@@ -23,11 +23,16 @@ each project is below. I will be adding more details as the projects develop.
 <hr>
 
 ## Should I eat or should I go: acridid grasshoppers and their novel host plants
-This is a systematic review I’ve been working on for the past year, and now it is almost ready for
-submission - so exciting! The review  aimed to identify patterns of grasshopper feeding preferences
-for native versus introduced plants and, consequently, grasshopper potential for biotic resistance
-of native communities, that (as the review has shown) is surprisingly overlooked in experimental
-studies on invasion ecology.
+This is a systematic review I was working on last year (manuscript submitted). The review aimed to
+identify patterns of grasshopper feeding preferences for native versus introduced plants and,
+consequently, grasshopper potential for biotic resistance of native communities, that (as the review
+has shown) is surprisingly overlooked in experimental studies on invasion ecology.
+
+**Update** – 07/07/18: I've submitted a poster presentation on this review to the upcoming 
+[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+I'm also going to present it here, at the University of Maryland research
+symposium organized by the Office of Postdoctoral Affairs.
+
 
 **Update** – 05/18/18: the manuscript has been submitted!
 
@@ -46,10 +51,10 @@ studies on invasion ecology.
 
 ## Herbivore resistance in Miscanthus sinensis cultivars
 Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can
-be highly invasive in some states, not all of its cultivars are invasive. I am currently designing
-my field and greenhouse experiments for the upcoming summer season to explore plant resistance to
-grasshopper herbivory and how this resistance differs among Miscanthus cultivars, and whether the
-initially introduced wild type demonstrates the highest level of herbivore resistance.
+be highly invasive in some states, not all of its cultivars are invasive. This summer I am
+conducting my field and greenhouse experiments to explore plant resistance to grasshopper herbivory,
+how this resistance differs among Miscanthus cultivars, and whether the initially introduced wild
+type demonstrates the highest level of herbivore resistance.
 
 <div class="row">
   <div class="col-sm">
@@ -75,6 +80,12 @@ apparently, while feeding an insect stylet (a piercing mouthpart) can consume no
 but can also pick up some of the surrounding plant cells which allows DNA to be detected in the
 insect gut contents. In this project, we would like to investigate whether (and how) we can apply
 this method for yet another sap-feeder, the potato leafhopper, to explore its host plant usage. 
+
+**Update** - 07/07/18: we are making some good progress, and we've submitted our oral presentation (A.
+Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for
+potato leafhopper, Empoasca fabae") also to the
+[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+
 
 <div class="row">
   <div class="col-sm">
