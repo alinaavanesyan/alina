@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-08T22:53:47-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Summer News!</title><link href="http://localhost:4000/blog/2018/09/summer-news/" rel="alternate" type="text/html" title="Summer News!" /><published>2018-09-08T00:00:00-04:00</published><updated>2018-09-08T00:00:00-04:00</updated><id>http://localhost:4000/blog/2018/09/summer-news</id><content type="html" xml:base="http://localhost:4000/blog/2018/09/summer-news/">&lt;p&gt;Summer is over. It was a busy Summer - full of interesting work, trips, and a lot of writing.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-11T23:06:40-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Review paper published!</title><link href="http://localhost:4000/blog/2018/10/review-paper-published/" rel="alternate" type="text/html" title="Review paper published!" /><published>2018-10-11T00:00:00-04:00</published><updated>2018-10-11T00:00:00-04:00</updated><id>http://localhost:4000/blog/2018/10/review-paper-published</id><content type="html" xml:base="http://localhost:4000/blog/2018/10/review-paper-published/">&lt;p&gt;My systematic review and meta-analysis on feeding preferences of acridid grasshoppers on native vs.
+introduced plants has just been published in &lt;a href=&quot;https://www.mdpi.com/2223-7747/7/4/83&quot;&gt;Plants, Special Issue “Plants Interacting with other
+Organisms: Insects”&lt;/a&gt;.&lt;!--more--&gt; It has been quite a long and challenging process with 3 rounds of
+revision and incorporating comments from 5(!) reviewers, but I’m really excited to see it published.&lt;/p&gt;
+
+&lt;figure class=&quot;text-center&quot;&gt;
+  &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/blog/grasshopper-iowa.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption&quot;&gt;Differential grasshopper, Melanoplus differentials (Orthoptera:
+  Acrididae), eating our palm tree on our balcony, on the 3rd floor. 
+  &lt;br /&gt;Photo credit: &lt;a href=&quot;http://ic4f.me&quot;&gt;Sergey&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This systematic review entitled “&lt;a href=&quot;/assets/content/publications/2018_should_i_eat.pdf&quot;&gt;Should I eat or should I go? Acridid grasshoppers and their novel
+host plants: potential for biotic resistance&lt;/a&gt;” 
+aimed to identify patterns of grasshopper feeding preferences for native versus introduced plants
+and, consequently, a potential of grasshoppers to provide biotic resistance of native communities.
+I’ve worked on this review for a total of almost 2 years: I collected 2146 studies (from six
+databases) published during 1967–2017. Only 13 studies satisfied all of my inclusion criteria; from
+these, I was able to extract 63 records of feeding preference trials for 28 North-American
+grasshopper species. These trials involved direct comparison between consumed native and introduced
+plant material, and these records were included in the analysis.&lt;/p&gt;
+
+&lt;p&gt;I’m going to present a poster on this paper at the upcoming ESA meeting in Vancouver, CA. So I
+discussed with my PI the best way of presenting it since it is virtually impossible to fit all the
+details and analysis in one poster. His advice was very simple: to present the main message I’d like
+to tell people and support it with evidence. I was thinking about this one message, and I came up
+with actually four things which were the most surprising for me and which I definitely would want to
+share:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Acridid grasshoppers prefer to feed on introduced plants.&lt;/li&gt;
+  &lt;li&gt;Most of these plants are highly invasive.&lt;/li&gt;
+  &lt;li&gt;Grasshopper prefer to feed on them regardless the experimental conditions (greenhouse, field,
+etc.) or plant material offered (clipped leaves, stems, plants in pots, etc.).&lt;/li&gt;
+  &lt;li&gt;The authors use a very wide range of measurements. From 63 records I counted 35 different
+measurements the authors used to assess grasshopper preferences.&lt;/li&gt;
+  &lt;li&gt;Most of these measurements were not standardized. Only 12 out of 35 measurements were
+standardized in some way (by time or grasshopper weight).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I collected these data and wrote the main parts of these manuscript while we lived in Iowa.  So the
+graphical abstract (see above) is special for me: it is a shot of a grasshopper eating our palm tree
+on our balcony in Iowa, on the 3rd floor!&lt;/p&gt;</content><author><name></name></author><summary type="html">My systematic review and meta-analysis on feeding preferences of acridid grasshoppers on native vs. introduced plants has just been published in Plants, Special Issue “Plants Interacting with other Organisms: Insects”.</summary></entry><entry><title type="html">Summer News!</title><link href="http://localhost:4000/blog/2018/09/summer-news/" rel="alternate" type="text/html" title="Summer News!" /><published>2018-09-08T00:00:00-04:00</published><updated>2018-09-08T00:00:00-04:00</updated><id>http://localhost:4000/blog/2018/09/summer-news</id><content type="html" xml:base="http://localhost:4000/blog/2018/09/summer-news/">&lt;p&gt;Summer is over. It was a busy Summer - full of interesting work, trips, and a lot of writing.
 Looking back, I’m happy to share a few highlights.&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;subject-editor-for-the-journal-of-orthoptera-research&quot;&gt;Subject Editor for the Journal of Orthoptera Research!&lt;/h2&gt;
@@ -426,58 +469,4 @@ GenBank Accession no. MF074139&lt;/p&gt;
 which a partial sequence for the GAPDH gene (GAPC-2, 1139 bp) previously hasn’t been described, and
 who, of course, worked hard on isolating and cloning this part of the gene.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/courses/molecular-biology/&quot;&gt;More details about this project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Our GenBank submission has just been approved! Here it is:</summary></entry><entry><title type="html">Three poster presentations of my students. Great job, guys!</title><link href="http://localhost:4000/blog/2017/04/student-posters/" rel="alternate" type="text/html" title="Three poster presentations of my students. Great job, guys!" /><published>2017-04-21T00:00:00-04:00</published><updated>2017-04-21T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/04/student-posters</id><content type="html" xml:base="http://localhost:4000/blog/2017/04/student-posters/">&lt;p&gt;Today my students presented their molecular biology term projects at 4th Annual Grand View
-Scholarship Symposium. Very exciting! &lt;!--more--&gt;We were very nervous at the beginning of the semester when we
-started cloning the GAPDH gene from cilantro and rosemary (my students’ plant choice!) It was a very
-challenging project: sometime a time period of a lab was simply not enough to finish PCR or check
-bacterial growth. Students did a good job coming to the lab after or between classes to take care of
-their samples. Many thanks to our lab administrator, Jennifer Donnelly, and the department head,
-Idit Hazan, for their help with preparing samples and taking care of plants, as well as all the
-supplies we needed during the semester.&lt;/p&gt;
-
-&lt;p&gt;Anything could have gone wrong at any time, but here we go, we have three beautiful posters and 13
-happy students who are proud of their work:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Omanovic E., Welsch A., Graving S., Christiansen K., Avanesyan A., Hazan I. Sequencing of GAPDH Gene
-in Cilantro and Rosemary.&lt;/li&gt;
-  &lt;li&gt;Christofferson D., Miller R., Piatt D., Backer S., Reyes-Zuniga K., Avanesyan A., Hazan I.
-Sequencing the GAPDH Gene of Rosmarinus officinalis.&lt;/li&gt;
-  &lt;li&gt;Geisinger S., Jones K., Sopher K., Salazar-Klock L., Avanesyan A., Hazan I. Sequencing of GAPDH Gene
-in Coriandrum sativum (Cilantro).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Furthermore, sequence of the GAPDH gene from rosemary, turned out to be particularly good, and we
-are currently preparing it for submission to NCBI GenBank. Feels great!&lt;/p&gt;
-
-&lt;div class=&quot;row mt-4 mb-4&quot;&gt;
-  &lt;div class=&quot;col-12 col-md col-sm-6&quot;&gt;
-    &lt;figure class=&quot;figure mb-0&quot;&gt;
-      &lt;a href=&quot;/assets/content/publications/2017_studentposter1.pdf&quot;&gt;
-        &lt;img class=&quot;ic4f-thumb figure-img img-fluid&quot; src=&quot;/assets/content/publications/2017_studentposter1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-      &lt;figcaption class=&quot;figure-caption text-left&quot;&gt;
-        &lt;strong&gt;Student authors:&lt;/strong&gt; Omanovic E., Welsch A., Graving S., Christiansen K.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-12 col-md col-sm-6&quot;&gt;
-    &lt;figure class=&quot;figure mb-0&quot;&gt;
-      &lt;a href=&quot;/assets/content/publications/2017_studentposter2.pdf&quot;&gt;
-        &lt;img class=&quot;ic4f-thumb figure-img img-fluid&quot; src=&quot;/assets/content/publications/2017_studentposter2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-      &lt;figcaption class=&quot;figure-caption text-left&quot;&gt;
-        &lt;strong&gt;Student authors:&lt;/strong&gt; Christofferson D., Miller R., Piatt D., Backer S., Reyes-Zuniga K.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-12 col-md col-sm-6&quot;&gt;
-    &lt;figure class=&quot;figure mb-0&quot;&gt;
-      &lt;a href=&quot;/assets/content/publications/2017_studentposter3.pdf&quot;&gt;
-        &lt;img class=&quot;ic4f-thumb figure-img img-fluid&quot; src=&quot;/assets/content/publications/2017_studentposter3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-      &lt;figcaption class=&quot;figure-caption text-left&quot;&gt;
-        &lt;strong&gt;Student authors:&lt;/strong&gt; Geisinger S., Jones K., Sopher K., Salazar-Klock L.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid w-40&quot; src=&quot;/assets/content/courses/molecularbiology/gv_symposium.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;figcaption class=&quot;figure-caption&quot;&gt;Annual Grand View Scholarship Symposium. Poster presentations&lt;br /&gt; Des Moines, IA; April 21, 2017.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name></name></author><summary type="html">Today my students presented their molecular biology term projects at 4th Annual Grand View Scholarship Symposium. Very exciting!</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;/courses/molecular-biology/&quot;&gt;More details about this project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Our GenBank submission has just been approved! Here it is:</summary></entry></feed>
