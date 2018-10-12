@@ -31,12 +31,12 @@ I’m going to present a poster on this paper at the upcoming ESA meeting in Van
 discussed with my PI the best way of presenting it since it is virtually impossible to fit all the
 details and analysis in one poster. His advice was very simple: to present the main message I’d like
 to tell people and support it with evidence. I was thinking about this one message, and I came up
-with actually four things which were the most surprising for me and which I definitely would want to
+with five(!) things which were the most surprising for me and which I definitely would want to
 share:
 
 1.	Acridid grasshoppers prefer to feed on introduced plants.
 2.	Most of these plants are highly invasive.
-3.	Grasshopper prefer to feed on them regardless the experimental conditions (greenhouse, field,
+3.	Grasshoppers prefer to feed on them regardless the experimental conditions (greenhouse, field,
     etc.) or plant material offered (clipped leaves, stems, plants in pots, etc.).
 4.	The authors use a very wide range of measurements. From 63 records I counted 35 different
     measurements the authors used to assess grasshopper preferences. 
