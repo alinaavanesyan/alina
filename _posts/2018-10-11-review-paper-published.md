@@ -36,7 +36,7 @@ share:
 
 1.	Acridid grasshoppers prefer to feed on introduced plants.
 2.	Most of these plants are highly invasive.
-3.	Grasshopper prefer to feed on them regardless the experimental conditions (greenhouse, field,
+3.	Grasshoppers prefer to feed on them regardless the experimental conditions (greenhouse, field,
     etc.) or plant material offered (clipped leaves, stems, plants in pots, etc.).
 4.	The authors use a very wide range of measurements. From 63 records I counted 35 different
     measurements the authors used to assess grasshopper preferences. 
