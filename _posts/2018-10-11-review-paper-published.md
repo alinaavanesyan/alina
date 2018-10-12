@@ -31,7 +31,7 @@ I’m going to present a poster on this paper at the upcoming ESA meeting in Van
 discussed with my PI the best way of presenting it since it is virtually impossible to fit all the
 details and analysis in one poster. His advice was very simple: to present the main message I’d like
 to tell people and support it with evidence. I was thinking about this one message, and I came up
-with actually four things which were the most surprising for me and which I definitely would want to
+with five(!) things which were the most surprising for me and which I definitely would want to
 share:
 
 1.	Acridid grasshoppers prefer to feed on introduced plants.
