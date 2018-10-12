@@ -2,6 +2,24 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+  Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
+  their novel host plants: implications for biotic resistance. Plants: Special
+  Issue "Plants Interacting with other Organisms: Insects", 7(4), 83;
+    https://doi.org/10.3390/plants7040083. Invited paper.'   
+  type: journal
+  date: 2018-10-07
+  file: 2018_should_i_eat.pdf
+  projects: [novel_associations]
+
+- entry: '
+    Guédot, C., Avanesyan, A., and K. Hietala-Henschell. (2018) Effect of
+    temperature and humidity on the seasonal phenology of Drosophila suzukii
+    (Diptera: Drosophilidae) in Wisconsin. Environmental Entomology. (Accepted).'
+  type: journal
+  date: 2018-10-05
+  projects: [drosophila]
+
+- entry: '
     Jaffe, B.D., Avanesyan, A., Bal, H. K., Grant, J., Grieshop, M.J., Lee,
     J.C., Liburd, O.E., Rhodes, E., Rodriguez-Saona, C., Sial, A.A., Zhang, A.,
     and C. Guédot (2018) Multistate comparison of attractants and the impact of
@@ -140,13 +158,6 @@
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
 - entry: '
-  Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
-  their novel host plants: implications for biotic resistance. (under review)'
-  type: journal_submit
-  date: 2018-05-18
-  projects: [novel_associations]
-
-- entry: '
     Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2018) Short-term physiological
     response of a native Hawaiian plant, Hibiscus arnottianus, to injury by the
     exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae). (under review)'
@@ -154,16 +165,8 @@
   date: 2018-07-07
   projects: [novel_associations]
  
-- entry: '
-    Guédot, C., Avanesyan, A., and K. Hietala-Henschell. (2018) Effect of
-    temperature and humidity on the seasonal phenology of Drosophila suzukii
-    (Diptera: Drosophilidae) in Wisconsin. (under review)'
-  type: journal_submit
-  date: 2018-07-07
-  projects: [drosophila]
-
 # ------------------------------------------------------------------------------
-# conference presentations
+# upcoming conference presentations
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., and W. Lamp (2018) Use of molecular markers for plant DNA to
@@ -186,6 +189,16 @@
 # ------------------------------------------------------------------------------
 # conference presentations
 # ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
+    their novel host plants: implications for biotic resistance. Postdoctoral
+    Research Symposium. University of Maryland, College Park, MD. Poster
+    presentation.'
+  type: conference
+  date: 2018-09-17
+  file: 2018_should_i_eat_poster.pdf
+  projects: [novel_associations]
+
 - entry: '
     Omanovic E., Welsch A., Graving S., Christiansen K., Avanesyan A., and I.
     Hazan (2017) Sequencing of GAPDH Gene in Cilantro and Rosemary. Annual Grand
