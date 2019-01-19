@@ -11,14 +11,8 @@ Lamp’s lab) I continue my research on ecology and evolution of plant-insect in
 focus on novel associations between native and introduced species.'
 ---
 
-In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
-Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I continue my research on ecology and
-evolution of plant-insect interactions with a focus on novel associations between native and
-introduced species. Currently, I am developing several research projects: I am planning to continue
-exploring herbivore resistance and tolerance in exotic grasses, a potential role of native insect
-generalists in biotic resistance of native communities, and, most recently, I’ve started developing
-a project on host plant usage by a recent invader, the spotted lanternfly. A brief description for
-each project is below. I will be adding more details as the projects develop.
+In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
+Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I continue my research on ecology and evolution of plant-insect interactions with a focus on novel associations between native and introduced species. Currently, I am working on several research projects: (a) herbivore resistance and tolerance in exotic grasses; (b) host plant usage of the potato leafhopper based on molecular markers for ingested plant DNA; (c) DNA barcoding of isopods; (d) biodiversity of agricultural drainage ditches; and (e) external morphology and host plant usage of the invasive spotted lanternfly, using molecular approach, light microscopy and scanning electron microscopy. A brief description for each project is below. I will be adding more details as the projects grow.
 
 <hr>
 
@@ -36,6 +30,8 @@ symposium organized by the Office of Postdoctoral Affairs.
 
 **Update** – 05/18/18: the manuscript has been submitted!
 
+**Update** – 10/07/18: the manuscript has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
+
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
@@ -49,19 +45,15 @@ symposium organized by the Office of Postdoctoral Affairs.
 
 <hr>
 
-## Herbivore resistance in Miscanthus sinensis cultivars
-Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can
-be highly invasive in some states, not all of its cultivars are invasive. This summer I am
-conducting my field and greenhouse experiments to explore plant resistance to grasshopper herbivory,
-how this resistance differs among Miscanthus cultivars, and whether the initially introduced wild
-type demonstrates the highest level of herbivore resistance.
+## Herbivore resistance and tolerance in Miscanthus sinensis cultivars
+Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
 
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-2.png' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Some of the Miscanthus cultivars I consider to study
+    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
     </figcaption>
     </figure>
   </div>
@@ -85,15 +77,15 @@ this method for yet another sap-feeder, the potato leafhopper, to explore its ho
 Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for
 potato leafhopper, Empoasca fabae") also to the
 [ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+**Update** – 11/15/18: presented! 
 
 
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-9.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">This is what grasshoppers ate (Avanesyan, 2014); we hope to
-    find out what leafhoppers would like to feed on.
+    src="{{ '/assets/content/projects/novel_associations/img-11.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Experimental set up (and the results!) for detection of DNA of consumed fava beans in the guts of potato leafhoppers
     </figcaption>
     </figure>
   </div>
@@ -133,6 +125,8 @@ family level (with the aid of textbooks and technology). A lot to learn, a lot t
     </figure>
   </div>
 </div>
+
+**Update** - 12/17/18: I’m done with ‘torturing’ plant specimens. Plant diversity across different sites in Maryland has been analyzed, the plant data have been ‘matched’ to the spider diversity data, and my labmate, Dylan Kutz, will present the results on Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.  
 
 <hr>
 
