@@ -5,7 +5,7 @@ permalink:  /teaching/
 
 ## Courses taught
 
-<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018–present)</p>
+<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (Spring 2018)</p>
 
 * Insect Biodiversity: The Good, The Bad and The Weird (HONR208D; teaching assistant)
 * Aquatic Entomology (ENTM667; teaching assistant)
@@ -41,22 +41,16 @@ permalink:  /teaching/
 * Human Ecology
 * Bioindication
 
-## Mentoring undergraduate students
+## Mentoring students
 
-In 2003 I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
+<strong>Animal Ecology</strong>: In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
 several undergraduate students, including short projects (as a part of their independent research),
-as well as their final theses (a Diploma in Russian academia).
-
-Some of the popular focus areas of such projects included the effect of anthropogenic factors on the
-morphology and diversity of freshwater snails; soil mesofauna under anthropogenic press; and
-population characteristics of aquatic invertebrates.
-
-The main idea of these projects was to study the level of ecological contamination on the territory
-of North-West region of Russia. We collected invertebrates on the territory of our Department’s
-field station (located in the south-west of St.Petersburg Region) and nearby water reservoirs.
-Students learned how to identify organisms, conduct simple morphometric measurements, and apply
-basic biomonitoring methods. <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
+as well as their final theses (a Diploma in Russian academia) <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
 information</a>
+
+<strong>Microscopy</strong>: coming soon
+
+<strong>DNA barcoding</strong>:  coming soon
 
 ## Related publications and presentations
 
