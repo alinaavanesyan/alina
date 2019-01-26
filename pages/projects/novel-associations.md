@@ -61,6 +61,41 @@ Although exotic chinese silver grass, a gorgeous ornamental plant and important 
 
 <hr>
 
+## Host plant usage of the spotted lanternfly 
+I've been working on the spotted lanternfly (SLF) since last Spring. This emerging invasive insect pest is currently rapidly
+spreading in the eastern US, and it has been detected in Maryland in October 2018. Our two grant proposals on studying SLF external morphology and its host plants were recently funded (yay!) and now I'm spending half of my time in the microscope room, and a little bit in the SEM laboratory. I'm curious to see how the labternfy's mouthparts and tarsi are so well adapted to feeding and moving on its host trees. Almost a year later, since I started studying this species, I can’t stop being amazed by SLF unique ecology and behavior. 
+
+**Update** – 01/25/18: I'm also presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
+
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-12.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">The spotted lanternfly, Lycorma delicatula; 4th instars (PA, 2018)
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-14.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">L. delicatula: 3rd and 4th instars infest their host tree (PA, 2018) 
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-13.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">L. delicatula: 3rd and 4th instars (PA, 2018)
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+
 ## Plant DNA detection within gut contents in sap-feeding insects
 Plant DNA detection in insect gut contents is one of the most accurate ways to confirm host plant
 utilization, determine insect diet and interactions with other organisms. Most of the previous
@@ -131,43 +166,7 @@ family level (with the aid of textbooks and technology). A lot to learn, a lot t
 
 <hr>
 
-## Host plant usage of the spotted lanternfly 
-I've been working on the spotted lanternfly (SLF) since last Spring. This emerging invasive insect pest is currently rapidly
-spreading in the eastern US, and it has been detected in Maryland in October 2018. Our two grant proposals on studying SLF external morphology and its host plants were recently funded (yay!) and now I'm spending half of my time in the microscope room, and a little bit in the SEM laboratory. I'm curious to see how the labternfy's mouthparts and tarsi are so well adapted to feeding and moving on its host trees. Almost a year later, since I started studying this species, I can’t stop being amazed by SLF unique ecology and behavior. 
-
-**Update** – 01/25/18: I'm also presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
-
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-1.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">The spotted lanternfly, Lycorma delicatula
-    </figcaption>
-    </figure>
-  </div>
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-3.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">L. delicatula: adult 
-    </figcaption>
-    </figure>
-  </div>
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-7.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">L. delicatula: egg mass
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-Photo credit: [Prof. Michael J. Raupp](http://entomology.umd.edu/raupp-michael-j.html), Department
-of Entomology, University of Maryland ([Bug of the
-week](http://bugoftheweek.com/blog/2018/3/16/help-find-the-spotted-lanternfly-ilycorma-delicatulai)).
+## Other News and updates
 
 
 <div class="ic4f-pubs-project"> {% show_pubs novel_associations %} </div>
