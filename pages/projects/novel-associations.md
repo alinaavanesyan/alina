@@ -77,6 +77,7 @@ this method for yet another sap-feeder, the potato leafhopper, to explore its ho
 Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for
 potato leafhopper, Empoasca fabae") also to the
 [ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+
 **Update** – 11/15/18: presented! 
 
 
@@ -126,19 +127,16 @@ family level (with the aid of textbooks and technology). A lot to learn, a lot t
   </div>
 </div>
 
-**Update** - 12/17/18: I’m done with ‘torturing’ plant specimens. Plant diversity across different sites in Maryland has been analyzed, the plant data have been ‘matched’ to the spider diversity data, and my labmate, Dylan Kutz, will present the results on Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.  
+**Update** - 12/17/18: I’m done with ‘torturing’ plant specimens. Plant diversity across different sites in Maryland has been analyzed, the plant data have been ‘matched’ to the spider diversity data, and my labmate, Dylan Kutz, will present the results at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.  
 
 <hr>
 
 ## Host plant usage of the spotted lanternfly 
-I am currently working on a grant proposal where we propose to study the spotted lanternfly (SLF)
-and its interaction with host plants. This emerging invasive insect pest is currently rapidly
-spreading in the eastern US, moving closer and closer to Maryland. This is a completely new study
-species for me, and while reading more and more about it I can’t stop being amazed by SLF unique
-ecology and behavior. 
+I've been working on the spotted lanternfly (SLF) since last Spring. This emerging invasive insect pest is currently rapidly
+spreading in the eastern US, and it has been detected in Maryland in October 2018. Our two grant proposals on studying SLF external morphology and its host plants were recently funded (yay!) and now I'm spending half of my time in the microscope room, and a little bit in the SEM laboratory. I'm curious to see how the labternfy's mouthparts and tarsi are so well adapted to feeding and moving on its host trees. Almost a year later, since I started studying this species, I can’t stop being amazed by SLF unique ecology and behavior. 
 
-Update – 04/22/18: the grant proposal has recently been submitted to MDA. I’ll keep my fingers
-crossed!
+**Update** – 01/25/18: I'm also presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
+
 
 <div class="row">
   <div class="col-sm">
