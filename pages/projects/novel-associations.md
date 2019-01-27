@@ -166,7 +166,6 @@ family level (with the aid of textbooks and technology). A lot to learn, a lot t
 
 <hr>
 
-## Other News and updates
 
 
 <div class="ic4f-pubs-project"> {% show_pubs novel_associations %} </div>
