@@ -1,0 +1,4 @@
+---
+title: "Busy 2018 ESA meeting in Vancouver!"
+---
+This time the ESA meeting ([2018 ESA, ESC, and ESBC Joint Annual Meeting](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018)) was especially busy for me. I served as a moderator in one session, a judge in two other sessions; <!--more--> I was responsible for setting up our UMD booth in the Exhibit Hall; I also gave a talk and presented a poster – whew! I spent a wonderful time listening various talks, discussing our work on the spotted lanternfly with our colleagues from Penn State University, and of course, enjoying beautiful Vancouver! 
