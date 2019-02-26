@@ -41,16 +41,6 @@ permalink:  /teaching/
 * Human Ecology
 * Bioindication
 
-## Mentoring students
-
-<strong>Animal Ecology</strong>: In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
-several undergraduate students, including short projects (as a part of their independent research),
-as well as their final theses (a Diploma in Russian academia) <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
-information</a>
-
-<strong>Microscopy</strong>: coming soon
-
-<strong>DNA barcoding</strong>:  coming soon
 
 ## Related publications and presentations
 
