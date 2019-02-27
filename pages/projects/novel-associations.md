@@ -45,21 +45,6 @@ symposium organized by the Office of Postdoctoral Affairs.
 
 <hr>
 
-## Herbivore resistance and tolerance in Miscanthus sinensis cultivars
-Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-<hr>
 
 ## Host plant usage of the spotted lanternfly 
 I've been working on the spotted lanternfly (SLF) since last Spring. This emerging invasive insect pest is currently rapidly
@@ -128,6 +113,23 @@ potato leafhopper, Empoasca fabae") also to the
 </div>
 
 <hr>
+
+## Herbivore resistance and tolerance in Miscanthus sinensis cultivars
+Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+<hr>
+
 
 ## Biodiversity of agricultural drainage ditches 
 I’ve recently joined this ongoing project in Dr. Lamp’s lab, and I am currently ‘torturing’
