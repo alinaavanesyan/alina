@@ -9,10 +9,6 @@
       <p class="ic4f-blog-date">– {{ page.date | date: '%B %e, %Y'}}</p>
       {{ content }}
 
-      {% if page.comments %}
-        {% include disqus.html %}
-      {% endif %}
-
     </div>
   </div>
 </div>
