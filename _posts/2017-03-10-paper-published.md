@@ -2,8 +2,7 @@
 title: "Paper published in Insects!"
 ---
 
-My paper from my <a href="{{ site.baseurl }}{% link pages/projects/drosophila-suzukii-raspberry.md %}">postdoctoral work</a> 
-at the University of Wisconsin-Madison has been just published in Insects,
+My paper from my postdoctoral work at the University of Wisconsin-Madison has been just published in Insects,
 in special issue "Invasive insect species<!--more-->:
 
 Avanesyan, A., Jaffe, B.D., and C. Guédot (2017) Isolating spermatheca and determining mating status

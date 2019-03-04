@@ -28,7 +28,7 @@ https://doi.org/10.1093/ee/nvy193'
   type: journal
   date: 2018-10-05
   file: 2018_SWD_phenology.pdf
-  projects: [drosophila]
+  projects: [novel_associations]
 
 - entry: '
     Jaffe, B.D., Avanesyan, A., Bal, H. K., Grant, J., Grieshop, M.J., Lee, J.C.,
@@ -39,7 +39,7 @@ https://doi.org/10.1093/ee/nvy193'
   type: journal  
   date: 2018-04-01
   url: 'https://academic.oup.com/ee/advance-article-abstract/doi/10.1093/ee/nvy052/4970567'
-  projects: [drosophila]
+  projects: [novel_associations]
 
 - entry: '
     Avanesyan, A., Jaffe, B.D., and C. Guédot (2017) Isolating
@@ -50,7 +50,7 @@ https://doi.org/10.1093/ee/nvy193'
   type: journal  
   date: 2017-03-10
   file: 2017_isolating.pdf
-  projects: [drosophila]
+  projects: [novel_associations]
 
 - entry: '
     Avanesyan, A., and T.M. Culley (2017) Tolerance of native and exotic prairie
@@ -429,7 +429,7 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
     Field Day organized by Wisconsin Berry Growers Association. River Falls, WI.'
   type: talk 
   date: 2016-05-01 #known 2016-05
-  projects: [drosophila]
+  projects: [novel_associations]
     
 - entry: '
     Avanesyan A., and T.M. Culley (2014) Interaction of generalist grasshoppers
@@ -509,7 +509,7 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
   type: newsletter
   date: 2016-06-01 #known 2006-06
   file: 2016_exclusion.pdf
-  projects: [drosophila]
+  projects: [novel_associations]
     
 - entry: '
     Avanesyan, A. and C. Guédot. (2016) Raspberry varieties and their infestation
@@ -517,7 +517,7 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
   type: newsletter
   date: 2016-05-01 #known 2016-05
   file: 2016_rasberry.pdf
-  projects: [drosophila]
+  projects: [novel_associations]
     
 # ------------------------------------------------------------------------------
 # genebank submission
