@@ -27,6 +27,7 @@ https://doi.org/10.1093/ee/nvy193'
     (Diptera: Drosophilidae) in Wisconsin. Environmental Entomology 47(6): 1365–1375.'
   type: journal
   date: 2018-10-05
+  file: 2018_SWD_phenology.pdf
   projects: [drosophila]
 
 - entry: '
@@ -176,6 +177,7 @@ host plants: a case study of biotic resistance. Entomological Society of America
 Eastern Branch. Blacksburg, VA. Oral presentation.'
   type: conference_upcoming
   date: 2019-03-10
+  file: 2019_EBESA_talk.pdf
   projects: [novel_associations]
 
 - entry: '
@@ -184,6 +186,7 @@ delicatula, and its association with insect host plants. Entomological Society o
 Meeting, Eastern Branch. Blacksburg, VA. Poster presentation.'
   type: conference_upcoming
   date: 2019-03-11
+  file: 2019_EBESA_poster.pdf
   projects: [novel_associations]
   
 - entry: '
@@ -205,6 +208,7 @@ America Annual Meeting, Eastern Branch. Blacksburg, VA. Oral presentation.'
     Joint Annual Meeting, Vancouver, BC, Canada. Oral presentation.'
   type: conference
   date: 2018-11-11
+  file: 2018_ESA_talk.pdf
   projects: [novel_associations]
 
 - entry: '
@@ -214,6 +218,7 @@ America Annual Meeting, Eastern Branch. Blacksburg, VA. Oral presentation.'
   Meeting, Vancouver, BC, Canada. Poster presentation.'
   type: conference
   date: 2018-11-11
+  file: 2018_ESA_poster.pdf
   projects: [novel_associations]
 
 
@@ -416,6 +421,7 @@ Seminar speaker.'
 Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lecturer.'
   type: talk 
   date: 2018-04-23 #known 2018-04
+  file: 2018_lecture.pdf
   projects: [teaching]
 
 - entry: '
