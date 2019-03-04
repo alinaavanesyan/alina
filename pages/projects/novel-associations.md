@@ -1,5 +1,5 @@
 ---
-title:      Novel plant-insect associations; implications of the lack of coevolution
+title:      "Novel plant-insect associations: molecular, morphological, and behavioral perspectives"
 permalink:  /research/novel-associations/
 menu:       /research/
 type:       project
@@ -7,8 +7,9 @@ project_id: novel_associations
 order:      0
 excerpt:    '
 In my current postdoctoral work at the University of Maryland (Department of Entomology; Dr. Bill
-Lamp’s lab) I continue my research on ecology and evolution of plant-insect interactions with a
-focus on novel associations between native and introduced species.'
+Lamp’s lab) I’m interested in ecology and evolution of plant-insect interactions, and primarily novel interactions between native and
+introduced species. This is a continuation of my previous postdoctoral work at Wisconsin and doctoral
+research at Cincinnati. I’m curious what mechanisms drive such novel interactions, and how introduced species become invasive in natural and managed systems. Currently, I’m working on a variety of projects that involve DNA barcoding, microscopy, morphometric'
 ---
 
 In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
@@ -17,8 +18,7 @@ ecology and evolution of plant-insect interactions, and primarily novel interact
 introduced species. This is a continuation of my previous postdoctoral work at Wisconsin and doctoral
 research at Cincinnati. I’m curious what mechanisms (behavioral, molecular, physiological, etc.) drive
 such novel interactions, and how introduced species become invasive in natural and managed systems.
-Currently, I’m working on a variety of projects that involve field and greenhouse work, DNA
-barcoding, phylogenetics, morphometric analysis, and microscopy. The topics include (a) host plant
+Currently, I’m working on a variety of projects that involve DNA barcoding, microscopy, morphometric analysis, phylogenetics, field and greenhouse work. The topics include (a) host plant
 usage of the potato leafhopper based on molecular markers for ingested plant DNA; (b) DNA
 barcoding in isopods; (c) biodiversity of agricultural drainage ditches; (d) herbivore resistance and
 tolerance in exotic grasses; and (e) external morphology and host plant usage of the invasive spotted

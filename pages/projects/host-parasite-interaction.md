@@ -1,5 +1,5 @@
 ---
-title:      Cellular immune responses of pulmonate snails to infection by trematodes
+title:      "Host-parasite interactions: cellular immune responses of pulmonate snails to infection by trematodes"
 permalink:  /research/host-parasite-interaction/
 menu:       /research/
 type:       project
@@ -7,9 +7,11 @@ project_id: dissertation_cand
 order:      6
 excerpt:    ' 
   The focus of my Candidate of Science dissertation was cellular immune response of Biomphalaria
-  snails to infection by Echinostoma trematodes. Biomphalaria snails are freshwater pulmonate snails,
-  native to Caribbean and South America. In my research, I used two species, B. glabrata and B.
-  pfeifferi.'
+snails to infection by Echinostoma trematodes. Biomphalaria snails are freshwater pulmonate snails,
+native to Caribbean and South America. In my research, I used two species, B. glabrata and B.
+pfeifferi. Biomphalaria glabrata has been a primary model species for investigating snail defense
+mechanisms because it is an intermediate host for the human blood fluke, Schistosoma mansoni, a
+dangerous parasite that infects millions of people worldwide and causes the disease that '
 ---
 
 
