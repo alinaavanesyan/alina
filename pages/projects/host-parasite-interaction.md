@@ -157,6 +157,22 @@ pfeifferi, as well as several local gastropods, such as Planorbis, Planorabarius
 snails, and collected data on the temperature effect on the trematode development in their
 intermediate hosts.
 
+
+---
+## Other projects
+---
+
+## Genetic variation in littoral snail populations
+
+I worked on this project while I was a part-time researcher at the <a
+href="http://www.cytspb.rssi.ru/">Institute of Cytology, RAS</a> in St.  Petersburg, Russia. I
+worked at the Laboratory of Cell Biology in Culture under the direction of <a
+href="https://www.researchgate.net/profile/Natalia_Mikhailova">Dr.  Natalia Mikhailova</a>. The
+project was on molecular phylogeny and ecological adaptations of the Cerastoderma and the Littorina
+snails collected in the intertidal zone of North-European region. We have recently published our
+paper on the evidence of hybridization between two species of littoral snails in the intertidal
+sites of the Barents Sea, using RAPD nuclear marker.
+
 <div class="ic4f-pubs-project">
 {% show_pubs dissertation_cand %}
 </div>

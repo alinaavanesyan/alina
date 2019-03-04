@@ -68,7 +68,7 @@
   type: journal  
   date: 2015-08-17
   file: 2015_microsatellite.pdf
-  projects: [microsatellite]
+  projects: [dissertation_phd]
     
 - entry: '
     Avanesyan, A., and T.M. Culley (2015) Herbivory of native and exotic
@@ -95,7 +95,7 @@
   type: journal  
   date: 2013-07-26
   file: 2013_microspatial.pdf
-  projects: [cytology]
+  projects: [dissertation_cand]
     
 - entry: '
     Ataev, G.L., Dobrovolskij, A.A., Avanessian, A.V., and E.S., Loker (2001) Germinal
@@ -234,7 +234,7 @@
   type: conference 
   date: 2015-07-25
   file: 2015_empirical.pdf
-  projects: [microsatellite]
+  projects: [dissertation_phd]
     
 - entry: '
     Culley, T. M., and Avanesyan A. (2014) Estimating the tolerance of native and
@@ -312,7 +312,7 @@
   type: conference 
   date: 2010-11-01 #known 2010-11
   file: 2010_phylogenetic.pdf
-  projects: [phylogenetics]
+  projects: [dissertation_phd]
     
 - entry: '
     Avanesyan A., Stamper T.I., and R. DeBry (2010) Infection rate of grasshoppers
@@ -322,7 +322,7 @@
   type: conference 
   date: 2010-03-01 #known 2010-03
   file: 2010_infection.pdf
-  projects: [phylogenetics]
+  projects: [dissertation_phd]
     
 - entry: '
     Berendzen, P.B., J.D. Ophus and A.V. Avanesyan. (2007) A cross-cultural study

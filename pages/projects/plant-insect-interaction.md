@@ -107,6 +107,66 @@ from grasshopper guts, which had important applications: from a better understan
   %}
 </div>
 
+---
+## Other projects
+---
+
+
+## Microsatellite motif study   
+
+During my doctoral studies at Cincinnati, I was also involved in microsatellite motif study
+conducted in Dr. Theresa Culley’s lab. Microsatellites, also known as simple sequence repeats (SSR)
+or short tandem repeats (STR), are typically defined as repeated sequences of 1-6 bases found
+throughout the nuclear and plastid genomes of eukaryotes. For many researchers, microsatellites
+continue to be the marker of choice for surveys of genetic diversity and structure, as well as
+paternity analysis and mating system estimates in which codominance is essential.
+
+In this project we explored the relationship between microsatellite motif type and detectable
+genetic variation in plant populations, which is critical when a researcher determines which markers
+are associated with higher levels of genetic variation. To guide researchers in their choice of
+molecular markers, we conducted a literature review based on 6,616 microsatellite markers published
+from 1997-2012. We examined relationships between heterozygosity (He or Ho) and allele number (A)
+with the following marker characteristics: repeat type, motif length, repeat frequency, and
+microsatellite size, as well as their variations across taxa. Our results showed no significant
+differences in genetic variation between imperfect and perfect repeat types, but dinucleotide motif
+lengths exhibited significantly higher A, He, and Ho than most other motifs. Repeat frequency was
+positively correlated with A, He, and Ho, but correlations with microsatellite size were minimal or
+non-significant. We concluded that researchers should carefully consider their choices specific to
+the desired application; and if researchers aim to find high genetic variation, dinucleotide motif
+lengths with large repeat frequencies are recommended.  
+
+## Phylogenetic relationships of the Sarcophagidae (Diptera)
+
+I conducted this project in Dr. Ron DeBry’s lab at the beginning of my doctoral program at the
+University of Cincinnati. Flies of the Sarcophagidae family are known as forensically important
+insects; that is why studies of their identification and systematic relationships are critically
+important. The phylogenetic analysis which included mtDNA (COI, COII and ND4) provided good
+resolution for most nodes. However, the mtDNA gene tree might not be identical to the species tree,
+so it was necessary to obtain additional data from nuclear genes. Such new data might increase the
+support for the mtDNA tree or support a different phylogeny. Our results showed that adding nuclear
+PER gene in most cases maintained or improved support in the Bayesian Inference tree. However, we
+also find support for some novel relationships.
+
+As a side project, I also worked on host-parasite interaction between sarcophagid flies and
+grasshoppers. Grasshoppers cause significant damage to crops and rangeland which leads to economic
+losses in the US and worldwide. Chemical insecticides are traditionally used to prevent
+grasshoppers’ outbreaks but these chemicals are harmful to the ecosystem and are costly for pest
+managers. Parasitic flesh flies are one promising approach to biological control of grasshoppers.
+Fly larvae have a noticeable impact on reproductive physiology and survival of grasshoppers. This
+topic had potential applications for biological control of grasshoppers. I went on two collection
+trips to Montana and Iowa and maintained grasshoppers in the lab to observe the presence of
+parasitoids. However, I did not detect any, which might be explained by a relatively low natural
+infection rate (<3%). I continued to work with current literature, which contained controversial
+information about this host-parasite model and I tried to figure out what species of flies can
+infect what species of grasshoppers based on North-American experimental studies.
+
+
+
+
+
+
+
+
 <div class="ic4f-pubs-project">
 {% show_pubs dissertation_phd %}
 </div>
