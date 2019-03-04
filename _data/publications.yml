@@ -2,6 +2,16 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+  Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2019) Short-term physiological response of
+a native Hawaiian plant, Hibiscus arnottianus, to injury by the exotic leafhopper, Sophonia
+orientalis (Hemiptera: Cicadellidae). Environmental Entomology XX(XX): 1-7,
+https://doi.org/10.1093/ee/nvy193' 
+  type: journal
+  date: 2019-01-05
+  file: 2019_sophonia.pdf
+  projects: [novel_associations]
+  
+- entry: '
   Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
   their novel host plants: implications for biotic resistance. Plants: Special
   Issue "Plants Interacting with other Organisms: Insects", 7(4), 83;
@@ -14,7 +24,7 @@
 - entry: '
     Guédot, C., Avanesyan, A., and K. Hietala-Henschell. (2018) Effect of
     temperature and humidity on the seasonal phenology of Drosophila suzukii
-    (Diptera: Drosophilidae) in Wisconsin. Environmental Entomology. (Accepted).'
+    (Diptera: Drosophilidae) in Wisconsin. Environmental Entomology 47(6): 1365–1375.'
   type: journal
   date: 2018-10-05
   projects: [drosophila]
@@ -156,23 +166,44 @@
 # ------------------------------------------------------------------------------
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
-- entry: '
-    Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2018) Short-term physiological
-    response of a native Hawaiian plant, Hibiscus arnottianus, to injury by the
-    exotic leafhopper, Sophonia orientalis (Hemiptera: Cicadellidae). (under review)'
-  type: journal_submit
-  date: 2018-07-07
-  projects: [novel_associations]
- 
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
+ 
+- entry: '
+  Avanesyan, A., and W. Lamp (2019) Feeding preferences of native acridid grasshoppers for novel
+host plants: a case study of biotic resistance. Entomological Society of America Annual Meeting,
+Eastern Branch. Blacksburg, VA. Oral presentation.'
+  type: conference_upcoming
+  date: 2019-03-10
+  projects: [novel_associations]
+
+- entry: '
+  Avanesyan, A., and W. Lamp (2019) External morphology of the spotted lanternfly, Lycorma
+delicatula, and its association with insect host plants. Entomological Society of America Annual
+Meeting, Eastern Branch. Blacksburg, VA. Poster presentation.'
+  type: conference_upcoming
+  date: 2019-03-11
+  projects: [novel_associations]
+  
+- entry: '
+  Kutz, D., Avanesyan, A., and W. Lamp (2019) Drainage ditches as sources of beneficial spiders
+on farms: A closer look at plant-spider community associations. Entomological Society of
+America Annual Meeting, Eastern Branch. Blacksburg, VA. Oral presentation.'
+  type: conference_upcoming
+  date: 2019-03-09
+  projects: [novel_associations]
+
+# ------------------------------------------------------------------------------
+# conference presentations
+# ------------------------------------------------------------------------------
+
 - entry: '
   Avanesyan, A., and W. Lamp (2018) Use of molecular markers for plant DNA to
   determine host plant usage for potato leafhopper, Empoasca fabae. Annual
   Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC
     Joint Annual Meeting, Vancouver, BC, Canada. Oral presentation.'
-  type: conference_upcoming
+  type: conference
   date: 2018-11-11
   projects: [novel_associations]
 
@@ -181,13 +212,11 @@
   their novel host plants: implications for biotic resistance. Annual Meeting
   of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual
   Meeting, Vancouver, BC, Canada. Poster presentation.'
-  type: conference_upcoming
+  type: conference
   date: 2018-11-11
   projects: [novel_associations]
 
-# ------------------------------------------------------------------------------
-# conference presentations
-# ------------------------------------------------------------------------------
+
 - entry: '
     Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
     their novel host plants: implications for biotic resistance. Postdoctoral
@@ -365,6 +394,30 @@
 # ------------------------------------------------------------------------------
 # invited talks
 # ------------------------------------------------------------------------------
+- entry: '
+    Avanesyan, A. (2019) Spotted lanternfly: information and update. Maryland Organic Food &
+Farming Association, Maryland Dept. of Agriculture, Annapolis, MD.'
+  type: talk 
+  date: 2019-02-23 #known 2019-02
+  file: 2019_moffa.pdf
+  projects: [novel_associations]
+
+- entry: '
+   Avanesyan, A. (2018) Novel plant-insect associations: implications of the lack of coevolution.
+Department of Entomology, University of Maryland, College Park, MD; weekly seminar series.
+Seminar speaker.'
+  type: talk 
+  date: 2018-11-30 #known 2018-11
+  file: 2018_seminar_talk.pdf
+  projects: [novel_associations]
+  
+- entry: '
+    Avanesyan, A. (2018) Ecology of invasive species, consequences on society. Department of
+Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lecturer.'
+  type: talk 
+  date: 2018-04-23 #known 2018-04
+  projects: [teaching]
+
 - entry: '
     Avanesyan A. (2016). Identifying and controlling spotted wing drosophila. Berry
     Field Day organized by Wisconsin Berry Growers Association. River Falls, WI.'

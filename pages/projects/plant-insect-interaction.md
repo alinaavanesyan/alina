@@ -108,7 +108,7 @@ from grasshopper guts, which had important applications: from a better understan
 </div>
 
 ---
-## Other projects
+# Other projects
 ---
 
 
