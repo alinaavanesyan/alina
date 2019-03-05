@@ -63,6 +63,32 @@ spreading in the eastern US, and it has been detected in Maryland in October 201
 
 **Update** - 02/28/19: I've finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi. Most of the beautiful SEM images are included in <a href="{{ 'assets/content/publications/2019_EBESA_poster.pdf' | relative_url }}"> my poster</a> for the upcoming EB-ESA meeting.
 
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-15.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Tarsal tip of the 3rd instar: tarsal claws + arolium
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-16.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Labium tip of the 3rd instar with numerous sensilla
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-17.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Labrum and stylets of the 4th instar
+    </figcaption>
+    </figure>
+  </div>
+</div>
 
 <hr>
 
