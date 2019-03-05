@@ -126,6 +126,61 @@ potato leafhopper, Empoasca fabae") also to the
 
 <hr>
 
+## Wetland-stream connectivity: DNA barcoding of native isopods as a tool for assessing watershed connectivity
+
+This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetland sites and streams in Maryland Delmarva Bays Wetlands we explore the potential connectivity between wetland and stream communities. Morphological identification of isopod species is tricky, and DNA barcoding, which I’m focusing on, is very helpful for estimating how ‘close’ wetland isopod species are to the isopod species inhabiting streams. I’m currently mentoring three students in this DNA barcoding work, and together with my mentees we isolate and sequence a portion of mitochondrial gene, cytochrome oxidase 1 (CO1), create a reference library of these sequences, and using a BLAST search engine in the NCBI GenBank database we assess species and genera identity of isopods. 
+
+**Update** - 02/22/19: Nina, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-18.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Maryland Delmarva Bays Wetlands
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-19.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Collecting isopods
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/nina-2.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">A catch with aquatic isopods
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-20.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Developing PCR protocol with a black fly sample (BF) as a control
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/nina-3.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">First successful amplification! 
+    </figcaption>
+    </figure>
+  </div>
+  </div>
+
+
+<hr>
+
 ## Should I eat or should I go: acridid grasshoppers and their novel host plants
 This is a systematic review I was working on last year (manuscript submitted). The review aimed to
 identify patterns of grasshopper feeding preferences for native versus introduced plants and,
