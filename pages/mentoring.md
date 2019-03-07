@@ -64,32 +64,7 @@ Additionally, Claire compiled a large dataset for temperature and humidity data 
 
 <hr>
 
-## Animal Ecology
-In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
-several undergraduate students, including short projects (as a part of their independent research),
-as well as their final theses (a Diploma in Russian academia) <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
-information</a>
-{% assign path="/assets/content/courses/animalecology/studentwork/" %}
-
-{% for i in (0..1) %}
-  <div class="row mt-4 mb-4">
-  {% for j in (1..3) %}
-    {%- capture id -%}{{ i | times: 3 | plus: j }}{%- endcapture -%}
-    <div class="col-12 col-md col-sm-6">
-      <figure class="figure mb-0">
-      <img id="mtrigger-{{ id }}" class="ic4f-mtrig ic4f-zoomin figure-img img-fluid" src="{{ site.baseurl }}{{ path }}tiger{{ id }}-s.jpg" alt="">
-      </figure>
-    </div>
-  {% endfor %}
-  </div>
-{% endfor %}
-Photo credit: Alexandr Mogilev. Thesis project: Ecological adaptations of the Felidae family: example of the Siberian tiger, Pantera tigris altaica (Leningrad Zoo, St. Petersburg, Russia, 2005)
-
-
-<hr>
-<hr>
-
-# PlantingScience Mentor
+## PlantingScience Mentor
 
 
 As a [PlantingScience fellow](https://plantingscience.org/members/5520/profile), during summer/fall 2017 I participated in the [PlantingScience program](https://plantingscience.org/) (Botanical Society of America; Digging Deeper project). I was an online scientist mentor and liaison for student research teams (high school and middle school students).
@@ -115,3 +90,27 @@ Since then, I stayed with PlantingSceince, and I've been serving as a scientist 
     src="{{ '/assets/content/misc/plantingscience3-s.jpg' | relative_url }}" alt="">
   <figcaption class="figure-caption">A wonderful field trip to the Garden of the Gods. July 26, 2017. Colorado Springs, CO.</figcaption>
 </figure>
+
+<hr>
+
+## Animal Ecology
+In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
+several undergraduate students, including short projects (as a part of their independent research),
+as well as their final theses (a Diploma in Russian academia) <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
+information</a>
+{% assign path="/assets/content/courses/animalecology/studentwork/" %}
+
+{% for i in (0..1) %}
+  <div class="row mt-4 mb-4">
+  {% for j in (1..3) %}
+    {%- capture id -%}{{ i | times: 3 | plus: j }}{%- endcapture -%}
+    <div class="col-12 col-md col-sm-6">
+      <figure class="figure mb-0">
+      <img id="mtrigger-{{ id }}" class="ic4f-mtrig ic4f-zoomin figure-img img-fluid" src="{{ site.baseurl }}{{ path }}tiger{{ id }}-s.jpg" alt="">
+      </figure>
+    </div>
+  {% endfor %}
+  </div>
+{% endfor %}
+Photo credit: Alexandr Mogilev. Thesis project: Ecological adaptations of the Felidae family: example of the Siberian tiger, Pantera tigris altaica (Leningrad Zoo, St. Petersburg, Russia, 2005)
+
