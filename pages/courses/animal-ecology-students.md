@@ -42,7 +42,9 @@ animals and how to improve their life conditions.
   {% endfor %}
   </div>
 {% endfor %}
- 
+
+**Photo credit**: Alexandr Mogilev. Thesis project: Ecological adaptations of the Felidae family: example of the Siberian tiger, Pantera tigris altaica (Leningrad Zoo, St. Petersburg, Russia, 2005)
+
 I enjoyed working with my students; some of them were really enthusiastic and even involved high
 school students from local schools to participate in their research projects. Some of the most
 impressive results of students’ projects were presented at departmental and university conferences

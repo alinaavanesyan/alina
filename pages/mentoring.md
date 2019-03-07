@@ -1,17 +1,13 @@
 ---
-title:      Mentoring 
+title:      Mentoring Students
 permalink:  /mentoring/
-excerpt:    "
-  As a PlantingScience fellow, since summer 2017 I’ve been participating in the PlantingScience
-  program (Botanical Society of America; Digging Deeper project). I am an online scientist mentor and
-  liaison for student research teams (high school and middle school students)."
+
 ---
-## Mentoring students
 
+<hr>
 
-
-
-<strong>DNA barcoding</strong>:  In my current postdoctoral work at the University of Maryland I've been mentoring several students in DNA barcoding work. This work has been the main parts of three ongoing projects in our lab: (a) wetland-stream connectivity; (b) determining host plants for potato leafhoppers; and (c) tree host suitability for the spotted lanternfly. I train the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, as well as sequence analysis. 
+## DNA barcoding
+In my current postdoctoral work at the University of Maryland I've been mentoring several students in DNA barcoding work. This work has been the main parts of three ongoing projects in our lab: (a) wetland-stream connectivity; (b) determining host plants for potato leafhoppers; and (c) tree host suitability for the spotted lanternfly. I train the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, as well as sequence analysis. 
 
 'Wetland-stream connectivity' connectivity is one of the most exciting projects; quite recently, Nina, my mentee, has created a reference library of mitochondrial sequences from stream isopod species - we will then BLAST sequences from wetland isopod individuals against this library to determine the matches and estimate how 'close' wetland species are to stream species. 
 
@@ -26,9 +22,6 @@ excerpt:    "
     </figcaption>
     </figure>
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
@@ -37,7 +30,8 @@ excerpt:    "
     </figcaption>
     </figure>
   </div>
-</div>
+  </div>
+
 
 <div class="row">
   <div class="col-sm">
@@ -50,7 +44,10 @@ excerpt:    "
   </div>
 </div>
 
-<strong>Microscopy</strong>: During my postdoctoral work at the University of Wisconsin-Madison I trained a high school student in tissue dissection and isolation, slide preparation, tissue and cell identification, morphological analysis. Claire did a research project on the spotted wing drosophila through the Biotechnology Youth Apprenticeship program. Claire learned how to use a new protocol I developed for dissecting fly tissues and determining fly mating status. She successfully applied this new technique to different fly specimens; she also created beautiful illustrations for an invited manuscript which we published later in Insects. Here are some of the figures Claire made for our <a href="https://www.ncbi.nlm.nih.gov/pubmed/28287438">paper</a>:
+<hr>
+
+## Microscopy
+During my postdoctoral work at the University of Wisconsin-Madison I trained a high school student in tissue dissection and isolation, slide preparation, tissue and cell identification, morphological analysis. Claire did a research project on the spotted wing drosophila through the Biotechnology Youth Apprenticeship program. Claire learned how to use a new protocol I developed for dissecting fly tissues and determining fly mating status. She successfully applied this new technique to different fly specimens; she also created beautiful illustrations for an invited manuscript which we published later in Insects. Here are some of the figures Claire made for our <a href="https://www.ncbi.nlm.nih.gov/pubmed/28287438">paper</a>:
 
 <div class="row">
   <div class="col-sm">
@@ -65,14 +62,34 @@ excerpt:    "
 
 Additionally, Claire compiled a large dataset for temperature and humidity data we used in <a href="https://academic.oup.com/ee/article-abstract/47/6/1365/5159616">another paper</a> on the effect of temperature and humidity on the seasonal phenology of the spotted wing drosophila. 
 
+<hr>
 
-<strong>Animal Ecology</strong>: In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
+## Animal Ecology
+In 2003, at Herzen State University, I started teaching a course on Animal Ecology. Since then, I’ve supervised the research of
 several undergraduate students, including short projects (as a part of their independent research),
 as well as their final theses (a Diploma in Russian academia) <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology-students.md %}">...more
 information</a>
+{% assign path="/assets/content/courses/animalecology/studentwork/" %}
+
+{% for i in (0..1) %}
+  <div class="row mt-4 mb-4">
+  {% for j in (1..3) %}
+    {%- capture id -%}{{ i | times: 3 | plus: j }}{%- endcapture -%}
+    <div class="col-12 col-md col-sm-6">
+      <figure class="figure mb-0">
+      <img id="mtrigger-{{ id }}" class="ic4f-mtrig ic4f-zoomin figure-img img-fluid" src="{{ site.baseurl }}{{ path }}tiger{{ id }}-s.jpg" alt="">
+      </figure>
+    </div>
+  {% endfor %}
+  </div>
+{% endfor %}
+Photo credit: Alexandr Mogilev. Thesis project: Ecological adaptations of the Felidae family: example of the Siberian tiger, Pantera tigris altaica (Leningrad Zoo, St. Petersburg, Russia, 2005)
 
 
-## PlantingScience Mentor
+<hr>
+<hr>
+
+# PlantingScience Mentor
 
 
 As a [PlantingScience fellow](https://plantingscience.org/members/5520/profile), during summer/fall 2017 I participated in the [PlantingScience program](https://plantingscience.org/) (Botanical Society of America; Digging Deeper project). I was an online scientist mentor and liaison for student research teams (high school and middle school students).

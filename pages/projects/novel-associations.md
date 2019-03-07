@@ -130,7 +130,7 @@ potato leafhopper, Empoasca fabae") also to the
 
 This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetland sites and streams in Maryland Delmarva Bays Wetlands we explore the potential connectivity between wetland and stream communities. Morphological identification of isopod species is tricky, and DNA barcoding, which I’m focusing on, is very helpful for estimating how ‘close’ wetland isopod species are to the isopod species inhabiting streams. I’m currently mentoring three students in this DNA barcoding work, and together with my mentees we isolate and sequence a portion of mitochondrial gene, cytochrome oxidase 1 (CO1), create a reference library of these sequences, and using a BLAST search engine in the NCBI GenBank database we assess species and genera identity of isopods. 
 
-**Update** - 02/22/19: Nina, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
+
 
 <div class="row">
   <div class="col-sm">
@@ -177,7 +177,8 @@ This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetl
     </figure>
   </div>
   </div>
-
+  
+**Update** - 02/22/19: Nina, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
 
 <hr>
 
