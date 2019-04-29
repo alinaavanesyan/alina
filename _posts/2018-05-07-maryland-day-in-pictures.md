@@ -2,7 +2,7 @@
 title: "Maryland Day in pictures"
 ---
 
-We spent a wonderful time on campus celebrating our annual [Maryland Day](https://marylandday.umd.edu/)! I was really impressed how
+We had a wonderful time on campus celebrating our annual [Maryland Day](https://marylandday.umd.edu/)! I was really impressed how
 well everything was organized and how many things there were to do with friends and family, and of
 course with little and not so little kids. <!--more-->We came there for 2 hours and stayed for the whole day!
 My daughter enjoyed our insect petting zoo very much, although she refused to touch the tarantula

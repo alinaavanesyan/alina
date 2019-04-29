@@ -26,14 +26,10 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/misc/nina-2.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Nina's first catch. Isopods are cool!
+    <figcaption class="figure-caption">Nina's first catch. Isopods are cool! (collection trip; October 31, 2018)
     </figcaption>
     </figure>
   </div>
-  </div>
-
-
-<div class="row">
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
@@ -42,7 +38,20 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
     </figcaption>
     </figure>
   </div>
+  </div>
+
+**Update** - 04/26/19: Nina succesfully presented the final results of her year-long project at her school's research symposium!
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/nina001.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Nina presented her final poster at the ERHS Research Symposium (April 26, 2019; Greenbelt, MD) 
+    </figcaption>
+    </figure>
+  </div>
 </div>
+
 
 <hr>
 
