@@ -1,5 +1,5 @@
 ---
-title:      'Molecular and behavioral mechanisms of novel plant-insect interactions'
+title:      'Ph.D. research: Molecular and behavioral mechanisms of novel plant-insect interactions'
 permalink:  /research/plant-insect-interaction/
 menu:       /research/
 type:       project
