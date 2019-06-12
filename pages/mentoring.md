@@ -17,16 +17,8 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/nina-1.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Maryland Delmarva Bays Wetlands. Nina's first collection trip. (October 31, 2018)
-    </figcaption>
-    </figure>
-  </div>
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/nina-2.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Nina's first catch. Isopods are cool! (collection trip; October 31, 2018)
+    src="{{ '/assets/content/projects/novel_associations/img-20.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Developing PCR protocol with a black fly sample (BF) as a control (Oct-Nov, 2018)
     </figcaption>
     </figure>
   </div>
@@ -34,7 +26,7 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/misc/nina-3.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption"> A month later: Nina's first successful PCR amplification of isopod mitochondrial COI gene (December 10, 2018)
+    <figcaption class="figure-caption">Nina's first successful PCR amplification of isopod mitochondrial COI gene (December 10, 2018)
     </figcaption>
     </figure>
   </div>
@@ -52,7 +44,7 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
   </div>
 </div>
 
-
+**Update** - 05/25/19: We've submitted 5 sequences to GenBank with my other mentees who worked on our 'Plant DNA detection from sap-feeders'-project. All the submissions have been approved and accession numbers have been assigned. Very exciting! 
 <hr>
 
 ## Microscopy

@@ -3,9 +3,8 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2019) Short-term physiological response of
-a native Hawaiian plant, Hibiscus arnottianus, to injury by the exotic leafhopper, Sophonia
-orientalis (Hemiptera: Cicadellidae). Environmental Entomology XX(XX): 1-7,
-https://doi.org/10.1093/ee/nvy193' 
+  a native Hawaiian plant, Hibiscus arnottianus, to injury by the exotic leafhopper, Sophonia
+  orientalis (Hemiptera: Cicadellidae). Environmental Entomology 48(2): 363-369.' 
   type: journal
   date: 2019-01-05
   file: 2019_sophonia.pdf
@@ -167,10 +166,51 @@ https://doi.org/10.1093/ee/nvy193'
 # ------------------------------------------------------------------------------
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
+- entry: '
+  Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (Submitted to PLOS ONE)'
+  type: journal_submit
+  date: 2019-06-04
+  projects: [novel_associations]
+
+- entry: '
+  Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
+  type: journal_prep
+  date: 2019-06-05
+  projects: [novel_associations]
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
- 
+- entry: '
+  Avanesyan, A., Maugel, T., and W. Lamp. (2019) External morphology and developmental
+changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula.
+Annual Meeting of the Entomological Society of America, St. Lois, MO. Poster presentation. '
+  type: conference_upcoming
+  date: 2019-06-08
+  projects: [novel_associations] 
+
+- entry: '
+  Smith, D., Avanesyan, A., and W. Lamp. (2019) Are natural enemies related to plant diversity in
+agricultural drainage ditches? Annual Meeting of the Entomological Society of America, St. Lois,
+MO. Poster presentation. '
+  type: conference_upcoming
+  date: 2019-06-08
+  projects: [novel_associations]
+
+- entry: '
+  Kutz, D., Avanesyan, A., and W. Lamp. (2019) Drainage ditches as sources of beneficial spiders
+on farms to enhance conservation biological control. Annual Meeting of the Entomological
+Society of America, St. Lois, MO. Oral presentation. '
+  type: conference_upcoming
+  date: 2019-06-08
+  projects: [novel_associations]
+
+#------------------------------------------------
+# conference presentations
+#------------------------------------------------
+
+
+
 - entry: '
   Avanesyan, A., and W. Lamp (2019) Feeding preferences of native acridid grasshoppers for novel
 host plants: a case study of biotic resistance. Entomological Society of America Annual Meeting,
@@ -400,6 +440,14 @@ America Annual Meeting, Eastern Branch. Blacksburg, VA. Oral presentation.'
 # invited talks
 # ------------------------------------------------------------------------------
 - entry: '
+    Avanesyan, A. (2019) Ecology of invasive species, consequences on society. Department of
+Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lecturer.'
+  type: talk 
+  date: 2019-06-08 #known 2018-04
+  file: guest-lecture-2019.pdf
+  projects: [teaching]
+
+- entry: '
     Avanesyan, A. (2019) Spotted lanternfly: information and update. Maryland Organic Food &
 Farming Association, Maryland Dept. of Agriculture, Annapolis, MD.'
   type: talk 
@@ -522,6 +570,42 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
 # ------------------------------------------------------------------------------
 # genebank submission
 # ------------------------------------------------------------------------------
+- entry: '
+    Stancliff, B., Avanesyan, A. and W. Lamp. (2019) Vicia faba tRNA-Leu (trnL) gene, partial
+sequence; chloroplast. Direct Submission, GenBank Accession no. MK934667'
+  type: genbank
+  date: 2019-06-08
+  projects: [novel_associations]
+  
+- entry: '
+    Stancliff, B., Smith, D., Avanesyan, A. and W. Lamp. (2019) Pisum sativum tRNA-Leu (trnL)
+gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK919208'
+  type: genbank
+  date: 2019-06-07
+  projects: [novel_associations]
+
+- entry: '
+    Stancliff, B., Abdelwahab, O., Avanesyan, A. and W. Lamp. (2019) Vigna unguiculata tRNA-
+Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no.
+MK883492'
+  type: genbank
+  date: 2019-06-07
+  projects: [novel_associations]
+
+- entry: '
+    Stancliff, B., Ho, J., Avanesyan, A. and W. Lamp. (2019) Helianthus annuus tRNA-Leu (trnL)
+gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK875279'
+  type: genbank
+  date: 2019-06-07
+  projects: [novel_associations]
+  
+- entry: '
+    Avanesyan, A., and W. Lamp. (2019) Vicia faba var. major isolate PLH_fb tRNA-Leu (trnL)
+gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK837073'
+  type: genbank
+  date: 2019-06-07
+  projects: [novel_associations]
+
 - entry: '
     Backer, S., Christiansen, K., Christofferson, D., Geisinger, S., Graving, S.,
     Jones, K., Miller, R., Omanovic, E., Piatt, D., Reyes-Zuniga, K.,

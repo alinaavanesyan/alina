@@ -1,5 +1,5 @@
 ---
-title:      'Interactions between native and exotic grasses and generalist insect herbivores'
+title:      'Molecular and behavioral mechanisms of novel plant-insect interactions'
 permalink:  /research/plant-insect-interaction/
 menu:       /research/
 type:       project
@@ -9,7 +9,7 @@ excerpt:    '
 In my Ph.D. dissertation at the University of Cincinnati I explored the interactions between insect
 herbivores and their host plants within the context of invasion ecology. Specifically, I was
 interested in the potential impact of generalist insects on the successful spread of exotic plants.
-Using a grasses-grasshoppers model, I combined behavioral and molecular approaches to explore (1)
+Using a grasses-grasshoppers model, I combined molecular and behavioral approaches to explore (1)
 tolerant and resistant responses of native and exotic grasses to herbivory by grasshoppers, and (2)
 grasshopper feeding preferences on these plants. I conducted laboratory and field experiments at two
 research centers' 
