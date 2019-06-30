@@ -1,5 +1,5 @@
 ---
-title:      'Ph.D. research: Molecular and behavioral mechanisms of novel plant-insect interactions'
+title:      'Ph.D. research: Novel plant-insect interactions; native vs. exotic grasses and their responses to herbivores '
 permalink:  /research/plant-insect-interaction/
 menu:       /research/
 type:       project
@@ -31,27 +31,7 @@ research centers (University of Cincinnati and University of Maryland) to explor
 responses to different insect populations were similar, and whether the insects acted in the same
 way.
 <hr>
-## Plant DNA detection from grasshopper gut contents
 
-As part of my dissertation, I developed a new PCR-based method for accurate detection of plant meals from grasshopper guts, which had not been described in experimental studies. Using the developed protocol, I successfully amplified fragments (~500 bp) of the non-coding region of the chloroplast trnL (UAA) gene from grasshopper guts; the plant DNA was found to be detectable up to twelve hours post ingestion (PI) in nymphs and up to 22 h PI in adult grasshoppers. This <a href="{{ 'assets/content/publications/2014_dna.pdf' | relative_url }}">method</a> was published in Applications in Plant Sciences and was <a href="{{ 'assets/content/publications/2014_dna_pressrelease.pdf' | relative_url }}">featured</a> in Botanical Society of America News, ScienceDaily, ScienceNewsLine, Phys.org, LabRoots, EurekAlert!, as well as Down to Earth (a science
-magazine of The Society For Environmental Communications in India).
-
-<div class="mt-4 mb-4">
-  {% include figure-group.html 
-    hr=0
-    img_path="/assets/content/projects/dissertation_phd/"
-    src1="fig3.jpg" alt1=""
-    src2="dissect.jpg" alt2=""
-  %}
-</div>
-<div class="embed-responsive embed-responsive-16by9 mx-auto w-75">
-  <iframe 
-    class="d-block mx-auto embed-responsive-item"
-    src="https://www.youtube.com/embed/cze938ABUw0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<hr>
 ## Plant resistance and tolerance to herbivory; grasshopper feeding preferences
 
 My study grasses species were: native Andropogon gerardii and Bouteloua curtipendula, and exotic,
@@ -77,6 +57,29 @@ whose help with preparing the plot and growing plants was invaluable.
 </div>
 
   Also see: <a href="{{ site.baseurl }}{% post_url 2013-01-08-how-to-build-a-cage %}">How to build a cage</a>
+<hr>
+
+## Plant DNA detection from grasshopper gut contents
+
+As part of my dissertation, I developed a new PCR-based method for accurate detection of plant meals from grasshopper guts, which had not been described in experimental studies. Using the developed protocol, I successfully amplified fragments (~500 bp) of the non-coding region of the chloroplast trnL (UAA) gene from grasshopper guts; the plant DNA was found to be detectable up to twelve hours post ingestion (PI) in nymphs and up to 22 h PI in adult grasshoppers. This <a href="{{ 'assets/content/publications/2014_dna.pdf' | relative_url }}">method</a> was published in Applications in Plant Sciences and was <a href="{{ 'assets/content/publications/2014_dna_pressrelease.pdf' | relative_url }}">featured</a> in Botanical Society of America News, ScienceDaily, ScienceNewsLine, Phys.org, LabRoots, EurekAlert!, as well as Down to Earth (a science
+magazine of The Society For Environmental Communications in India).
+
+<div class="mt-4 mb-4">
+  {% include figure-group.html 
+    hr=0
+    img_path="/assets/content/projects/dissertation_phd/"
+    src1="fig3.jpg" alt1=""
+    src2="dissect.jpg" alt2=""
+  %}
+</div>
+<div class="embed-responsive embed-responsive-16by9 mx-auto w-75">
+  <iframe 
+    class="d-block mx-auto embed-responsive-item"
+    src="https://www.youtube.com/embed/cze938ABUw0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<hr>
 
 My results from both, behavioral experiments and molecular confirmation of diet, demonstrated that
 exotic grasses have lower resistance (the ability to reduce damage) to grasshopper feeding than
