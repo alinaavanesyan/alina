@@ -7,7 +7,7 @@ permalink:  /teaching/
 
 <p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-2019)</p>
 
-* Evolutionary Biology (CLFS 609J; online course; 3 units; summer 2019; instructor) 
+* <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; summer 2019; instructor) 
 * Insect Biodiversity: The Good, The Bad and The Weird (HONR208D; 3 units; 2018; teaching assistant)
 * Aquatic Entomology (ENTM667; 3 units; 2018; teaching assistant)
 
