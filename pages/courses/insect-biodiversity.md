@@ -64,7 +64,7 @@ WEEK 13. STRANGE DISCOVERIES, NATURAL SELECTION?
 * Lab: Curate collection from Middle Patuxent
 
 WEEK 14. ONE PLANET, NO BOUNDARIES
-* Lecture: Ecology of invasive species, consequences on society: Dr. Alina Avenesyan
+* Lecture: Ecology of invasive species, consequences on society: Dr. Alina Avanesyan
 
 WEEK 15. THE FUTURE OF INSECT LIFE IS OUR FUTURE
 * Conservation and restoration, ecological theory versus practice, societal roles
