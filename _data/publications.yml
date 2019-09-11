@@ -168,19 +168,26 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
-  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (Submitted to PLOS ONE)'
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. '
   type: journal_submit
   date: 2019-06-04
   projects: [novel_associations]
 
 - entry: '
   Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
-  type: journal_prep
-  date: 2019-06-05
+  type: journal_submit
+  date: 2019-09-02
   projects: [novel_associations]
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
+- entry: '
+  Avanesyan, A., and W. Lamp (2019) External morphology of the spotted lanternfly, Lycorma
+delicatula, and its association with insect host plants. Postdoctoral Research Symposium. University of Maryland, College Park, MD. Poster presentation.'
+  type: conference_upcoming
+  date: 2019-09-10
+  projects: [novel_associations] 
+
 - entry: '
   Avanesyan, A., Maugel, T., and W. Lamp. (2019) External morphology and developmental
 changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula.
@@ -570,11 +577,34 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
 # ------------------------------------------------------------------------------
 # genebank submission
 # ------------------------------------------------------------------------------
+
 - entry: '
-    Stancliff, B., Avanesyan, A. and W. Lamp. (2019) Vicia faba tRNA-Leu (trnL) gene, partial
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Eupatorium serotinum tRNA-Leu (trnL)
+gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN395725'
+  type: genbank
+  date: 2019-09-03
+  projects: [novel_associations]
+
+- entry: '
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Lonicera maackii tRNA-Leu (trnL) gene,
+partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN365276'
+  type: genbank
+  date: 2019-09-02
+  projects: [novel_associations]
+
+- entry: '
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Pisum sativum isolate slf-2 tRNA-Leu
+(trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN335637'
+  type: genbank
+  date: 2019-09-01
+  projects: [novel_associations]
+
+- entry: '
+    Stancliff, B., Avanesyan, A. and W. Lamp. (2019) Vicia faba var. major tRNA-Leu (trnL) gene, partial
 sequence; chloroplast. Direct Submission, GenBank Accession no. MK934667'
   type: genbank
   date: 2019-06-08
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MK934667.1'
   projects: [novel_associations]
   
 - entry: '
@@ -582,6 +612,7 @@ sequence; chloroplast. Direct Submission, GenBank Accession no. MK934667'
 gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK919208'
   type: genbank
   date: 2019-06-07
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MK919208.1'
   projects: [novel_associations]
 
 - entry: '
@@ -590,6 +621,7 @@ Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Acces
 MK883492'
   type: genbank
   date: 2019-06-07
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MK883492.1'
   projects: [novel_associations]
 
 - entry: '
@@ -597,6 +629,7 @@ MK883492'
 gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK875279'
   type: genbank
   date: 2019-06-07
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MK875279.1'
   projects: [novel_associations]
   
 - entry: '
@@ -604,6 +637,7 @@ gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK
 gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK837073'
   type: genbank
   date: 2019-06-07
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MK837073.1'
   projects: [novel_associations]
 
 - entry: '
