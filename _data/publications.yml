@@ -168,7 +168,7 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
-  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. '
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (in revision) '
   type: journal_submit
   date: 2019-06-04
   projects: [novel_associations]
@@ -178,15 +178,19 @@
   type: journal_submit
   date: 2019-09-02
   projects: [novel_associations]
+
+# ------------------------------------------------------------------------------
+# manuscripts in preparation 
+# ------------------------------------------------------------------------------
+- entry: '
+  Avanesyan, A., and W.O. Lamp. Variation in plant responses to insect herbviory among the cultivars of the introduced Miscanthus sinensis. '
+  type: journal_prep
+  date: 2019-09-20
+  projects: [novel_associations]
+
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
-- entry: '
-  Avanesyan, A., and W. Lamp (2019) External morphology of the spotted lanternfly, Lycorma
-delicatula, and its association with insect host plants. Postdoctoral Research Symposium. University of Maryland, College Park, MD. Poster presentation.'
-  type: conference_upcoming
-  date: 2019-09-10
-  projects: [novel_associations] 
 
 - entry: '
   Avanesyan, A., Maugel, T., and W. Lamp. (2019) External morphology and developmental
@@ -216,7 +220,12 @@ Society of America, St. Lois, MO. Oral presentation. '
 # conference presentations
 #------------------------------------------------
 
-
+- entry: '
+  Avanesyan, A., and W. Lamp (2019) External morphology of the spotted lanternfly, Lycorma
+delicatula, and its association with insect host plants. Postdoctoral Research Symposium. University of Maryland, College Park, MD. Poster presentation.'
+  type: conference
+  date: 2019-09-13
+  projects: [novel_associations] 
 
 - entry: '
   Avanesyan, A., and W. Lamp (2019) Feeding preferences of native acridid grasshoppers for novel
