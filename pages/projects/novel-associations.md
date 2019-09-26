@@ -82,7 +82,8 @@ spreading in the eastern US, and it has been detected in Maryland in October 201
   </div>
 </div>
 
-**Update** - 06/06/19: Our paper on external morphology of the spotted lanternfly has been submitted to PLOS ONE! 
+**Update** - 06/06/19: Our paper on external morphology of the spotted lanternfly has been submitted to PLOS ONE.
+**Update** - 09/20/19: The paper is currently in revision.  
 
 <hr>
 

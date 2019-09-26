@@ -10,23 +10,32 @@ permalink:  /mentoring/
 In my current postdoctoral work at the University of Maryland I've been mentoring several students in DNA barcoding work. This work has been the main part of several ongoing projects in our lab, such as: wetland-stream connectivity; host plant usage of potato leafhoppers and the spotted lanternfly. Recently, we have also started working on molecular diet confirmation of dragonflies and damselflies conducting DNA barcoding from insect feces. I'm training the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, as well as sequence analysis and depositing the sequences to the NCBI GenBank datase. I'm also mentoring a student on retrieving data from published studies for our planned systematic review on efficiency of various molecular markers for plant DNA detection within insect gut contents.
 
 <h3> (1) Molecular diet analysis </h3> 
-I'm currently mentoring two graduate students and one undergraduate student in their research projects which involve various molecular biology techniques. Two students are working on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we try to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolate plant DNA sequences, conduct sequence analysis, and learn how annotate the sequence and deposit it to GenBank. To date, my mentees succesfully submitted to the GenBank database a total of 7 sequences for the chloroplast trnL-gene. 
+I'm currently mentoring two graduate students and one undergraduate student in their research projects which involve various molecular biology techniques. Two students are working on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we try to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolate plant DNA sequences, conduct sequence analysis, and learn how annotate the sequence and deposit it to GenBank.
+
+To date, my mentees have succesfully submitted to GenBank a total of 7 sequences for the chloroplast trnL-gene. All of them have been approved, and some of them are already available in the NCBI GenBank database: 
 
 1. Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Eupatorium serotinum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN395725
 2. Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Lonicera maackii tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN365276
 3. Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Pisum sativum isolate slf-2 tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN335637
-4. Stancliff, B., Avanesyan, A. and W. Lamp. (2019) Vicia faba var. major tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK934667 
-5. Stancliff, B., Smith, D., Avanesyan, A. and W. Lamp. (2019) Pisum sativum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK919208 
-6. Stancliff, B., Abdelwahab, O., Avanesyan, A. and W. Lamp. (2019) Vigna unguiculata tRNA- Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK883492 
-7. Stancliff, B., Ho, J., Avanesyan, A. and W. Lamp. (2019) Helianthus annuus tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MK875279
-
-Four of these sequences were obtained by my former mentee, Bryan, a high school student. Bryan was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. Bryan joined us in January knowing nothing about DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four unique plant sequences. His work was the essential part of our paper on the use of molecular markers for plant DNA detection from leafhopper gut contents (the manuscript is currently submitted). [Bryan was admitted to the University of Maryland, Molecular Biology program](https://www.facebook.com/johncarrollschool/photos/a.549607655156223/2147147948735511/?type=3&theater). I'm so happy for him!  
+4. Stancliff, B., Avanesyan, A. and W. Lamp. (2019) Vicia faba var. major tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK934667](https://www.ncbi.nlm.nih.gov/nuccore/MK934667.1) 
+5. Stancliff, B., Smith, D., Avanesyan, A. and W. Lamp. (2019) Pisum sativum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK919208](https://www.ncbi.nlm.nih.gov/nuccore/MK919208.1) 
+6. Stancliff, B., Abdelwahab, O., Avanesyan, A. and W. Lamp. (2019) Vigna unguiculata tRNA- Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK883492](https://www.ncbi.nlm.nih.gov/nuccore/MK883492.1) 
+7. Stancliff, B., Ho, J., Avanesyan, A. and W. Lamp. (2019) Helianthus annuus tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK875279](https://www.ncbi.nlm.nih.gov/nuccore/MK875279.1)
 
 
+Four of these sequences were obtained by my former mentee, Bryan, a high school student!
+
+Bryan was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. Bryan joined us in January knowing nothing about wet lab techinques for DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four plant sequences. His work was the essential part of our paper on the use of molecular markers for plant DNA detection from leafhopper gut contents (the manuscript is currently submitted). 
+
+**Update** - 09/23/19: I was very pleased to learn recently that Bryan was admitted to the University of Maryland where he continues studying Molecular Biology. 
+
+Bryan was also featured in [The John Carroll School News](https://www.facebook.com/johncarrollschool/photos/a.549607655156223/2147147948735511/?type=3&theater). 
+
+I'm so happy for him!
 
 <h3> (2) Wetland-stream connectivity: DNA barcoding of isopods </h3> 
 
-'Wetland-stream connectivity' connectivity is one of the most exciting projects; quite recently, Nina, my mentee, has created a reference library of mitochondrial sequences from stream isopod species - we will then BLAST sequences from wetland isopod individuals against this library to determine the matches and estimate how 'close' wetland species are to stream species. 
+'Wetland-stream connectivity' connectivity is yet another exciting project; my mentee, Nina, a high school student, is creating a reference library of mitochondrial sequences from stream isopod species - we will then BLAST sequences from wetland isopod individuals against this library to determine the matches and estimate how 'close' wetland species are to stream species. 
 
 **Update** - 02/22/19: Nina presented her research project earlier this week at her school's science fair and got 3rd prize! So exciting! 
 
@@ -61,7 +70,7 @@ Four of these sequences were obtained by my former mentee, Bryan, a high school 
   </div>
 </div>
 
-**Update** - 05/25/19: We've submitted 5 sequences to GenBank with my other mentees who worked on our 'Plant DNA detection from sap-feeders'-project. All the submissions have been approved and accession numbers have been assigned. Very exciting! 
+**Update** - 05/25/19: Nina was admitted to the University of Maryland where she will study Environmental Science and Policy. Very exciting! She is continuing, however, her work on DNA barcoding of isopods this summer, learning and improving the phylogenetic reconstructions for our isopod samples.
 <hr>
 
 ## Microscopy
