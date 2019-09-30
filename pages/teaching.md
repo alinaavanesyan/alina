@@ -42,9 +42,23 @@ permalink:  /teaching/
 * Human Ecology
 * Bioindication
 
+{% assign path="/assets/content/courses/mainpage/" %}
 
-## Related publications and presentations
+## Guest lectures
 
-<div class="ic4f-pubs-project">
-{% show_pubs teaching  %}
-</div>
+<p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-2019)</p>
+
+* "Invasive species in freshwater ecosystems": September 29, 2019; this is a staged lecture (a short version of my guest lecture for BSCI 467: Freshwater Biology) {% include download.html base=path file="BSCI_staged_lecture.pdf" text="slides" -%} {% include download.html base=path file="BSCI_worksheet2.pdf" text="worksheet" -%} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oujqMmwJybo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+* BSCI 467: Freshwater Biology: "Invasive species in freshwater ecosystems" (2019) {% include download.html base=path file="BSCI_lecture.pdf" text="slides" -%} {% include download.html base=path file="BSCI_worksheet1.pdf" text="worksheet 1" -%} {% include download.html base=path file="BSCI_worksheet2.pdf" text="worksheet 2" -%} 
+
+* HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2019) {% include download.html base=path file="HONR208D_lecture2019.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2019.pdf" text="worksheet" -%} 
+
+* HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2018) {% include download.html base=path file="HONR208D_lecture2018.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2018.pdf" text="worksheet" -%} 
+
+<br>
+
+
+
