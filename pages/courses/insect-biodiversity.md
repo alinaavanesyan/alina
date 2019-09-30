@@ -6,15 +6,47 @@ excerpt:    "
   As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [I(nsect Biodiversity: The Good, the Bad, and the Weird."
 ---
 
-As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [Insect Biodiversity: The Good, the Bad, and the Weird](https://www.universityhonors.umd.edu/seminar_spotlights.html) for non-majors. This course included lectures, wet labs, seminars, and field trips. My students learned and practiced in aquatic insect collection, microscopy, identifying major insect groups and linking insect species to their ecological functions. The students also developed and presented "insect portraits" (fact sheets of  good, bad, or weird insects), and actively participated in guided in-class and online discussions on pollination, plant-insect coevolution, and conservation issues. I also taught a guest lecture on ecology of invasive species.
+As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [Insect Biodiversity: The Good, the Bad, and the Weird](https://www.universityhonors.umd.edu/seminar_spotlights.html) for non-majors. This course included lectures, wet labs, seminars, and field trips. I also taught a guest lecture on ecology of invasive species.
 
-{% assign path="/assets/content/courses/insectbiodiversity/" %}
+My students learned and practiced in aquatic insect collection, microscopy, identifying major insect groups and linking insect species to their ecological functions. The students also developed and presented "insect portraits" (fact sheets of  good, bad, or weird insects), and actively participated in guided in-class and online discussions on pollination, plant-insect coevolution, and conservation issues. 
 
-<figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid w-40" src="{{ site.baseurl }}/assets/content/courses/insectbiodiversity/insect-biodiversity.jpg" alt="">
-</figure>
+<div class="row">
 
+  <div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/courses/insectbiodiversity/honr3.jpg' | relative_url }}" alt="">
+        </figure>
+  </div>
+
+  <div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/courses/insectbiodiversity/honr2.jpg' | relative_url }}" alt="">
+    </figure>
+  </div>
+
+  <div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/courses/insectbiodiversity/honr1.jpg' | relative_url }}" alt="">
+        </figure>
+  </div>
+
+</div>
+Also, various arthropods from our departmental insect petting zoo occasionally visited us in class.
 <hr>
+{% assign path="/assets/content/courses/mainpage/" %}
+
+## Guest lectures
+
+* HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2019) {% include download.html base=path file="HONR208D_lecture2019.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2019.pdf" text="worksheet" -%} 
+
+* HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2018) {% include download.html base=path file="HONR208D_lecture2018.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2018.pdf" text="worksheet" -%} 
+
+<br>
+<hr>
+
 ## Topics covered
 
 WEEK 1. INSECTS GOOD, BAD, AND WEIRD
@@ -71,5 +103,10 @@ WEEK 15. THE FUTURE OF INSECT LIFE IS OUR FUTURE
 * Course conclusions
 
 <hr>
+{% assign path="/assets/content/courses/insectbiodiversity/" %}
+
+<figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid w-40" src="{{ site.baseurl }}/assets/content/courses/insectbiodiversity/honr_extra.jpg" alt="">
+</figure>
 
 
