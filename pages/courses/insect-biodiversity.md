@@ -3,7 +3,7 @@ title: Insect Biodiversity
 permalink:  /courses/insect-biodiversity/
 menu:       /teaching/
 excerpt:    "
-  As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [I(nsect Biodiversity: The Good, the Bad, and the Weird."
+  As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [Insect Biodiversity: The Good, the Bad, and the Weird."
 ---
 
 As a teaching assistant at the University of Maryland, during Spring 2018, I taught Honors Seminar [Insect Biodiversity: The Good, the Bad, and the Weird](https://www.universityhonors.umd.edu/seminar_spotlights.html) for non-majors. This course included lectures, wet labs, seminars, and field trips. I also taught a guest lecture on ecology of invasive species.
