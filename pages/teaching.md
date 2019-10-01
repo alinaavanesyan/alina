@@ -52,6 +52,8 @@ permalink:  /teaching/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oujqMmwJybo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
+* "Nerves and the neuronal action potential": 2019; this is an 80 minute demo lesson for the Introductory Biology course (Introductory Biology 3: Plant and Animal Anatomy and Physiology) {% include download.html base=path file="TBIOL_plan.pdf" text="lesson plan" -%} {% include download.html base=path file="TBIOL_slides.pdf" text="slides" -%} {% include download.html base=path file="TBIOL_worksheet.pdf" text="worksheet" -%} {% include download.html base=path file="TBIOL_pre.pdf" text="pre-class assignment" -%} {% include download.html base=path file="TBIOL_hw.pdf" text="post-class homework" -%} {% include download.html base=path file="TBIOL_cards.pdf" text="in-class cards" -%} 
+
 * BSCI 467: Freshwater Biology: "Invasive species in freshwater ecosystems" (2019) {% include download.html base=path file="BSCI_lecture.pdf" text="slides" -%} {% include download.html base=path file="BSCI_worksheet1.pdf" text="worksheet 1" -%} {% include download.html base=path file="BSCI_worksheet2.pdf" text="worksheet 2" -%} 
 
 * HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2019) {% include download.html base=path file="HONR208D_lecture2019.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2019.pdf" text="worksheet" -%} 
@@ -59,6 +61,7 @@ permalink:  /teaching/
 * HONR 208D: Insect Biodiversity: "Ecology of invasive species, consequences on society" (2018) {% include download.html base=path file="HONR208D_lecture2018.pdf" text="slides" -%} {% include download.html base=path file="HONR208D_worksheet2018.pdf" text="worksheet" -%} 
 
 <br>
+
 
 
 
