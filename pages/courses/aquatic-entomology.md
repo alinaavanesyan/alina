@@ -106,7 +106,7 @@ As a teaching assistant at the University of Maryland, also during Spring 2018, 
 
 </div>
 
-## Article discussed
+## Articles discussed
 
 * Article 1: Nakano, S., H. Miyasaka, and N. Kuhara. 1999. Terrestrial-aquatic linkages: Riparian arthropod inputs alter trophic cascades in a stream food web. Ecology 80: 2435-2441.
 * Article 2: Lytle, D.A., M.T. Bogan, and D.S. Finn. 2007. Evolution of aquatic insect behaviours across a gradient of disturbance predictability. Proc. Royal Soc. B 275: 453-462.
