@@ -1,5 +1,5 @@
 ---
-title:      'Ph.D. research: Novel plant-insect interactions; native vs. exotic grasses and their responses to herbivores '
+title:      'Novel plant-insect interactions; native vs. exotic grasses and their responses to herbivores '
 permalink:  /research/plant-insect-interaction/
 menu:       /research/
 type:       project

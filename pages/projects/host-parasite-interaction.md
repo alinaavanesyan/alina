@@ -1,5 +1,5 @@
 ---
-title:      "Previous research: Host-parasite interactions; cellular immune responses of pulmonate snails to infection by trematodes"
+title:      "Host-parasite interactions; cellular immune responses of pulmonate snails to infection by trematodes"
 permalink:  /research/host-parasite-interaction/
 menu:       /research/
 type:       project
