@@ -19,8 +19,9 @@ I’m working on a variety of projects that involve primarily molecular biology 
 <hr>
 
 ## The spotted lanternfly: host plants, external morphology, molecular confirmation of diet 
-I've been working on the spotted lanternfly (SLF) since last Spring. This emerging invasive insect pest is currently rapidly
-spreading in the eastern US, and it has been detected in Maryland in October 2018. Our two grant proposals on studying SLF external morphology and its host plants were recently funded by MDA and MAES (yay!) and now I'm spending almost half of my time in the microscope room and the SEM laboratory. I'm curious to see how the lanternfy's mouthparts and tarsi are so well adapted to feeding and moving on its host trees. Also, I"m about to try our DNA barcoding protocol we've developed for another sap-feeder, the potato leafhopper, to confirm the lanternfly's host plants.  Almost a year later, since I started studying this species, I can’t stop being amazed by SLF unique ecology and behavior. 
+I've been working on the spotted lanternfly (SLF) since April 2018. This emerging invasive insect pest is one of the most aggressive leaf-hopping pests in Mid-Atlantic region: it is extremely polyphagous and can utilize over 70 host plants, primarily trees. Since its introduction in Pennsylvania in 2014, the spotted lanternfly has rapidly spread in the eastern US, and it was finally detected in Maryland in October 2018. Nymphs and adults cause substantial plant damage by sucking phloem sap. Lanternfly nymphs switch host plants during their development; however, little is known about the relationship between the lanternfly and its tree hosts, as well as about the mechanisms of its unusual use of plant hosts during development (i.e. polyphagous behavior of early instars and nearly monophagous behavior of adults). We also don't really know which plants the lanternfly utilize for feeding and which plants it uses for resting, migration, laying eggs, etc. 
+
+To address these issues in my research on the spotted lanternfly, I largely utilizes microscopy and molecular biology tools to (1) explore changes in external morphology of the lanternfly during its development, and (2) to confirm the utilization of host plants. Our two grant proposals on studying SLF external morphology and conducting molecular gut content analysis were funded by MDA and MAES in August 2018. Since then, I've been spending almost half of my time in the microscope room and the SEM laboratory. I'm curious to see how the lanternfy's mouthparts and tarsi are so well adapted to feeding and moving on its host trees. Also, I'm applying our DNA barcoding protocol we've developed for another sap-feeder, the potato leafhopper, to confirm the lanternfly's host plants.  Almost two years later, since I started studying this species, I can’t stop being amazed by SLF unique ecology and behavior. 
 
 
 <div class="row">
@@ -49,13 +50,12 @@ spreading in the eastern US, and it has been detected in Maryland in October 201
     </figure>
   </div>
   </div>
-  
-**Update** – 01/25/19: I'm presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
 
-**Update** - 02/23/19: I've presented at the [Annual Meeting of the Maryland Organic Food & Farming Association](https://marylandorganic.org/events/) (Maryland Dept. of Agriculture, Annapolis, MD). <a href="{{ 'assets/content/publications/2019_moffa.pdf' | relative_url }}">My talk</a> was on the lanternfly biology, behavior, and host plant usage.
+  <strong>Utilization of molecular biology tools.</strong> To confirm host plant consumption and explore the potential host plant range of the lanternfly, I use molecular biology techniques to detect host plant DNA within the lanternfly gut contents. Plant DNA detection in insect gut contents has been one of the most accurate ways to confirm host plant utilization, however this method becomes challenging when dealing with sap-feeding insects: (a) the host plants are difficult to discern because piercing-sucking insects, such as the spotted lanternfly, often cause no direct symptoms to plants; (b) the lack of plant tissue in the gut of a piercing-sucking insect that feeds on phloem makes gut contents difficult to discern. Currently, I utilize Sanger sequencing to obtain a portion of plant chloroplast DNA region within the lanternfly gut contents. I successfully isolate and identify plant DNA for 'single-DNA'-samples (i.e. when there is only one ingested host plant species in the lanternfly gut), and we are planning to use NGS technology to explore mixed DNA samples and compose a host plant range of the spotted lanternfly.
 
-**Update** - 02/28/19: I've finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi. Most of the beautiful SEM images are included in <a href="{{ 'assets/content/publications/2019_EBESA_poster.pdf' | relative_url }}"> my poster</a> for the upcoming EB-ESA meeting.
-<div class="row">
+  <strong>Scanning electron microscopy.</strong> To explore the morphological adaptations of the lanternfly to host plant utilization, I focus on the following two objectives: (a) to assess changes in morphology of the lanternfly mouthparts (stylets and labium), and (b) to assess changes in morphology of the lanternfly tarsal tips (arolia and tarsal claws) at each developmental stage. The labium, stylets, and tarsal tips are the structures which are associated with primary contact of the lanternfly with its host plant, and which potentially facilitate the lanternfly successful host plant use. I assess the developmental changes in these structures using both scanning electron microscopy (SEM) and morphometric analysis. We expect these structures to undergo substantial morphological and morphometric changes throughout the lanternfly development which could potentially indicates the lanternfly association with certain host trees at each developmental stage. 
+
+  <div class="row">
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
@@ -81,8 +81,17 @@ spreading in the eastern US, and it has been detected in Maryland in October 201
     </figure>
   </div>
 </div>
+  
+**Update** – 01/25/19: I'm presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
+
+**Update** - 02/23/19: I've presented at the [Annual Meeting of the Maryland Organic Food & Farming Association](https://marylandorganic.org/events/) (Maryland Dept. of Agriculture, Annapolis, MD). <a href="{{ 'assets/content/publications/2019_moffa.pdf' | relative_url }}">My talk</a> was on the lanternfly biology, behavior, and host plant usage.
+
+**Update** - 02/28/19: I've finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi. Most of the beautiful SEM images are included in <a href="{{ 'assets/content/publications/2019_EBESA_poster.pdf' | relative_url }}"> my poster</a> for the upcoming EB-ESA meeting.
+
 
 **Update** - 06/06/19: Our paper on external morphology of the spotted lanternfly has been submitted to PLOS ONE.
+
+**Update** - 11/14/19: I've obtained all the sequences from the lanternfly gut content samples we used and finished data analysis. We've got some interesting results, and I'm currently working on getting the paper done (Tentative title: "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula"). We are planning to submit it to Insects, the special issue on molecular gut content analysis of insect herbivores. Bill and I are co-editing this [special issue](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact) and we hope to see many interesting studies there.
 
 **Update** - 11/18/19: I've presented our updated results on the lanternfly external morphology at the ESA meeting. Here is <a href="{{ 'assets/content/publications/2019_ESA_poster.pdf' | relative_url }}">my poster</a>.  
 
@@ -124,61 +133,7 @@ potato leafhopper, Empoasca fabae") also to the
 
 <hr>
 
-## Should I eat or should I go: systematic review and meta-analysis
-This is a systematic review I was working on last year (manuscript submitted). The review aimed to
-identify patterns of grasshopper feeding preferences for native versus introduced plants and,
-consequently, grasshopper potential for biotic resistance of native communities, that (as the review
-has shown) is surprisingly overlooked in experimental studies on invasion ecology.
 
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">My table pet for inspiration..
-    </figcaption>
-    </figure>
-  </div>
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/meta-analysis.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Literature search and data colelction: PRISMA flowchart
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-**Update** – 07/07/18: I've submitted a poster presentation on this review to the upcoming 
-[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
-I'm also going to present it here, at the University of Maryland research
-symposium organized by the Office of Postdoctoral Affairs.
-
-
-**Update** – 05/18/18: the manuscript has been submitted!
-
-**Update** – 10/07/18: the <a href="{{ 'assets/content/publications/2018_should_i_eat.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
-
-<hr>
-
-## Herbivore resistance and tolerance in Miscanthus sinensis cultivars
-Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
-    </figcaption>
-    </figure>
-  </div>
-</div>
-
-**Update** – 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
-
-<hr>
 
 ## Wetland-stream connectivity: DNA barcoding of native isopods as a tool for assessing watershed connectivity
 
@@ -222,15 +177,15 @@ This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetl
   </div>
   </div>
   
-**Update** - 02/22/19: Nina, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
+**Update** - 02/22/19: Nina, my mentee, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
 
 **Update** - 04/26/19: Nina presented her final poster at the ERHS Research Symposium. 
 
 **Update** - 06/06/19: We are currently exploring phylogenetic relationships between stream and wetland isopod species.
 
----
-# Other Projects
----
+<hr>
+
+
 ## Molecular identification of prey in predator gut contents and feces
 
 This is a new lab project I'm involved in and it is also a new challenge in my DNA barcoding work. I amplify DNA from dragonfly prey items. In addition to a gut content analysis, I’m working with degraded DNA from dragonfly feces. So far, I successfully amplified and sequenced COI partial gene from dragonfly feces produced during the first 2 hours post ingestion. The sequence analysis with subsequent BLAST results showed that the prey item was a crane fly. Surprisingly enough the DNA from the crane fly wasn’t degraded and an isolated fragment of 667 bp showed good sequence quality. These exciting results can make identification of dragonfly prey possible and accurately confirm (or even point to new) trophic interactions in dragonfly natural habitats.
@@ -246,6 +201,69 @@ This is a new lab project I'm involved in and it is also a new challenge in my D
 </div>
 
 **Update** - 06/10/19: DNA from mayfly was detected in feces produced during first 7 hours post ingestion by the same dragonfly individual. The sequence had lower quality but it was still readable.
+
+<hr>
+
+## Should I eat or should I go: systematic review and meta-analysis
+This is a systematic review I was working on last year (manuscript submitted). The review aimed to
+identify patterns of grasshopper feeding preferences for native versus introduced plants and,
+consequently, grasshopper potential for biotic resistance of native communities, that (as the review
+has shown) is surprisingly overlooked in experimental studies on invasion ecology.
+
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">My table pet for inspiration..
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/meta-analysis.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Literature search and data colelction: PRISMA flowchart
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** – 07/07/18: I've submitted a poster presentation on this review to the upcoming 
+[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+I'm also going to present it here, at the University of Maryland research
+symposium organized by the Office of Postdoctoral Affairs.
+
+
+**Update** – 05/18/18: the manuscript has been submitted!
+
+**Update** – 10/07/18: the <a href="{{ 'assets/content/publications/2018_should_i_eat.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
+
+
+
+
+---
+# Other Projects
+---
+
+## Herbivore resistance and tolerance in Miscanthus sinensis cultivars
+Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** – 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
+
+
 
 
 <hr>
