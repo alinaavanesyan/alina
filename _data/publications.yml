@@ -168,7 +168,7 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
-  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (in revision) '
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. '
   type: journal_submit
   date: 2019-06-04
   projects: [novel_associations]
@@ -183,48 +183,57 @@
 # manuscripts in preparation 
 # ------------------------------------------------------------------------------
 - entry: '
-  Avanesyan, A., and W.O. Lamp. Variation in plant responses to insect herbviory among the cultivars of the introduced Miscanthus sinensis. '
+  Avanesyan, A., and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. '
   type: journal_prep
-  date: 2019-09-20
+  date: 2019-11-19
+  projects: [novel_associations]
+
+- entry: '
+  Avanesyan, A., and W.O. Lamp. Molecular approaches to diet analysis of insect herbivores: a systematic review. '
+  type: journal_prep
+  date: 2019-11-18
   projects: [novel_associations]
 
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
 
+#------------------------------------------------
+# conference presentations
+#------------------------------------------------
+
 - entry: '
   Avanesyan, A., Maugel, T., and W. Lamp. (2019) External morphology and developmental
 changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula.
 Annual Meeting of the Entomological Society of America, St. Lois, MO. Poster presentation. '
-  type: conference_upcoming
-  date: 2019-06-08
+  type: conference
+  date: 2019-11-19
+  file: 2019_ESA_poster.pdf
   projects: [novel_associations] 
 
 - entry: '
   Smith, D., Avanesyan, A., and W. Lamp. (2019) Are natural enemies related to plant diversity in
 agricultural drainage ditches? Annual Meeting of the Entomological Society of America, St. Lois,
 MO. Poster presentation. '
-  type: conference_upcoming
-  date: 2019-06-08
+  type: conference
+  date: 2019-11-18
   projects: [novel_associations]
 
 - entry: '
   Kutz, D., Avanesyan, A., and W. Lamp. (2019) Drainage ditches as sources of beneficial spiders
 on farms to enhance conservation biological control. Annual Meeting of the Entomological
 Society of America, St. Lois, MO. Oral presentation. '
-  type: conference_upcoming
-  date: 2019-06-08
+  type: conference
+  date: 2019-11-17
   projects: [novel_associations]
 
-#------------------------------------------------
-# conference presentations
-#------------------------------------------------
 
 - entry: '
   Avanesyan, A., and W. Lamp (2019) External morphology of the spotted lanternfly, Lycorma
 delicatula, and its association with insect host plants. Postdoctoral Research Symposium. University of Maryland, College Park, MD. Poster presentation.'
   type: conference
   date: 2019-09-13
+  file: 2019_EBESA_poster.pdf
   projects: [novel_associations] 
 
 - entry: '
