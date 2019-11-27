@@ -5,10 +5,6 @@ permalink:  /teaching/
 
 ## Courses taught
 
-<p class="mb-1"><strong>Biology Department, Western Washington University</strong> (upcoming Winter 2020)</p>
-
-* Genetics (BIOL321; lectures; 4 units; instructor)
-
 <p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-2019)</p>
 
 * <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; summer 2019; instructor) 

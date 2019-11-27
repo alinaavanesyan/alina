@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-19T23:40:03-05:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Winter quarter 2020: teaching at Western Washington University!</title><link href="http://localhost:4000/blog/2019/11/teaching-at-western/" rel="alternate" type="text/html" title="Winter quarter 2020: teaching at Western Washington University!" /><published>2019-11-18T00:00:00-05:00</published><updated>2019-11-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/11/teaching-at-western</id><content type="html" xml:base="http://localhost:4000/blog/2019/11/teaching-at-western/">&lt;p&gt;We are moving to the Pacific Northwest! I have recently accepted a job offer for a temporary non-tenure track faculty position at &lt;a href=&quot;https://www.wwu.edu/&quot;&gt;Western Washington University&lt;/a&gt;: I’ll teach an upper-level undergraduate Genetics lecture course during Winter quarter 2020.  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m currently finishing my postdoctoral work at Maryland trying to (a) get two more projects done, (b) get at least two more papers ready to be submitted, (c) present my lanternfly work at the ESA meeting, and (d) train two undergraduate students in sequence analysis, preparing GenBank submissions, and preparing samples for NGS which they will conduct in Spring. Whew!&lt;/p&gt;
-
-&lt;p&gt;All my family is very excited about our move, and I’m looking forward to my new teaching and research adventures!&lt;/p&gt;</content><author><name></name></author><summary type="html">We are moving to the Pacific Northwest! I have recently accepted a job offer for a temporary non-tenure track faculty position at Western Washington University: I’ll teach an upper-level undergraduate Genetics lecture course during Winter quarter 2020.</summary></entry><entry><title type="html">Bryan continues studying Molecular Biology at the University of Maryland!</title><link href="http://localhost:4000/blog/2019/09/bryan-school-news/" rel="alternate" type="text/html" title="Bryan continues studying Molecular Biology at the University of Maryland!" /><published>2019-09-26T00:00:00-04:00</published><updated>2019-09-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2019/09/bryan-school-news</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/bryan-school-news/">&lt;p&gt;I was very pleased to learn that my former mentee, Bryan, a high school student, was admitted to the University of Maryland where he continues studying Molecular Biology. Bryan was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. &lt;!--more--&gt;  Bryan joined us in January knowing nothing about wet lab techinques for DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four plant sequences.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-27T11:31:24-05:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Bryan continues studying Molecular Biology at the University of Maryland!</title><link href="http://localhost:4000/blog/2019/09/bryan-school-news/" rel="alternate" type="text/html" title="Bryan continues studying Molecular Biology at the University of Maryland!" /><published>2019-09-26T00:00:00-04:00</published><updated>2019-09-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2019/09/bryan-school-news</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/bryan-school-news/">&lt;p&gt;I was very pleased to learn that my former mentee, Bryan, a high school student, was admitted to the University of Maryland where he continues studying Molecular Biology. Bryan was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. &lt;!--more--&gt;  Bryan joined us in January knowing nothing about wet lab techinques for DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four plant sequences.&lt;/p&gt;
 
 &lt;p&gt;He is the first author on four GenBank submissions which were approved and are currently available in the NCBI GenBank database:&lt;/p&gt;
 
@@ -166,4 +162,85 @@
     &lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
-  &lt;/div&gt;</content><author><name></name></author><summary type="html">This week I presented at the Eastern Branch meeting of the Entomological Society of America in Blacksburg, VA. The meeting was very interesting, especially its special symposium on the spotted lanternfly.</summary></entry></feed>
+  &lt;/div&gt;</content><author><name></name></author><summary type="html">This week I presented at the Eastern Branch meeting of the Entomological Society of America in Blacksburg, VA. The meeting was very interesting, especially its special symposium on the spotted lanternfly.</summary></entry><entry><title type="html">Scanning Electron Microscopy: Round 2</title><link href="http://localhost:4000/blog/2019/03/SEM-images/" rel="alternate" type="text/html" title="Scanning Electron Microscopy: Round 2" /><published>2019-03-06T00:00:00-05:00</published><updated>2019-03-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/03/SEM-images</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/SEM-images/">&lt;p&gt;I’ve finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi which I conducted in &lt;a href=&quot;https://research.umd.edu/core-facilities/bio-ultrastructure&quot;&gt;The Laboratory for Biological Ultrastructure&lt;/a&gt; (my special thanks to Tim Maugel for his continuous help!!). We received beautiful SEM images, most of them are included now in &lt;a href=&quot;/assets/content/publications/2019_EBESA_poster.pdf&quot;&gt; my poster&lt;/a&gt; for the upcoming EB-ESA meeting. These images helped us to explore how &lt;!--more--&gt; different structures of the lanternfly mouthparts and tarsi change during the lanternfly development,  and I’m very excited to start working on our new paper on the external morphology of the spotted lanternfly in relation to its host plants.&lt;/p&gt;
+
+&lt;p&gt;In this study we specifically focused  on the structures which are responsible for primary contact of the spotted lanternfly with host tree surface (i.e. stylets, labium, tarsal claws, and arolia). We observed several interesting patterns:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mouthparts&lt;/strong&gt; - oval prominences and longitudinal striations on the mandibular stylets are more defined in 4th instar and adults; labium is more segmented in adults; numerous sensilla, including the bristle-like sensilla, on the tip of the labium are present at each developmental stage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tarsal tips&lt;/strong&gt; - tarsal claws are more spread out in adults; arolia are fully developed at each stage; arolia surface becomes more wrinkled in adults.&lt;/p&gt;
+
+&lt;p&gt;We think that observed patterns are adaptations to host plant usage and correspond with a type of host plants utilized at each developmental stage, and we would like to focus on morphometric comparisons of mouthparts and tarsi next. Can’t wait for these new results!&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;The lanternfly mouthparts: 2nd instar
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Mandibular stylet: female
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Labium: last segment
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/img-16.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Labium tip of the 3rd instar 
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Labium tip of the 3rd instar with numerous sensilla
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Labium tip: ventral sensory field
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-7.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Tarsal tip, ventral side: tarsal claws + arolium
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/img-15.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Tarsal tip of the 3rd instar: dorsal side
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/post-8.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Dorsal surface of the arolium
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I’ve finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi which I conducted in The Laboratory for Biological Ultrastructure (my special thanks to Tim Maugel for his continuous help!!). We received beautiful SEM images, most of them are included now in my poster for the upcoming EB-ESA meeting. These images helped us to explore how</summary></entry></feed>
