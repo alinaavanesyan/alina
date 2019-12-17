@@ -3,18 +3,630 @@ title:      Research Areas
 permalink:  /research/
 ---
 
-{% assign projects = site.pages | where:"type","project" | sort:"order" %}
-{% for pr in projects %}
-  <hr>
-  <div class="media">
-    <a href="{{ pr.permalink | relative_url }}">
-      <img class="ic4f-thumb ic4f-list-img" src="{{ site.baseurl }}/assets/content/projects/{{ pr.project_id }}/thumb.jpg" alt="{{ pr.project_id }}">
-    </a>
-    <div class="media-body">
-      <h2><a href="{{ pr.permalink | relative_url }}">{{ pr.title }}</a></h2>
-      {{ pr.excerpt }}..
-      <a class="ic4f-nowrap" href="{{ pr.permalink | relative_url }}">
-        <i class="material-icons md-18">exit_to_app</i><span class="ic4f-download">go to project page</span></a>
+<hr>
+
+In my research, I explore various mechanisms underlying species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
+Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially interactions between native and introduced species. I’m working on a variety of projects that involve primarily molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
+
+<hr>
+<h2><strong>Molecular gut content analysis</strong></h2>
+<hr>
+<h4><strong>(1) Plant DNA detection within gut contents of sap-feeders</strong></h4>
+Plant DNA detection in insect gut contents is one of the most accurate ways to confirm host plant
+utilization, determine insect diet and interactions with other organisms. Most of the previous
+studies that involved molecular analysis of insect gut contents were primarily conducted on
+leaf-chewing insects, such as beetles, moths, or grasshoppers. Sap-feeders could be more challenging
+for molecular analysis of their gut contents because phloem sap presumably doesn’t contain plant
+DNA. However, this method was shown to be effective for potato psyllids (Cooper et al 2016) -
+apparently, while feeding an insect stylet (a piercing mouthpart) can consume not only phloem sap
+but can also pick up some of the surrounding plant cells which allows DNA to be detected in the
+insect gut contents. 
+
+In this project, I'm using two sap-feeding insects - the potato leafhopper and the spotted lanternfly - to investigate their host plant range. So far, I'm using two plant DNA barcoding regions - trnL and rbcL, as well as Sanger sequencing. I successfully isolated and identified plant DNA for 'single-DNA'-samples (i.e. when there is only one ingested host plant species in the insect gut), and we are planning to use NGS technology to explore mixed DNA samples and compose the insect host plant range.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-12.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">The spotted lanternfly, Lycorma delicatula; 4th instars (PA, 2018)
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-13.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">The spotted lanternfly, Lycorma delicatula; 4th instars (PA, 2018)
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-22.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">First amplification of the chloroplast trnL gene from the lanternfly body ('head+mouthparts' and 'gut content'-samples) 
+    </figcaption>
+    </figure>
+  </div>
+  </div>
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-21.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Experimental set up and detection of DNA of consumed fava beans in the guts of potato leafhoppers. Additionally, we've found that contamination of the insect surface with plant DNA is not significant.
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** - 07/07/18: we are making some good progress, and we've submitted an abstract for our oral presentation (A.
+Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for
+potato leafhopper, Empoasca fabae") to the ESA meeting in Vancouver, BC, Canada. 
+
+**Update** - 11/15/18: presented! Here is my <a href="{{ 'assets/content/publications/2018_ESA_talk.pdf' | relative_url }}">presentation</a>.
+
+**Update** - 09/10/19: the manuscript has been submitted to Environmental Entomology.
+
+**Update** - 10/01/19: I'm a Guest Editor for journal Insects, [Special Issue "Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects"](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact)
+
+**Update** - 10/21/19: a grant proposal entitled "Identification of host plant use by the invasive spotted lanternfly (Lycorma delicatula) using next-gen DNA sequencing technology" has been submitted to Maryland Agricultural Experiment Station Competitive Grant Program.
+
+**Update** - 11/27/19: the manuscript "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula" is currently in preparation.
+
+<hr>
+<h4><strong>(2) Molecular identification of prey in predator gut contents and feces</strong></h4>
+
+This is a new lab project I'm involved in and it is also a new challenge in my DNA barcoding work. I amplify DNA from dragonfly prey items. In addition to a gut content analysis, I’m working with degraded DNA from dragonfly feces. So far, I successfully amplified and sequenced COI partial gene from dragonfly feces produced during the first 2 hours post ingestion. The sequence analysis with subsequent BLAST results showed that the prey item was a crane fly. Surprisingly enough the DNA from the crane fly wasn’t degraded and an isolated fragment of 667 bp showed good sequence quality. These exciting results can make identification of dragonfly prey possible and accurately confirm (or even point to new) trophic interactions in dragonfly natural habitats.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/odonata.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Obtaining the DNA of a crane fly from dragonfly feces.
+    </figcaption>
+    </figure>
+    </div>
+</div>
+
+**Update** - 06/10/19: DNA from mayfly was detected in feces produced during first 7 hours post ingestion by the same dragonfly individual. The sequence had lower quality but it was still readable.
+<hr>
+<h4><strong>(3) Meta-barcoding of the gut contents using NGS approach</strong></h4>
+
+We continue exploring host plant usage of the spotted lanternfly and  in this study, we are using next-generation sequencing technology as a promising approach for meta-barcoding plant species from the gut contents of polyphagous insect herbivores. Our current findings of plant DNA detection from the gut contents of the lanternfly nymphs (Avanesyan and Lamp, manuscript is in preparation) suggest that while the observed lanternfly nymphs actively move on a host plant they may not utilize it for feeding. A substantial number of the nymphs (~90%) we have analyzed (collected during summer 2018) showed the ingested DNA from a host plant other than the plant from which the nymphs were collected. To reconstruct a list of all possible host plant species of the lanternfly we are starting conducting meta-barcoding of the lanternfly gut contents using NGS approach ('Amplicon-EZ').
+Our primary objectives include (1) identifying host plant utilization at different nymphal stages of L. delicatula through detection of plant host DNA within insect gut contents, (2) determining the longevity of the plant DNA in the gut contents of L. delicatula at different nymphal stages, and, using these results, (3) investigating feeding behavior of different nymphal stages of L. delicatula on multiple host plants.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/plan.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Overview of the proposed activities for the project
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/ngs.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">BLAST results of the gut content of the 3rd nymphal instar collected from a maple tree 
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** - 10/21/19: a grant proposal entitled “Identification of host plant use by the invasive spotted lanternfly (Lycorma delicatula) using next-gen DNA sequencing technology” has been submitted to Maryland Agricultural Experiment Station Competitive Grant Program.
+<hr>
+
+<h4><strong>(4) Molecular approaches to diet analysis of insect herbivores: a systematic review</strong></h4>
+
+to be added..
+
+<hr>
+
+<h2><strong>Wetland-stream connectivity: DNA barcoding of native isopods as a tool for assessing watershed connectivity</strong></h2>
+<hr>
+
+This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetland sites and streams in Maryland Delmarva Bays Wetlands we explore the potential connectivity between wetland and stream communities. Morphological identification of isopod species is tricky, and DNA barcoding, which I’m focusing on, is very helpful for estimating how ‘close’ wetland isopod species are to the isopod species inhabiting streams. I’m currently mentoring three students in this DNA barcoding work, and together with my mentees we isolate and sequence a portion of mitochondrial gene, cytochrome oxidase 1 (CO1), create a reference library of these sequences, and using a BLAST search engine in the NCBI GenBank database we assess species and genera identity of isopods. 
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-18.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Maryland Delmarva Bays (May, 2018) 
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-19.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Collecting isopods 
+    </figcaption>
+    </figure>
+  </div>
+  </div>
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-20.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Developing PCR protocol with a black fly sample (BF) as a control
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/nina-3.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">First successful amplification! 
+    </figcaption>
+    </figure>
+  </div>
+  </div>
+  
+**Update** - 02/22/19: Nina, my mentee, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
+
+**Update** - 04/26/19: Nina presented her final poster at the ERHS Research Symposium. 
+
+**Update** - 06/06/19: We are currently exploring phylogenetic relationships between stream and wetland isopod species.
+
+<hr>
+
+<h2><strong>Morphometric analysis of the insect mouthparts and tarsal tips using scanning electron microscopy</strong></h2>
+<hr>
+
+To additionally explore the morphological adaptations of the lanternfly to host plant utilization, I focus on the following two objectives: (a) to assess changes in morphology of the lanternfly mouthparts (stylets and labium), and (b) to assess changes in morphology of the lanternfly tarsal tips (arolia and tarsal claws) at each developmental stage. The labium, stylets, and tarsal tips are the structures which are associated with primary contact of the lanternfly with its host plant, and which potentially facilitate the lanternfly successful host plant use. I assess the developmental changes in these structures using both scanning electron microscopy (SEM) and morphometric analysis. We expect these structures to undergo substantial morphological and morphometric changes throughout the lanternfly development which could potentially indicates the lanternfly association with certain host trees at each developmental stage. 
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-15.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Tarsal tip of the 3rd instar: tarsal claws + arolium
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-16.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Labium tip of the 3rd instar with numerous sensilla
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-17.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Labrum and stylets of the 4th instar
+    </figcaption>
+    </figure>
+  </div>
+</div>
+  
+**Update** – 01/25/19: I'm presenting my intermediate results at the at the Entomological Society of America Annual Meeting, Eastern Branch, March 9-11,2019. Blacksburg, VA.
+
+**Update** - 02/23/19: I've presented at the [Annual Meeting of the Maryland Organic Food & Farming Association](https://marylandorganic.org/events/) (Maryland Dept. of Agriculture, Annapolis, MD). <a href="{{ 'assets/content/publications/2019_moffa.pdf' | relative_url }}">My talk</a> was on the lanternfly biology, behavior, and host plant usage.
+
+**Update** - 02/28/19: I've finished the 2nd round of scanning electron microscopy of the lanternfly mouthparts and tarsi. Most of the beautiful SEM images are included in <a href="{{ 'assets/content/publications/2019_EBESA_poster.pdf' | relative_url }}"> my poster</a> for the upcoming EB-ESA meeting.
+
+
+**Update** - 06/06/19: Our paper on external morphology of the spotted lanternfly has been submitted to PLOS ONE.
+
+**Update** - 11/14/19: I've obtained all the sequences from the lanternfly gut content samples we used and finished data analysis. We've got some interesting results, and I'm currently working on getting the paper done (Tentative title: "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula"). We are planning to submit it to Insects, the special issue on molecular gut content analysis of insect herbivores. Bill and I are co-editing this [special issue](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact) and we hope to see many interesting studies there.
+
+**Update** - 11/18/19: I've presented our updated results on the lanternfly external morphology at the ESA meeting. Here is <a href="{{ 'assets/content/publications/2019_ESA_poster.pdf' | relative_url }}">my poster</a>.  
+
+**Update** - 17/12/19: Our paper "External morphology and developmental changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula" has been formally accepted for publication in PLOS ONE!
+
+<hr>
+
+<h2><strong>Should I eat or should I go: a systematic review and meta-analysis</strong></h2>
+<hr>
+
+This is a systematic review I was working on last year. The review aimed to
+identify patterns of grasshopper feeding preferences for native versus introduced plants and,
+consequently, grasshopper potential for biotic resistance of native communities, that (as the review
+has shown) is surprisingly overlooked in experimental studies on invasion ecology.
+
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-5.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">My table pet for inspiration..
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/meta-analysis.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Literature search and data colelction: PRISMA flowchart
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** – 07/07/18: I've submitted a poster presentation on this review to the upcoming 
+[ESA meeting in Vancouver, BC, Canada](https://www.entsoc.org/event-calendar/2018-esa-esc-and-esbc-joint-annual-meeting-entomology-2018). 
+I'm also going to present it here, at the University of Maryland research
+symposium organized by the Office of Postdoctoral Affairs.
+
+
+**Update** – 05/18/18: the manuscript has been submitted!
+
+**Update** – 10/07/18: the <a href="{{ 'assets/content/publications/2018_should_i_eat.pdf' | relative_url }}">manuscript</a> has been published in [Plants](https://www.mdpi.com/2223-7747/7/4/83)! I was also featured in our departmental [news](https://entomology.umd.edu/news/alina-avanesyan-published-in-plants).
+
+<hr>
+
+<h2><strong>Herbivore resistance and tolerance in Miscanthus sinensis cultivars</strong></h2>
+<hr>
+Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-10.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Miscanthus sinensis cultivars I use in my experiments (from left to right): ‘Dixieland’, ‘Autumn Anthem’,‘Zebrinus’,‘Morning Light’,‘Gracillimus’
+    </figcaption>
+    </figure>
+  </div>
+</div>
+
+**Update** – 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
+
+
+<hr>
+
+<h2><strong>Reproductive biology and distribution of invasive agricultural pests (previous postdoctoral work)</strong></h2>
+<hr>
+
+In my postdoctoral work at the University of Wisconsin-Madison I studied one of the emerging insect pests – the spotted wing drosophila,
+Drosophila suzukii Matsumura (Diptera: Drosophilidae). This is a highly invasive insect species,
+which attacks undamaged ripening fruit of a wide variety of soft-skinned fruits and berries. Native
+to Southeast Asia, currently it is observed in Europe, North America, and South America. Drosophila
+suzukii has demonstrated a very high dispersal capacity and remarkable phenotypic plasticity –
+during only a couple of decades since its first introduction in Hawaii, D. suzukii invaded different
+temperate regions and now is being monitored in many northern and eastern states, as well as Canada.
+
+I work on several projects on different aspects of D. suzukii biology and population distribution. I
+coordinated a multi-state bait comparison project for determining optimal attractants for D.
+suzukii. This project was conducted in Minnesota; we set up fly traps with eight different baits and
+conducted monitoring of D. suzukii in raspberry during several weeks. I also developed experimental
+design for the spatial and temporal distribution project which was supposed to be conducted later in
+the season when population of D. suzukii could be established.
+
+<img class="w-75 border-0 figure-img img-fluid mx-auto d-block" 
+  src="/assets/content/projects/{{ page.project_id }}/steps.jpg" alt="">
+
+{% include figure-group.html 
+  hr=0
+  img_path="/assets/content/projects/drosophila/"
+  src1="spermateca1.jpg" alt1=""
+  src2="spermateca2.jpg" alt1=""
+%}
+
+
+I was also actively involved in a project on D. suzukii seasonal phenology focused on overwintering
+of D. suzukii and the effect of temperature and humidity on D. suzukii seasonal abundance. We are
+currently writing a paper on D. suzukii seasonal phenology which includes an analysis of the
+interactions between D. suzukii seasonal abundance and temperature and humidity dynamics during the
+collecting seasons in 2014-2015.
+
+Additionally, I developed a protocol for tissue preparation, isolating spermathecae, and determining
+mating status of D. suzukii, which we have applied in our bait comparison and phenology studies.
+This protocol has been recently published in Insects (Special issue on invasive species). In this
+paper, we also demonstrated how this protocol can be applied for both field collected flies and
+flies reared in the lab, including fly specimens stored on a long-term basis.
+
+{% include figure-group.html 
+  img_path="/assets/content/projects/drosophila/"
+  src1="raspberry.jpg" alt1=""
+  caption1="Summer and fall raspberry varieties at West Madison <br>Agricultural Research Station on May 19, 2016."
+  src2="barrier.jpg" alt2=""
+  caption2="Plastic high tunnel (A, B) with raspberry plants (C) at Hoch Orchard & Gardens farm (La Crescent, MN)"
+%}
+
+
+
+<h2><strong>Novel plant-insect interactions (doctoral research)</strong></h2>
+<hr>
+
+In my dissertation at the University of Cincinnati I explored the interactions between insect
+herbivores and their host plants within the context of invasion ecology. Specifically, I was
+interested in the potential impact of generalist insects on the successful spread of exotic plants.
+Using a grasses-grasshoppers model, I combined behavioral and molecular approaches to explore (1)
+tolerant and resistant responses of native and exotic grasses to herbivory by grasshoppers, and (2)
+grasshopper feeding preferences on these plants. I conducted laboratory and field experiments at two
+research centers (University of Cincinnati and University of Maryland) to explore whether plant
+responses to different insect populations were similar, and whether the insects acted in the same
+way.
+
+**Ph.D. Dissertation**: Native versus exotic Grasses: the interaction between generalist insect
+herbivores and their host plants. (Alina Avanesyan, 2014; University of Cincinnati)
+
+**Advisor**: <a href="http://homepages.uc.edu/~culleyt/CulleyLab.html">Dr. Theresa Culley</a>,
+Professor, Department of Biological Sciences, University of Cincinnati
+
+<h4><strong>(1) Plant DNA detection from grasshopper gut contents</strong></h4>
+
+As part of my dissertation, I developed a new PCR-based method for accurate detection of plant meals from grasshopper guts, which had not been described in experimental studies. Using the developed protocol, I successfully amplified fragments (~500 bp) of the non-coding region of the chloroplast trnL (UAA) gene from grasshopper guts; the plant DNA was found to be detectable up to twelve hours post ingestion (PI) in nymphs and up to 22 h PI in adult grasshoppers. This <a href="{{ 'assets/content/publications/2014_dna.pdf' | relative_url }}">method</a> was published in Applications in Plant Sciences and was <a href="{{ 'assets/content/publications/2014_dna_pressrelease.pdf' | relative_url }}">featured</a> in Botanical Society of America News, ScienceDaily, ScienceNewsLine, Phys.org, LabRoots, EurekAlert!, as well as Down to Earth (a science
+magazine of The Society For Environmental Communications in India).
+
+<div class="mt-4 mb-4">
+  {% include figure-group.html 
+    hr=0
+    img_path="/assets/content/projects/dissertation_phd/"
+    src1="fig3.jpg" alt1=""
+    src2="dissect.jpg" alt2=""
+  %}
+</div>
+<div class="embed-responsive embed-responsive-16by9 mx-auto w-75">
+  <iframe 
+    class="d-block mx-auto embed-responsive-item"
+    src="https://www.youtube.com/embed/cze938ABUw0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br>
+<h4><strong>(2) Plant resistance and tolerance to herbivory; grasshopper feeding preferences</strong></h4>
+
+My study grasses species were: native Andropogon gerardii and Bouteloua curtipendula, and exotic,
+potentially invasive, Miscanthus sinensis and Bothriochloa ischaemum. I conducted choice (many
+grasses) and no-choice (one grass species) experiments; experiments in the field and in the
+greenhouse; experiment with intact plants and with their clipped. To estimate plant resistance and
+tolerance I measured the amount of leaf tissue consumed by grasshoppers, the growth of plants during
+the feeding and their re-growth after the feeding, the grasshopper’s growth on different plants and
+many other things. In the same behavioral experiments with plants and, additionally, in the experiments with clipped
+leaves, I estimated leaf consumption, the proportion of leaves consumed by grasshoppers, as well as
+their assimilation efficiency and relative consumption rate on native and exotic grasses. I was conducting most of my experiments in Ohio (UC Center for Field Studies and The Culley Laboratory), but also conducted some at the Western Maryland Research & Education Center
+– thanks to Dr. William Lamp who was a member of my dissertation committee and provided me with
+access to this wonderful research facility, and Tim Ellis, the Center’s Agronomy Program Manager,
+whose help with preparing the plot and growing plants was invaluable.
+
+<div class="mt-4 mb-4">
+  {% include figure-group.html 
+    hr=0
+    img_path="/assets/content/projects/dissertation_phd/"
+    src1="fig1.jpg" alt1=""
+    src2="field.jpg" alt2=""
+  %}
+</div>
+
+  Also see: <a href="{{ site.baseurl }}{% post_url 2013-01-08-how-to-build-a-cage %}">How to build a cage</a>
+
+
+My results from both, behavioral experiments and molecular confirmation of diet, demonstrated that
+exotic grasses have lower resistance (the ability to reduce damage) to grasshopper feeding than
+native grasses; whereas plant tolerance (the ability to maintain fitness while sustaining damage) to
+herbivory does not differ between native and exotic grasses. My results suggested that exotic
+grasses that do not have a coevolutionary history with native grasshoppers are less adapted to
+reduce damage from these herbivores, although they tolerate them similar to native plants. These
+results contributed to our understanding of the trade-off between plant tolerance and plant
+resistance to herbivory and the possible mechanisms of the success of exotic plans in the introduced
+range – i.e., mechanisms that facilitate plant invasion. The important applications of this project
+are: effective control of invasive plants, predictions of plant invasion, and ecological restoration
+of native communities. 
+
+<hr>
+
+<h2><strong>Microsatellite motif study</strong></h2>   
+<hr>
+
+During my doctoral studies at Cincinnati, I was also involved in microsatellite motif study
+conducted in Dr. Theresa Culley’s lab. Microsatellites, also known as simple sequence repeats (SSR)
+or short tandem repeats (STR), are typically defined as repeated sequences of 1-6 bases found
+throughout the nuclear and plastid genomes of eukaryotes. For many researchers, microsatellites
+continue to be the marker of choice for surveys of genetic diversity and structure, as well as
+paternity analysis and mating system estimates in which codominance is essential.
+
+In this project we explored the relationship between microsatellite motif type and detectable
+genetic variation in plant populations, which is critical when a researcher determines which markers
+are associated with higher levels of genetic variation. To guide researchers in their choice of
+molecular markers, we conducted a literature review based on 6,616 microsatellite markers published
+from 1997-2012. We examined relationships between heterozygosity (He or Ho) and allele number (A)
+with the following marker characteristics: repeat type, motif length, repeat frequency, and
+microsatellite size, as well as their variations across taxa. Our results showed no significant
+differences in genetic variation between imperfect and perfect repeat types, but dinucleotide motif
+lengths exhibited significantly higher A, He, and Ho than most other motifs. Repeat frequency was
+positively correlated with A, He, and Ho, but correlations with microsatellite size were minimal or
+non-significant. We concluded that researchers should carefully consider their choices specific to
+the desired application; and if researchers aim to find high genetic variation, dinucleotide motif
+lengths with large repeat frequencies are recommended.  
+
+<hr>
+
+<h2><strong>Phylogenetic relationships of the Sarcophagidae (Diptera)</strong></h2>
+<hr>
+I conducted this project in Dr. Ron DeBry’s lab at the beginning of my doctoral program at the
+University of Cincinnati. Flies of the Sarcophagidae family are known as forensically important
+insects; that is why studies of their identification and systematic relationships are critically
+important. The phylogenetic analysis which included mtDNA (COI, COII and ND4) provided good
+resolution for most nodes. However, the mtDNA gene tree might not be identical to the species tree,
+so it was necessary to obtain additional data from nuclear genes. Such new data might increase the
+support for the mtDNA tree or support a different phylogeny. Our results showed that adding nuclear
+PER gene in most cases maintained or improved support in the Bayesian Inference tree. However, we
+also find support for some novel relationships.
+
+As a side project, I also worked on host-parasite interaction between sarcophagid flies and
+grasshoppers. Grasshoppers cause significant damage to crops and rangeland which leads to economic
+losses in the US and worldwide. Chemical insecticides are traditionally used to prevent
+grasshoppers’ outbreaks but these chemicals are harmful to the ecosystem and are costly for pest
+managers. Parasitic flesh flies are one promising approach to biological control of grasshoppers.
+Fly larvae have a noticeable impact on reproductive physiology and survival of grasshoppers. This
+topic had potential applications for biological control of grasshoppers. I went on two collection
+trips to Montana and Iowa and maintained grasshoppers in the lab to observe the presence of
+parasitoids. However, I did not detect any, which might be explained by a relatively low natural
+infection rate (<3%). I continued to work with current literature, which contained controversial
+information about this host-parasite model and I tried to figure out what species of flies can
+infect what species of grasshoppers based on North-American experimental studies.
+
+<hr>
+
+<h2><strong>Genetic variation in littoral snail populations</strong></h2>
+<hr>
+
+I worked on this project while I was a part-time researcher at the <a
+href="http://www.cytspb.rssi.ru/">Institute of Cytology, RAS</a> in St.  Petersburg, Russia. I
+worked at the Laboratory of Cell Biology in Culture under the direction of <a
+href="https://www.researchgate.net/profile/Natalia_Mikhailova">Dr.  Natalia Mikhailova</a>. The
+project was on molecular phylogeny and ecological adaptations of the Cerastoderma and the Littorina
+snails collected in the intertidal zone of North-European region. We have recently published our
+paper on the evidence of hybridization between two species of littoral snails in the intertidal
+sites of the Barents Sea, using RAPD nuclear marker.
+
+<hr>
+
+<h2><strong>Host-parasite interactions: host immune response to infection (dissertation research)</strong></h2>
+<hr>
+
+**Dissertation. Candidate of Science:** <a href="{{ 'assets/content/misc/AlinaAvanesyan_dissertation_2002.pdf' | relative_url }}">The effect of defense responses of snails on
+development of trematode partenitae (with a focus on the family Echinostomatidae)</a> (Alina
+Avanesyan, 2002; Herzen State University, St. Petersburg, Russia)
+
+**Advisor:** Dr. Gennady Ataev, Professor, Department Chair, Department of Zoology, Herzen State
+University, St. Petersburg, Russia
+
+The focus of my Candidate of Science dissertation was cellular immune response of Biomphalaria
+snails to infection by Echinostoma trematodes. Biomphalaria snails are freshwater pulmonate snails,
+native to Caribbean and South America. In my research, I used two species, B. glabrata and B.
+pfeifferi. Biomphalaria glabrata has been a primary model species for investigating snail defense
+mechanisms because it is an intermediate host for the human blood fluke, Schistosoma mansoni, a
+dangerous parasite that infects millions of people worldwide and causes the disease that is called
+schistosomiasis. For my research, I used other, less dangerous, but still wide-spread trematodes –
+Echinostoma caproni and E. paraensei, which are intestinal parasites of mammals and birds and which
+also undergo their larvae development in Biomphalaria snails. In previous studies on B. glabrata,
+two strains of this species have been identified: a strain which exhibits resistance to infection by
+E. caproni (my primary study species) and a strain which is susceptible to infection by this
+trematode. In my research, I was interested in exploring the role of hemocytes in snail defense
+mechanisms and how a hemocytic response might differ between resistant and susceptible snails.
+
+I worked under the direction of <a href="https://www.researchgate.net/profile/Gennady_Ataev">Dr.
+Gennady Ataev</a> in the <a
+href="https://www.herzen.spb.ru/main/structure/fukultets/bio/1384520856/1387808264/">Laboratory of
+Experimental Zoology</a> at the <a
+href="https://sites.google.com/a/zooherzen.org/www/home">Department of Zoology</a> at <a
+href="https://www.herzen.spb.ru/en/">Herzen State University</a>. Snail defense mechanisms to
+infection by trematodes was the main focus of the lab research. For my dissertation project, my
+primary objectives were (1) to identify and characterize the hematopoietic tissue in B. glabrata
+snails, (2) to compare the structure, mitotic activity of the hematopoietic tissue, as well as
+encapsulation of parasites by hemocytes in resistant and susceptible strains (both qualitatively and
+quantitatively), and (3) to perform morphological analysis of Echinostoma larvae (sporocyst)
+development in B.  glabrata snails.
+
+<h4><strong>(1) Location and morphology of the hematopoietic tissue</strong></h4>
+
+By the time I started this project, the location of the hematopoietic tissue in invertebrates, and
+particularly in snails, was poorly understood. We found that the hematopoietic tissue in
+Biomphalaria snails (so called amebocyte-producing organ, or APO) is located between the pericardium
+and the mantle epithelium. APO is composed of numerous cellular aggregations; they are located near
+the external surface of the pericardium and lacunas of the blood system. The number of cell
+aggregations In non-infected snails did not exceed 5; the cross-sectional area of each aggregation
+ranged from 25-50 µm. The aggregations varied from round, oval, and elongated to amoeboid shape, and
+comprised of clustered cells with the basophilic cytoplasm and oval-shaped nuclei. 
+
+<figure>
+  <div class="row">
+    <div class="col-12 col-sm">
+      <figure class="figure mb-0">
+        <img class="figure-img img-fluid" 
+          src="{{ '/assets/content/projects/dissertation_cand/apo_a.jpg' | relative_url }}" alt="">
+      </figure>
+    </div>
+    <div class="col-12 col-sm">
+      <figure class="figure mb-0">
+        <img class="figure-img img-fluid" 
+          src="{{ '/assets/content/projects/dissertation_cand/apo_b.jpg' | relative_url }}" alt="">
+      </figure>
     </div>
   </div>
-{% endfor %}
+  <div class="row">
+    <div class="col-12 col-sm">
+      <figure class="figure mb-0">
+        <img class="figure-img img-fluid" 
+          src="{{ '/assets/content/projects/dissertation_cand/apo_c.jpg' | relative_url }}" alt="">
+      </figure>
+    </div>
+    <div class="col-12 col-sm">
+      <figure class="figure mb-0">
+        <img class="figure-img img-fluid" 
+          src="{{ '/assets/content/projects/dissertation_cand/apo_d.jpg' | relative_url }}" alt="">
+      </figure>
+    </div>
+  </div>
+  <figcaption class="figure-caption">Histological sections of the amoebocyte-producing organ (APO) in resistant
+  Biomphalaria glabrata snails. (A) APO (black arrows) in non-infected snails; (mc) mantle cavity;
+  (pc) pericardial cavity. (B) APO with divided cells (dc) (white arrows) after 3 days post
+  infection (PI). (C) APO after 3 days PI. (D) APO after 5 days PI.
+  </figcaption>
+</figure>
+
+<h4><strong>(2) Hematopoietic activity in resistant and susceptible snails</strong></h4>
+
+To further explore defense mechanisms B. glabrata snails, we performed a comparative histological
+analysis of the structure and mitotic activity of the hematopoietic tissue, as well as migration of
+hemocytes from the APO to the location of E. caproni sporocyst in resistant and susceptible snails.
+Snails were dissected in certain time intervals (from 1h to 30d post infection); tissues were then
+fixed and embedded in paraffin. Sections (5 µm thick) were prepared using a microtome, stained
+(using Erlich’s hematoxylin-eosin), and screened under the microscope. We found that there was a
+greater cellular immune response in resistant snails compared to that in susceptible snails – i.e.
+increased cell proliferation in the APO, increased migration of hemocytes to the location of the
+sporocyst, and successful encapsulation of the sporocyst. In susceptible snails, however, even
+though we also observed increased cell proliferation in the APO and aggregations of hemocytes near
+the sporocyst, this cellular response had never resulted in the encapsulation of the parasite, and
+the sporocyst continued its development and migration to the snail heart area.
+
+<figure class="figure">
+  <img class="border-0 figure-img img-fluid"
+       src="{{ '/assets/content/projects/dissertation_cand/capsules.jpg' | relative_url }}" alt="">
+  <figcaption class="figure-caption text-left">Encapsulation of Echinostoma caproni mother
+    sporocysts developing in resistant Biomphalaria glabrata snails (from 3 to 7 days post infection).
+    The sporocysts demonstrate different level of degradation, and sporocysts remains only are
+    observed after 7 days post infection (the last picture).
+  </figcaption>
+</figure>
+
+<figure class="figure">
+  <img class="border-0 figure-img img-fluid"
+       src="{{ '/assets/content/projects/dissertation_cand/cells2.jpg' | relative_url }}" alt="">
+  <figcaption class="figure-caption text-left">Activity of the amoebocyte-producing organ (APO)
+     during infection by Echinostoma caproni in resistant (A) and susceptible (B) Biomphalaria
+     glabrata snails. 
+  </figcaption>
+</figure>
+
+<h4><strong>(3) Germinal cell lineage in Echinostoma miracidia</strong></h4>
+
+As part of my dissertation, I explored development of Echinostoma trematodes in Biomphalaria snails.
+I focused on the germinal elements of Echinostoma miracidia and performed comparative morphological
+analysis of germinal cells development in E. caproni and E. paraensei. Germinal material in
+Echinostoma miracidia is represented by germinal cells (primary and/or secondary) and
+undifferentiated cells. The germinal cells are quite large (cross-sectional area is 27.0 ± 0.8 µm2),
+with a large bubble-shaped nucleus and a basophilic cytoplasm. We found that miracidia of E.
+paraensei already contained embryos, and their sporocysts released mother rediae a few days earlier
+than sporocysts of E. caproni. Overall, our analysis of germinal cells development provided
+additional support to previous findings that species E. caproni and E. paraensei distinct species.
+
+<figure class="mx-auto w-75">
+  <img class="border-0 figure-img img-fluid"
+       src="{{ '/assets/content/projects/dissertation_cand/miracidia.jpg' | relative_url }}" alt="">
+  <figcaption class="figure-caption text-left">Longitudinal sections of miracidia of Echinostoma caproni (A) and Echinostoma paraensei (B,C) (e,
+    embryo of mother redia; gc, germinal cells; n, neural mass; sc, secretory cells; uc,
+    undifferentiated cells). Large arrow indicates miracidium without a redial embryo. Scale bar, 10 pm.
+  </figcaption>
+</figure>
+
+
+
+
+
+
+
