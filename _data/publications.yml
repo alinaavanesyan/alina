@@ -2,6 +2,13 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+  Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (PLOS ONE, Accepted) '
+  type: journal
+  date: 2019-12-17
+  projects: [novel_associations]
+
+- entry: '
   Avanesyan, A., Lamp, W., Snook, K., and P. Follett. (2019) Short-term physiological response of
   a native Hawaiian plant, Hibiscus arnottianus, to injury by the exotic leafhopper, Sophonia
   orientalis (Hemiptera: Cicadellidae). Environmental Entomology 48(2): 363-369.' 
@@ -166,12 +173,7 @@
 # ------------------------------------------------------------------------------
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
-- entry: '
-  Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
-  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. '
-  type: journal_submit
-  date: 2019-06-04
-  projects: [novel_associations]
+
 
 - entry: '
   Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
