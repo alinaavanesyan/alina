@@ -3,9 +3,10 @@
 # ------------------------------------------------------------------------------
 - entry: '
   Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
-  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. (PLOS ONE, Accepted) '
+  changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. PLOS ONE, doi.org/10.1371/journal.pone.0226995 '
   type: journal
-  date: 2019-12-17
+  date: 2019-12-26
+  file: 2019_SLFmorphology.pdf
   projects: [novel_associations]
 
 - entry: '
