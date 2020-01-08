@@ -260,7 +260,7 @@ To additionally explore the morphological adaptations of the lanternfly to host 
 <h2><strong>Should I eat or should I go: a systematic review and meta-analysis</strong></h2>
 <hr>
 
-This is a systematic review I was working on last year. The review aimed to
+This was a systematic review I conducted last year. The review aimed to
 identify patterns of grasshopper feeding preferences for native versus introduced plants and,
 consequently, grasshopper potential for biotic resistance of native communities, that (as the review
 has shown) is surprisingly overlooked in experimental studies on invasion ecology.
@@ -306,7 +306,7 @@ symposium organized by the Office of Postdoctoral Affairs.
 
 <h2><strong>Herbivore resistance and tolerance in Miscanthus sinensis cultivars</strong></h2>
 <hr>
-Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. I’ve been conducting field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
+Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. For this project, I conducted field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
 
 <div class="row">
   <div class="col-sm">
