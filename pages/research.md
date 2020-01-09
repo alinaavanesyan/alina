@@ -65,6 +65,7 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 <h4>Updates:</h4>
 
+* 01/09/20: we've submitted an abstract for our oral presentation (Lamp W.O and A.Avanesyan "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula") to 2020 Joint Eastern and Southeastern ESA meeting in Atlanta, GA.
 
 * 11/27/19: the results are ready, and the manuscript "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula" is currently in preparation.
 
@@ -76,9 +77,7 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 * 11/15/18: presented! Here is my <a href="{{ 'assets/content/publications/2018_ESA_talk.pdf' | relative_url }}">presentation</a>.
 
-* 07/07/18: we are making some good progress, and we've submitted an abstract for our oral presentation (A.
-Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for
-potato leafhopper, Empoasca fabae") to the ESA meeting in Vancouver, BC, Canada. 
+* 07/07/18: we are making some good progress, and we've submitted an abstract for our oral presentation (A.Avanesyan and W. O. Lamp, "Use of molecular markers for plant DNA to determine host plant usage for potato leafhopper, Empoasca fabae") to the ESA meeting in Vancouver, BC, Canada. 
 
 <h4>Representative publications and presentations:</h4>
 
