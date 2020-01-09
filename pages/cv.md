@@ -3,5 +3,5 @@ title:      Curriculum Vitae
 permalink:  /cv/
 ---
 
-<a href="{{ 'assets/content/misc/AlinaAvanesyanCV.pdf' | relative_url }}">Download CV</a> (current as of December 27, 2019).
+<a href="{{ 'assets/content/misc/AlinaAvanesyan_CV.pdf' | relative_url }}">Download CV</a> (current as of January 7, 2020).
 
