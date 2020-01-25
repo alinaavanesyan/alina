@@ -45,8 +45,8 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
   <div class="col-sm">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/projects/novel_associations/img-22.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">First amplification of the chloroplast trnL gene from the lanternfly body ('head+mouthparts' and 'gut content'-samples) 
+    src="{{ '/assets/content/misc/a_1.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Preparing DNA extractions of L. delicatula gut contents
     </figcaption>
     </figure>
   </div>
@@ -57,7 +57,15 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/projects/novel_associations/img-21.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Experimental set up and detection of DNA of consumed fava beans in the guts of potato leafhoppers. Additionally, we've found that contamination of the insect surface with plant DNA is not significant.
+    <figcaption class="figure-caption">Experimental set up and detection of DNA of consumed fava beans in the guts of potato leafhoppers. Additionally, we've found that contamination of the insect surface with plant DNA is not significant
+    </figcaption>
+    </figure>
+  </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/projects/novel_associations/img-22.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">First amplification of the chloroplast trnL gene from the lanternfly body ('head+mouthparts' and 'gut content'-samples) 
     </figcaption>
     </figure>
   </div>
