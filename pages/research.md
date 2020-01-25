@@ -108,7 +108,7 @@ This is a new lab project I'm involved in and it is also a new challenge in my D
 * 06/10/19: DNA from mayfly was detected in feces produced during first 7 hours post ingestion by the same dragonfly individual. The sequence had lower quality but it was still readable.
 
 <hr>
-<h4><strong>(3) Meta-barcoding of the gut contents using NGS approach</strong></h4>
+<h4><strong>3. Meta-barcoding of the gut contents using NGS approach</strong></h4>
 
 We continue exploring host plant usage of the spotted lanternfly and  in this study, we are using next-generation sequencing technology as a promising approach for meta-barcoding plant species from the gut contents of polyphagous insect herbivores. Our current findings of plant DNA detection from the gut contents of the lanternfly nymphs (Avanesyan and Lamp, manuscript is in preparation) suggest that while the observed lanternfly nymphs actively move on a host plant they may not utilize it for feeding. A substantial number of the nymphs (~90%) we have analyzed (collected during summer 2018) showed the ingested DNA from a host plant other than the plant from which the nymphs were collected. To reconstruct a list of all possible host plant species of the lanternfly we are starting conducting meta-barcoding of the lanternfly gut contents using NGS approach ('Amplicon-EZ').
 Our primary objectives include (1) identifying host plant utilization at different nymphal stages of L. delicatula through detection of plant host DNA within insect gut contents, (2) determining the longevity of the plant DNA in the gut contents of L. delicatula at different nymphal stages, and, using these results, (3) investigating feeding behavior of different nymphal stages of L. delicatula on multiple host plants.
@@ -139,7 +139,7 @@ Our primary objectives include (1) identifying host plant utilization at differe
 * 10/21/19: a grant proposal entitled “Identification of host plant use by the invasive spotted lanternfly (Lycorma delicatula) using next-gen DNA sequencing technology” has been submitted to Maryland Agricultural Experiment Station Competitive Grant Program.
 <hr>
 
-<h4><strong>(4) Molecular approaches to diet analysis of insect herbivores: a systematic review</strong></h4>
+<h4><strong>4. Molecular approaches to diet analysis of insect herbivores: a systematic review</strong></h4>
 
 to be added..
 
@@ -148,7 +148,9 @@ to be added..
 <h2><strong>Wetland-stream connectivity: DNA barcoding of native isopods as a tool for assessing watershed connectivity</strong></h2>
 <hr>
 
-This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetland sites and streams in Maryland Delmarva Bays Wetlands we explore the potential connectivity between wetland and stream communities. Morphological identification of isopod species is tricky, and DNA barcoding, which I’m focusing on, is very helpful for estimating how ‘close’ wetland isopod species are to the isopod species inhabiting streams. I’m currently mentoring three students in this DNA barcoding work, and together with my mentees we isolate and sequence a portion of mitochondrial gene, cytochrome oxidase 1 (CO1), create a reference library of these sequences, and using a BLAST search engine in the NCBI GenBank database we assess species and genera identity of isopods. 
+This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetland sites and streams in Maryland Delmarva Bays Wetlands we explore the potential connectivity between wetland and stream communities. Morphological identification of isopod species is tricky, and DNA barcoding, which I’m focusing on, is very helpful for estimating how ‘close’ wetland isopod species are to the isopod species inhabiting streams. I mentored three students in this DNA barcoding work, and together with my mentees we isolated and sequenced a portion of mitochondrial gene, cytochrome oxidase 1 (CO1), created a reference library of these sequences, and using a BLAST search engine in the NCBI GenBank database we assessed species and genera identity of isopods.
+
+To date, we were able to identify seven unique stream species and four unique wetland species of isopods. We didn't find an overlap between species which suggests presumably isolation of stream and wetland populations of isopods and may potentially provide an evidence that stream and wetland arthropod communities do not overlap as well. We are currently working on reconstruction of phylogenetic relationships between these isopod species.
 
 <div class="row">
   <div class="col-sm">
@@ -186,15 +188,25 @@ This is an ongoing project in Dr. Lamp’s lab. Using isopods from multiple wetl
     </figcaption>
     </figure>
   </div>
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/nina-4.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Our current reconstruction of phylogenetic relationships between stream and wetland isopod species (December 23, 2019)
+    </figcaption>
+    </figure>
+  </div>
   </div>
   
+
 <h4>Updates:</h4>
 
-* 06/06/19: We are currently exploring phylogenetic relationships between stream and wetland isopod species.
+* 10/06/19: We are currently exploring phylogenetic relationships between stream and wetland isopod species.
 
 * 04/26/19: Nina presented her final poster at the ERHS Research Symposium. 
 
 * 02/22/19: Nina, my mentee, a high school student, who was working on this project since September 2018, presented her research project earlier this week at her school’s science fair and got 3rd prize! So exciting!
+
 
 <hr>
 
