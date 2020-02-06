@@ -52,23 +52,14 @@ and were published in the conference proceedings.
 
 ## Selected Student Theses
 
-1. Perminova Tanja. (2009). Quantitative methods of bioindication for ecological assessment of soil in
-1. Saint-Petersburg and Leningrad area.
-1. Komarova Luba. (2009). Effect of ecological characteristics of soil in Saint-Petersburg and
-1. Leningrad area on species diversity of soil mesofauna.
-1. Lopatkina Maria. (2009). Conhological variability of terrestrial snails of the Cepaea genus in
-1. biocoenosises of Saint-Petersburg.
-1. Shamkina Natalia. (2009). Morphometric analysis of pulmonates of the Oredezh river in Gatchinskij
-1. region of Leningrad area.
-1. Arsenieva Anastasia. (2008). The spatial distribution and trophic guild structure of soil-dwelling
-1. mesofauna in Gatchinskij region of Leningrad area.
-1. Shapkina Ekaterina. (2008). Ecological assessment of soil zoocenosis in Gatchinskij region of
-1. Leningrad area using bioindication methods.
-1. Sackina Julia. (2008). The influence of oil contamination on an ecological state of the soil and on
-1. the fauna of soil, land and air in a region of Komi republic.
-1. Kogotkova Natalia. (2006). Social behavior of primates: examples of the Cercopithecidae and the
-1. Hylobatidae families.
+1. Perminova Tanja. (2009). Quantitative methods of bioindication for ecological assessment of soil in Saint-Petersburg and Leningrad area.
+1. Komarova Luba. (2009). Effect of ecological characteristics of soil in Saint-Petersburg and Leningrad area on species diversity of soil mesofauna.
+1. Lopatkina Maria. (2009). Conhological variability of terrestrial snails of the Cepaea genus in biocoenosises of Saint-Petersburg.
+1. Shamkina Natalia. (2009). Morphometric analysis of pulmonates of the Oredezh river in Gatchinskij region of Leningrad area.
+1. Arsenieva Anastasia. (2008). The spatial distribution and trophic guild structure of soil-dwelling mesofauna in Gatchinskij region of Leningrad area.
+1. Shapkina Ekaterina. (2008). Ecological assessment of soil zoocenosis in Gatchinskij region of Leningrad area using bioindication methods.
+1. Sackina Julia. (2008). The influence of oil contamination on an ecological state of the soil and on the fauna of soil, land and air in a region of Komi republic.
+1. Kogotkova Natalia. (2006). Social behavior of primates: examples of the Cercopithecidae and the Hylobatidae families.
 1. Silin Egor. (2006). Ecological adaptations of carnivorous birds: example of the Falconiformes order.
-1. Mogilev Alexander. (2005). Ecological adaptations of the Felidae family: example of the Siberian
-1. tiger (Pantera tigris altaica)
+1. Mogilev Alexander. (2005). Ecological adaptations of the Felidae family: example of the Siberian tiger (Pantera tigris altaica)
 1. Vturin Ivan. (2005). Feeding behavior of gray wolf (Canis lupus)
