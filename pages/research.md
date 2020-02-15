@@ -73,6 +73,8 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 <h4>Updates:</h4>
 
+* 02/14/20: The manuscript entitled "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula" has been submitted to Insects, [Special Issue "Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects"](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact)
+
 * 01/09/20: we've submitted an abstract for our oral presentation (Lamp W.O and A.Avanesyan "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula") to 2020 Joint Eastern and Southeastern ESA meeting in Atlanta, GA.
 
 * 11/27/19: the results are ready, and the manuscript "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula" is currently in preparation.

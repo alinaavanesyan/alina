@@ -174,21 +174,21 @@
 # ------------------------------------------------------------------------------
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
-
-
 - entry: '
-  Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
+  Avanesyan, A., and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. '
   type: journal_submit
-  date: 2019-09-02
+  date: 2020-02-14
   projects: [novel_associations]
+
+
 
 # ------------------------------------------------------------------------------
 # manuscripts in preparation 
 # ------------------------------------------------------------------------------
 - entry: '
-  Avanesyan, A., and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. '
+  Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
   type: journal_prep
-  date: 2019-11-19
+  date: 2019-09-02
   projects: [novel_associations]
 
 - entry: '
