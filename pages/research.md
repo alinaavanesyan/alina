@@ -151,7 +151,19 @@ Our primary objectives include (1) identifying host plant utilization at differe
 
 <h4><strong>4. Molecular approaches to diet analysis of insect herbivores: a systematic review</strong></h4>
 
-to be added..
+The idea for this project came from our DNA work with the lanternfly gut contents. I tried a few regions of the chloroplast DNA which were candidates for plant DNA detection within the lanternfly guts, and only one of them yielded good amplification and sequencing results. Unlike relatively straight forward DNA barcoding of 'fresh' plants the situation with ingested plants are more complex: the plant DNA is degraded, plant DNA concentration in insect guts is often extremely low (compared to that in the intact plants), and we often do not know the time of consumption before we extract the ingested plant DNA. Choosing and testing various loci are always time-consuming, and even though there are more and more studies being published on molecular gut content analysis, the information on how to choose the best targeted gene for detecting ingested plant DNA is very limited.
+
+Together with Hannah, an undergraduate student, my great helper and mentee, we have retrieved 902 experimental studies on insect gut content analysis from 4 public databases and 3 research journals. We are currently screening these articles according our several inclusion criteria and selecting the ones we are going to proceed with to the data analysis. Ultimately, we are interested in the following two questions:
+(1) what regions of plant DNA are commonly used for insect molecular gut content analysis?
+(2) what validation methods do the researchers use to determine the success of detection of ingested plant DNA?
+
+We hope that outcomes of our systematic review would help us provide the methodological guidelines for the researchers for choosing the targeted regions of plant DNA which can be reliably detected within insect gut contents.
+
+<h4>Updates:</h4>
+
+* 02/05/20: secondary references are retrieved from the selected articles; we are currently extracting data from the studies.
+
+* 11/20/19: 902 research articles on insect gut content analysis published between 1977-2019 were retrieved; 105 of relevant titles and 68 relevant abstracts were screened; of those, 55 articles were selected for full-text screening.
 
 <hr>
 
