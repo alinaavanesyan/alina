@@ -9,7 +9,7 @@ In my research, I explore various mechanisms underlying species interactions usi
 Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially interactions between native and introduced species. I’m working on a variety of projects that involve primarily molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
 
 <hr>
-<h2><strong>Molecular gut content analysis</strong></h2>
+<h2><strong>Molecular gut content analysis: use of eDNA for discovering hidden diversity of trophic interactions</strong></h2>
 <hr>
 <h4><strong>1. Plant DNA detection within gut contents of sap-feeders</strong></h4>
 
@@ -93,32 +93,12 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 1. <strong>Avanesyan, A.</strong>, and W. Lamp (2018) Use of molecular markers for plant DNA to determine host plant usage for potato leafhopper, Empoasca fabae. Annual Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver, BC, Canada. Oral presentation. <a class="ic4f-nowrap" href="/assets/content/publications/2018_ESA_talk.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>
 
-1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. <em>(In prep.)</em>
+1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. <em>(Submitted)</em>
 
 1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. <em>(In prep.)</em>
 
 <hr>
-<h4><strong>2. Molecular identification of prey in predator gut contents and feces</strong></h4>
-
-This is a new lab project I'm involved in and it is also a new challenge in my DNA barcoding work. I amplify DNA from dragonfly prey items. In addition to a gut content analysis, I’m working with degraded DNA from dragonfly feces. So far, I successfully amplified and sequenced COI partial gene from dragonfly feces produced during the first 2 hours post ingestion. The sequence analysis with subsequent BLAST results showed that the prey item was a crane fly. Surprisingly enough the DNA from the crane fly wasn’t degraded and an isolated fragment of 667 bp showed good sequence quality. These exciting results can make identification of dragonfly prey possible and accurately confirm (or even point to new) trophic interactions in dragonfly natural habitats.
-
-<div class="row">
-  <div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/odonata.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Obtaining the DNA of a crane fly from dragonfly feces.
-    </figcaption>
-    </figure>
-    </div>
-</div>
-
-<h4>Updates:</h4>
-
-* 06/10/19: DNA from mayfly was detected in feces produced during first 7 hours post ingestion by the same dragonfly individual. The sequence had lower quality but it was still readable.
-
-<hr>
-<h4><strong>3. Meta-barcoding of the gut contents using NGS approach</strong></h4>
+<h4><strong>2. eDNA meta-barcoding of insect gut contents</strong></h4>
 
 We continue exploring host plant usage of the spotted lanternfly and  in this study, we are using next-generation sequencing technology as a promising approach for meta-barcoding plant species from the gut contents of polyphagous insect herbivores. Our current findings of plant DNA detection from the gut contents of the lanternfly nymphs (Avanesyan and Lamp, manuscript is in preparation) suggest that while the observed lanternfly nymphs actively move on a host plant they may not utilize it for feeding. A substantial number of the nymphs (~90%) we have analyzed (collected during summer 2018) showed the ingested DNA from a host plant other than the plant from which the nymphs were collected. To reconstruct a list of all possible host plant species of the lanternfly we are starting conducting meta-barcoding of the lanternfly gut contents using NGS approach ('Amplicon-EZ').
 Our primary objectives include (1) identifying host plant utilization at different nymphal stages of L. delicatula through detection of plant host DNA within insect gut contents, (2) determining the longevity of the plant DNA in the gut contents of L. delicatula at different nymphal stages, and, using these results, (3) investigating feeding behavior of different nymphal stages of L. delicatula on multiple host plants.
@@ -149,6 +129,27 @@ Our primary objectives include (1) identifying host plant utilization at differe
 * 10/21/19: a grant proposal entitled “Identification of host plant use by the invasive spotted lanternfly (Lycorma delicatula) using next-gen DNA sequencing technology” has been submitted to Maryland Agricultural Experiment Station Competitive Grant Program.
 <hr>
 
+
+<h4><strong>3. Molecular identification of prey in predator gut contents and feces</strong></h4>
+
+This is a new lab project I'm involved in and it is also a new challenge in my DNA barcoding work. I amplify DNA from dragonfly prey items. In addition to a gut content analysis, I’m working with degraded DNA from dragonfly feces. So far, I successfully amplified and sequenced COI partial gene from dragonfly feces produced during the first 2 hours post ingestion. The sequence analysis with subsequent BLAST results showed that the prey item was a crane fly. Surprisingly enough the DNA from the crane fly wasn’t degraded and an isolated fragment of 667 bp showed good sequence quality. These exciting results can make identification of dragonfly prey possible and accurately confirm (or even point to new) trophic interactions in dragonfly natural habitats.
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/odonata.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Obtaining the DNA of a crane fly from dragonfly feces.
+    </figcaption>
+    </figure>
+    </div>
+</div>
+
+<h4>Updates:</h4>
+
+* 06/10/19: DNA from mayfly was detected in feces produced during first 7 hours post ingestion by the same dragonfly individual. The sequence had lower quality but it was still readable.
+
+<hr>
 <h4><strong>4. Molecular approaches to diet analysis of insect herbivores: a systematic review</strong></h4>
 
 The idea for this project came from our DNA work with the lanternfly gut contents. I tried a few regions of the chloroplast DNA which were candidates for plant DNA detection within the lanternfly guts, and only one of them yielded good amplification and sequencing results. Unlike relatively straight forward DNA barcoding of 'fresh' plants the situation with ingested plants are more complex: the plant DNA is degraded, plant DNA concentration in insect guts is often extremely low (compared to that in the intact plants), and we often do not know the time of consumption before we extract the ingested plant DNA. Choosing and testing various loci are always time-consuming, and even though there are more and more studies being published on molecular gut content analysis, the information on how to choose the best targeted gene for detecting ingested plant DNA is very limited.
