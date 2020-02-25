@@ -6,7 +6,7 @@ permalink:  /research/
 <hr>
 
 In my research, I explore various mechanisms underlying species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
-Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially interactions between native and introduced species. I’m working on a variety of projects that involve primarily molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
+Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
 
 <hr>
 <h2><strong>Molecular gut content analysis: use of eDNA for discovering hidden diversity of trophic interactions</strong></h2>
