@@ -160,6 +160,17 @@ Together with Hannah, an undergraduate student, my great helper and mentee, we h
 
 We hope that outcomes of our systematic review would help us provide the methodological guidelines for the researchers for choosing the targeted regions of plant DNA which can be reliably detected within insect gut contents.
 
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/system_review.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">First resuls from the extracted data based on 39 studies and 63 experimental records which satisfied our inclusion criteria.
+    </figcaption>
+    </figure>
+    </div>
+</div>
+
 <h4>Updates:</h4>
 
 * 02/05/20: secondary references are retrieved from the selected articles; we are currently extracting data from the studies.

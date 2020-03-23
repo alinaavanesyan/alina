@@ -55,14 +55,29 @@ Four of these sequences were obtained by my former mentee, <strong>Bryan</strong
 * 09/23/19: I was very pleased to learn recently that Bryan was admitted to the University of Maryland where he continues studying Molecular Biology. Bryan was also featured in [The John Carroll School News](https://www.facebook.com/johncarrollschool/photos/a.549607655156223/2147147948735511/?type=3&theater). I'm so happy for him!
 
 <hr>
-<h4><strong>2. Molecular gut content analysis of the spotted lanternfly</strong></h4>
-to be added
+<h3><strong>2. Molecular gut content analysis of the spotted lanternfly</strong></h3>
+Over the past 2 years, I've been mentoring several students in different aspects of the molecular gut content analysis of the spotted lanternfly. <strong>Jessica</strong> and <strong>Nurani</strong>, our former lab managers, conducted DNA extractions and PCR amplification of a portion of trnL-intron from ingested plants; <strong>Darsy</strong>, a Ph.D. student, helped with obtaining and depositing plant sequences to the NCBI GenBank database; <strong>Hannah</strong>, an undergraduate student, is currently working on meta-barcoding of the lanternfly gut contents using a NGS-approach. 
+
+<strong>Hannah</strong>, my current mentee and a great helper, is making an incredible progress: after less than a month of training she is now independently conducting all the steps from DNA isolation, PCR, and preparing samples for NGS sequncing. Hannah is currently working on identification of obtained sequences and qualitative analysis of the spectrum of ingested host plants. She is also actively participating in another project, a systematic review of molecular approaches to decipher insect herbivore diet (manuscript is in preparation with Hannah as a coauthor).
+
+
+<div class="row">
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/hannah_1.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Hannah conducts DNA extractions and PCR amplification of the plant DNA regions obtained from the spotted lanternfly gut contents (Jan 15, 2020; College Park, MD) 
+    </figcaption>
+    </figure>
+  </div>
+</div>
 
 <hr>
-<h3><strong>Wetland-stream connectivity: DNA barcoding of isopods</strong></h3>
+
+## Wetland-stream connectivity: DNA barcoding of isopods 
 <hr> 
 
-'Wetland-stream connectivity' connectivity is yet another exciting project; my mentee, Nina, a high school student, was working on this project more than year. During her work she created a reference library of mitochondrial sequences from stream isopod species - she then 'BLASTed' sequences from wetland isopod individuals against this library to determine the matches and estimate how 'close' wetland species were to stream species. 
+'Wetland-stream connectivity' connectivity is yet another exciting project; my mentee, <strong>Nina</strong>, a high school student, was working on this project more than year. During her work she created a reference library of mitochondrial sequences from stream isopod species - she then 'BLASTed' sequences from wetland isopod individuals against this library to determine the matches and estimate how 'close' wetland species were to stream species. 
 
 <div class="row">
   <div class="col-sm">
@@ -83,14 +98,6 @@ to be added
   </div>
   </div>
 
-<h4>Updates:</h4>
-
-* 05/25/19: Nina was admitted to the University of Maryland where she will study Environmental Science and Policy. Very exciting! She is continuing, however, her work on DNA barcoding of isopods this summer, learning and improving the phylogenetic reconstructions for our isopod samples.
-
-* 04/26/19: Nina succesfully presented the final results of her year-long project at her school's research symposium!
-
-* 02/22/19: Nina presented her research project earlier this week at her school's science fair and got 3rd prize! So exciting! 
-
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
@@ -101,6 +108,16 @@ to be added
     </figure>
   </div>
 </div>
+
+<h4>Updates:</h4>
+
+* 05/25/19: Nina was admitted to the University of Maryland where she will study Environmental Science and Policy. Very exciting! She is continuing, however, her work on DNA barcoding of isopods this summer, learning and improving the phylogenetic reconstructions for our isopod samples.
+
+* 04/26/19: Nina succesfully presented the final results of her year-long project at her school's research symposium!
+
+* 02/22/19: Nina presented her research project earlier this week at her school's science fair and got 3rd prize! So exciting! 
+
+
 
  
 <hr>
