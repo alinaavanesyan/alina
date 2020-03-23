@@ -8,10 +8,10 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
 
 <hr>
 
-## Molecular diet analysis 
+## Ecology of species interactions: use of molecular diet analysis 
 <hr>
 
-I mentored two graduate students and several undergraduate students in their research projects which involved diet analysis using various molecular biology techniques. The students worked on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we tried to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolated plant DNA sequences, conducted sequence analysis, and learn how annotate the sequence and deposit it to GenBank.
+I mentored two graduate students and several undergraduate students in their research projects which involved insect diet analysis using various molecular biology techniques. The students worked on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we tried to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolated plant DNA sequences, conducted sequence analysis, and learn how annotate the sequence and deposit it to GenBank.
 
 To date, my mentees (in bold) have succesfully submitted to GenBank a total of 7 sequences for the chloroplast trnL-gene. All of them have been approved, and some of them are already available in the NCBI GenBank database: 
 
@@ -58,7 +58,7 @@ Four of these sequences were obtained by my former mentee, <strong>Bryan</strong
 <h3><strong>2. Molecular gut content analysis of the spotted lanternfly</strong></h3>
 Over the past 2 years, I've been mentoring several students in different aspects of the molecular gut content analysis of the spotted lanternfly. <strong>Jessica</strong> and <strong>Nurani</strong>, our former lab managers, conducted DNA extractions and PCR amplification of a portion of trnL-intron from ingested plants; <strong>Darsy</strong>, a Ph.D. student, helped with obtaining and depositing plant sequences to the NCBI GenBank database; <strong>Hannah</strong>, an undergraduate student, is currently working on meta-barcoding of the lanternfly gut contents using a NGS-approach. 
 
-<strong>Hannah</strong>, my current mentee and a great helper, is making an incredible progress: after less than a month of training she is now independently conducting all the steps from DNA isolation, PCR, and preparing samples for NGS sequncing. Hannah is currently working on identification of obtained sequences and qualitative analysis of the spectrum of ingested host plants. She is also actively participating in another project, a systematic review of molecular approaches to decipher insect herbivore diet (manuscript is in preparation with Hannah as a coauthor).
+<strong>Hannah</strong>, my current mentee and a great helper, is making an incredible progress: after less than a month of training she is now independently conducting all the steps from DNA isolation, PCR, and preparing samples for NGS sequncing. Hannah is currently working on identification of obtained sequences, as well as a qualitative analysis of the spectrum of ingested host plants. She is also actively participating in another project, a systematic review of molecular approaches to decipher insect herbivore diet (manuscript is in preparation with Hannah as a coauthor).
 
 
 <div class="row">
@@ -67,6 +67,24 @@ Over the past 2 years, I've been mentoring several students in different aspects
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/misc/hannah_1.jpg' | relative_url }}" alt="">
     <figcaption class="figure-caption">Hannah conducts DNA extractions and PCR amplification of the plant DNA regions obtained from the spotted lanternfly gut contents (Jan 15, 2020; College Park, MD) 
+    </figcaption>
+    </figure>
+  </div>
+
+<div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/hannah_2.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">The spotted lanternfly nymphs ascending and descending a host tree at the collection site (July 20, 2018; Berks County, PA) 
+    </figcaption>
+    </figure>
+  </div>
+
+  <div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/hannah_3.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">Fourth instar nymph of the spotted lanternfly, Lycorma delicatula (July 20, 2018; Berks County, PA) 
     </figcaption>
     </figure>
   </div>

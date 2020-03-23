@@ -5,15 +5,15 @@ permalink:  /research/
 
 <hr>
 
-In my research, I explore various mechanisms underlying species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
+In my research, I explore various mechanisms underlying ecology and evolution of species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
 Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
 
 <hr>
-<h2><strong>Molecular gut content analysis: use of eDNA for discovering hidden diversity of trophic interactions</strong></h2>
+<h2><strong>Hidden diversity of trophic interactions: use of molecular gut content analysis</strong></h2>
 <hr>
-<h4><strong>1. Plant DNA detection within gut contents of sap-feeders</strong></h4>
+<h4><strong>1. Novel plant-herbivore interactions: can plant DNA be detected within gut contents of sap-feeders? </strong></h4>
 
-Plant DNA detection in insect gut contents is one of the most accurate ways to confirm host plant
+Plant DNA detection in insect herbviore gut contents is one of the most accurate ways to confirm host plant
 utilization, determine insect diet and interactions with other organisms. Most of the previous
 studies that involved molecular analysis of insect gut contents were primarily conducted on
 leaf-chewing insects, such as beetles, moths, or grasshoppers. Sap-feeders could be more challenging
@@ -98,9 +98,9 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. <em>(In prep.)</em>
 
 <hr>
-<h4><strong>2. eDNA meta-barcoding of insect gut contents</strong></h4>
+<h4><strong>2. Deciphering the host plant range of invasive species: eDNA meta-barcoding of insect gut contents</strong></h4>
 
-We continue exploring host plant usage of the spotted lanternfly and  in this study, we are using next-generation sequencing technology as a promising approach for meta-barcoding plant species from the gut contents of polyphagous insect herbivores. Our current findings of plant DNA detection from the gut contents of the lanternfly nymphs (Avanesyan and Lamp, manuscript is in preparation) suggest that while the observed lanternfly nymphs actively move on a host plant they may not utilize it for feeding. A substantial number of the nymphs (~90%) we have analyzed (collected during summer 2018) showed the ingested DNA from a host plant other than the plant from which the nymphs were collected. To reconstruct a list of all possible host plant species of the lanternfly we are starting conducting meta-barcoding of the lanternfly gut contents using NGS approach ('Amplicon-EZ').
+We continue exploring host plant usage of the spotted lanternfly, an aggressive invader in the eastern US. In this study, we are using next-generation sequencing technology as a promising approach for meta-barcoding plant species from the gut contents of polyphagous insect herbivores. Our current findings of plant DNA detection from the gut contents of the lanternfly nymphs (Avanesyan and Lamp, manuscript is in preparation) suggest that while the observed lanternfly nymphs actively move on a host plant they may not utilize it for feeding. A substantial number of the nymphs (~90%) we have analyzed (collected during summer 2018) showed the ingested DNA from a host plant other than the plant from which the nymphs were collected. To reconstruct a list of all possible host plant species of the lanternfly we are starting conducting meta-barcoding of the lanternfly gut contents using NGS approach ('Amplicon-EZ').
 Our primary objectives include (1) identifying host plant utilization at different nymphal stages of L. delicatula through detection of plant host DNA within insect gut contents, (2) determining the longevity of the plant DNA in the gut contents of L. delicatula at different nymphal stages, and, using these results, (3) investigating feeding behavior of different nymphal stages of L. delicatula on multiple host plants.
 
 <div class="row">
@@ -130,7 +130,7 @@ Our primary objectives include (1) identifying host plant utilization at differe
 <hr>
 
 
-<h4><strong>3. Molecular identification of prey in predator gut contents and feces</strong></h4>
+<h4><strong>3. Prey-predator interactions: molecular identification of prey items in predator gut contents and feces</strong></h4>
 
 This is a new lab project I'm involved in and it is also a new challenge in my DNA barcoding work. I amplify DNA from dragonfly prey items. In addition to a gut content analysis, I’m working with degraded DNA from dragonfly feces. So far, I successfully amplified and sequenced COI partial gene from dragonfly feces produced during the first 2 hours post ingestion. The sequence analysis with subsequent BLAST results showed that the prey item was a crane fly. Surprisingly enough the DNA from the crane fly wasn’t degraded and an isolated fragment of 667 bp showed good sequence quality. These exciting results can make identification of dragonfly prey possible and accurately confirm (or even point to new) trophic interactions in dragonfly natural habitats.
 
@@ -244,7 +244,7 @@ To date, we were able to identify seven unique stream species and four unique we
 
 <hr>
 
-<h2><strong>Morphometric analysis of the insect mouthparts and tarsal tips using scanning electron microscopy</strong></h2>
+<h2><strong>Morphological adaptations of invasive insects to host plant usage: use of scanning electron microscopy</strong></h2>
 <hr>
 
 To additionally explore the morphological adaptations of the lanternfly to host plant utilization, I focus on the following two objectives: (a) to assess changes in morphology of the lanternfly mouthparts (stylets and labium), and (b) to assess changes in morphology of the lanternfly tarsal tips (arolia and tarsal claws) at each developmental stage. The labium, stylets, and tarsal tips are the structures which are associated with primary contact of the lanternfly with its host plant, and which potentially facilitate the lanternfly successful host plant use. I assess the developmental changes in these structures using both scanning electron microscopy (SEM) and morphometric analysis. We expect these structures to undergo substantial morphological and morphometric changes throughout the lanternfly development which could potentially indicates the lanternfly association with certain host trees at each developmental stage. 
@@ -349,7 +349,7 @@ symposium organized by the Office of Postdoctoral Affairs.
 
 <hr>
 
-<h2><strong>Herbivore resistance and tolerance in Miscanthus sinensis cultivars</strong></h2>
+<h2><strong>Herbivore resistance and tolerance in invasive Miscanthus sinensis cultivars</strong></h2>
 <hr>
 Although exotic chinese silver grass, a gorgeous ornamental plant and important biofuel source, can be highly invasive in some states, not all of its cultivars are invasive. For this project, I conducted field and greenhouse experiments to explore plant resistance and tolerance to grasshopper herbivory, how these responses differ among Miscanthus cultivars, and whether the initially introduced wild type demonstrates the highest level of herbivore resistance.
 
