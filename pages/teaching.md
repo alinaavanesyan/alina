@@ -35,8 +35,7 @@ permalink:  /teaching/
 * Bioindication (lectures; 2008; docent)
 
 ## Courses developed
-<p class="mb-0"><strong>Department of Zoology, Herzen State University, St. Petersburg, Russia</strong></p>
-
+* <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a>
 * <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a>
 * Animal Behavior
 * Human Ecology
