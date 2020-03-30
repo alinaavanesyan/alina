@@ -59,13 +59,14 @@ The course includes weekly lectures and laboratories, weekly homework, 6 online 
 ## Recommended books
 * Lockwood, J. L., Hoopes, M. F., & Marchetti, M. P. (2013). Invasion ecology. John Wiley & Sons.
 * Simberloff, D. (2013). Invasive species: what everyone needs to know. Oxford University Press.
-
+{% assign path="/assets/content/courses/invasionecology/" %}
 ## Lectures
 
-1. Invasive species: what are they?
+1. <a href="{{ 'assets/content/courses/invasionecology/INVASION_ECOLOGY_lecture_ slides_wk1.pdf' | relative_url }}">Invasive species: what are they?</a>
 * Native vs. non-native species: exploring definitions
 * Introduced species: modes of transport
 * From species introduction to species invasion: stages of invasion process
+* {% include download.html base=path file="INVASION_ECOLOGY_worksheet_wk1.pdf" text="worksheet" -%} {% include download.html base=path file="INVASION_ECOLOGY_homework_wk1.pdf" text="homework" -%} 
 
 2. General hypotheses in invasion ecology	
 * Enemy Release Hypothesis, Darwin Naturalization's hypothesis and others: invasive species perspective
@@ -102,10 +103,11 @@ The course includes weekly lectures and laboratories, weekly homework, 6 online 
 * What have we learned so far: Invasive species: definition, diversity, interactions with other species and environment
 * Mid-term exam
 
-9. Narrowing down the focus: novel plant-insect interactions
+9. <a href="{{ 'assets/content/courses/invasionecology/INVASION_ECOLOGY_lecture_ slides_wk9.pdf' | relative_url }}">Narrowing down the focus: novel plant-insect interactions</a>
 * Diversity of non-native insect and plant species: forest and crop pests
 * Interactions between native and invasive species and their ecological impact: a case study  
 * Novel plant-associations: implications for co-evolution, biotic resistance, and biological control
+* {% include download.html base=path file="INVASION_ECOLOGY_worksheet_wk9.pdf" text="worksheet" -%} {% include download.html base=path file="INVASION_ECOLOGY_homework_wk9.pdf" text="homework" -%} 
 
 10. Narrowing down the focus: novel host-parasite interactions
 * Introduced parasites and their mode of action; host responses
@@ -161,7 +163,7 @@ Week 8. Analysis of experimental data; preparing presentations
 
 Week 9. Presenting experimental results; in-class discussion
 
-Week 10. Virtual experiment: "Novel plant-insect interactions"; predicting outcomes based on invasion hypotheses
+Week 10. Designing experiment: "Novel plant-insect interactions"; predicting outcomes based on invasion hypotheses
 
 Week 11. Literature review; guided group discussion
 
