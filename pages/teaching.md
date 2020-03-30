@@ -35,11 +35,11 @@ permalink:  /teaching/
 * Bioindication (lectures; 2008; docent)
 
 ## Courses developed
-* <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a>
-* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a>
-* Animal Behavior
-* Human Ecology
-* Bioindication
+* <a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology</a> (2020)
+* <a href="{{ site.baseurl }}{% link pages/courses/animal-ecology.md %}">Animal Ecology</a> (2003)
+* Animal Behavior (2004)
+* Human Ecology (2007)
+* Bioindication (2008)
 
 {% assign path="/assets/content/courses/mainpage/" %}
 
