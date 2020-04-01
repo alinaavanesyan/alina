@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-30T02:30:19-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Joined the Reviewer Board for journal ‘Insects’</title><link href="http://localhost:4000/blog/2020/03/joined-reviewer-board/" rel="alternate" type="text/html" title="Joined the Reviewer Board for journal 'Insects'" /><published>2020-03-18T00:00:00-04:00</published><updated>2020-03-18T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/03/joined-reviewer-board</id><content type="html" xml:base="http://localhost:4000/blog/2020/03/joined-reviewer-board/">&lt;p&gt;I have accepted an invitation to join the &lt;a href=&quot;https://www.mdpi.com/journal/insects/submission_reviewers&quot;&gt;Reviewer Board&lt;/a&gt; for journal “Insects”! I’ll be serving as a reviewer in the following subject areas: molecular gut content analysis, eDNA, DNA barcoding, invasion ecology, plant-insect interactions, insect morphology, and host plant usage. &lt;!--more--&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T19:08:49-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!</title><link href="http://localhost:4000/blog/2020/04/lanternfly-paper-published/" rel="alternate" type="text/html" title="Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!" /><published>2020-04-01T00:00:00-04:00</published><updated>2020-04-01T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/04/lanternfly-paper-published</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/lanternfly-paper-published/">&lt;p&gt;So happy to see our &lt;a href=&quot;https://doi.org/10.3390/insects11040215&quot;&gt;paper&lt;/a&gt; on molecular gut content analysis of the invasive spotted lanternfly, Lycorma delicatula, published today in Insects special issue &lt;a href=&quot;https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact&quot;&gt;“Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”&lt;/a&gt;! &lt;!--more--&gt; 
+This paper summarizes the results of my work on molecular confirmation of diet of the spotted lanternfly. In this study we showed, for the first time, that host plant DNA can be identified within the gut contents of the spotted lanternfly and demonstrated the use of this approach for deciphering the host plant range of the lanternfly. I’m very happy to get it done and be able to share. I’m also very thankful to Darsy, Jessica, and Nurani - my mentees and great helpers - who helped me with routine DNA extraction, sequence editing, and depositing sequences to NCBI GenBank.&lt;/p&gt;
+
+&lt;p&gt;Here is our &lt;a href=&quot;/assets/content/publications/2020_SLF_gut_content.pdf&quot;&gt;paper&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Avanesyan, A., and W.O. Lamp. Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue “ Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”, 11(4), 215, &lt;a href=&quot;https://doi.org/10.3390/insects11040215&quot;&gt;doi.org/10.3390/insects11040215&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A few selected figures:&lt;/p&gt;
+
+&lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/fig2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Overview of the main activities of the study: collection L. delicatula nymphs and plant samples, DNA isolation from plant samples and L. delicatula gut contents, identification plant species, and determining lanternfly-plant associations.
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/fig3.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Average sequence quality scores (QS) and contiguous read length (CRL) of the plant sequences isolated from gut contents of L. delicatula nymphs (SLF) and from the intact plant samples
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/projects/novel_associations/fig4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Results of identification of plant species ingested by L. delicatula nymphs, based on sequences obtained for a portion of the chloroplast rbcL gene
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  
+  
+&lt;/div&gt;</content><author><name></name></author><summary type="html">So happy to see our paper on molecular gut content analysis of the invasive spotted lanternfly, Lycorma delicatula, published today in Insects special issue “Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”!</summary></entry><entry><title type="html">Joined the Reviewer Board for journal ‘Insects’</title><link href="http://localhost:4000/blog/2020/03/joined-reviewer-board/" rel="alternate" type="text/html" title="Joined the Reviewer Board for journal 'Insects'" /><published>2020-03-18T00:00:00-04:00</published><updated>2020-03-18T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/03/joined-reviewer-board</id><content type="html" xml:base="http://localhost:4000/blog/2020/03/joined-reviewer-board/">&lt;p&gt;I have accepted an invitation to join the &lt;a href=&quot;https://www.mdpi.com/journal/insects/submission_reviewers&quot;&gt;Reviewer Board&lt;/a&gt; for journal “Insects”! I’ll be serving as a reviewer in the following subject areas: molecular gut content analysis, eDNA, DNA barcoding, invasion ecology, plant-insect interactions, insect morphology, and host plant usage. &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m happy to continue my longtime collaboration with journal “Insects” as an author, reviewer, guest editor, and now a member of the journal’s Reviewer Board. I’ve been enjoying all of my interactions with the editorial board of this journal and I’m always impressed by its timely responses, reviews, interesting special issues, and a speedy publication process!&lt;/p&gt;
 
@@ -212,16 +245,4 @@
         &lt;/figure&gt;
   &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">We had a great time on campus enjoying yet another Maryland Day! While I was busy in our “Discover a Swamp” room, the rest of my family enjoyed ice-cream, baloons, trucks, books, and of course, our bugs!</summary></entry><entry><title type="html">Nina succesfully presented at her school research symposium</title><link href="http://localhost:4000/blog/2019/04/school-symposium/" rel="alternate" type="text/html" title="Nina succesfully presented at her school research symposium" /><published>2019-04-26T00:00:00-04:00</published><updated>2019-04-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2019/04/school-symposium</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/school-symposium/">&lt;p&gt;Last Friday, I enjoyed attending &lt;a href=&quot;https://www.greenbeltnewsreview.com/news-stories/erhs-symposium-shows-off-students-science-acumen/&quot;&gt;Eleanor Roosevelt High School Annual Research Symposium&lt;/a&gt;. Nina, one of my mentees, presented final results of her DNA barcoding work. &lt;!--more--&gt;  This was her year-long project on identification of wetland and stream species of isopods using DNA barcoding. The overall idea of the project was to show whether wetland and stream communities demonstrate biological connectivity.&lt;/p&gt;
-
-&lt;p&gt;Nina presented a poster showing all the steps of the DNA barcoding process she learned during her year-long internship, as well as our current results. Using phylogenetic reconstructions, Nina has pinpointed three unique stream species and two unique wetland species which do not overlap.&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-sm&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/nina001.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;figcaption class=&quot;figure-caption&quot;&gt;Nina presented her final poster at the ERHS Research Symposium (April 26, 2019; Greenbelt, MD) 
-    &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Last Friday, I enjoyed attending Eleanor Roosevelt High School Annual Research Symposium. Nina, one of my mentees, presented final results of her DNA barcoding work.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">We had a great time on campus enjoying yet another Maryland Day! While I was busy in our “Discover a Swamp” room, the rest of my family enjoyed ice-cream, baloons, trucks, books, and of course, our bugs!</summary></entry></feed>

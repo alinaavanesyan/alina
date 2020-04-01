@@ -2,6 +2,13 @@
 # journal articles
 # ------------------------------------------------------------------------------
 - entry: '
+  Avanesyan, A., and W.O. Lamp. (2020) Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue " Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects", 11(4), 215, doi.org/10.3390/insects11040215. '
+  type: journal
+  date: 2020-04-01
+  file: 2020_SLF_gut_content.pdf
+  projects: [novel_associations]
+
+- entry: '
   Avanesyan, A., Maugel T.K., and W. Lamp (2019) External morphology and developmental 
   changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula. PLOS ONE, doi.org/10.1371/journal.pone.0226995 '
   type: journal
@@ -21,8 +28,8 @@
 - entry: '
   Avanesyan, A. (2018) Should I eat or should I go? Acridid grasshoppers and
   their novel host plants: implications for biotic resistance. Plants: Special
-  Issue "Plants Interacting with other Organisms: Insects", 7(4), 83;
-    https://doi.org/10.3390/plants7040083. Invited paper.'   
+  Issue "Plants Interacting with other Organisms: Insects", 7(4), 83,
+    doi.org/10.3390/plants7040083. Invited paper.'   
   type: journal
   date: 2018-10-07
   file: 2018_should_i_eat.pdf
@@ -174,12 +181,6 @@
 # ------------------------------------------------------------------------------
 # submitted manuscripts 
 # ------------------------------------------------------------------------------
-- entry: '
-  Avanesyan, A., and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. '
-  type: journal_submit
-  date: 2020-02-14
-  projects: [novel_associations]
-
 
 
 # ------------------------------------------------------------------------------
