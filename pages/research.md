@@ -73,6 +73,8 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 <h4>Updates:</h4>
 
+* 04/01/20: Our [paper](https://doi.org/10.3390/insects11040215) on molecular gut content analysis of the invasive spotted lanternfly, Lycorma delicatula, was published today in Insects special issue ["Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact)! So exciting!
+
 * 02/14/20: The manuscript entitled "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula" has been submitted to Insects, [Special Issue "Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects"](https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact)
 
 * 01/09/20: we've submitted an abstract for our oral presentation (Lamp W.O and A.Avanesyan "Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula") to 2020 Joint Eastern and Southeastern ESA meeting in Atlanta, GA.
@@ -91,11 +93,11 @@ In this project, I'm using two sap-feeding insects - the potato leafhopper and t
 
 <h4>Representative publications and presentations:</h4>
 
+1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. (2020) Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue " Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects", 11(4), 215<a class="ic4f-nowrap" href="/assets/content/publications/2020_SLF_gut_content.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>
+
 1. <strong>Avanesyan, A.</strong>, and W. Lamp (2018) Use of molecular markers for plant DNA to determine host plant usage for potato leafhopper, Empoasca fabae. Annual Meeting of the Entomological Society of America: 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver, BC, Canada. Oral presentation. <a class="ic4f-nowrap" href="/assets/content/publications/2018_ESA_talk.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a>
 
-1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula. <em>(Submitted)</em>
-
-1. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. <em>(In prep.)</em>
+11. <strong>Avanesyan, A.</strong>, and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. <em>(In prep.)</em>
 
 <hr>
 <h4><strong>2. Deciphering the host plant range of invasive species: eDNA meta-barcoding of insect gut contents</strong></h4>

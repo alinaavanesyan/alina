@@ -7,7 +7,7 @@ This paper summarizes the results of my work on molecular confirmation of diet o
 
 Here is our <a href="{{ 'assets/content/publications/2020_SLF_gut_content.pdf' | relative_url }}">paper</a>:
 
-Avanesyan, A., and W.O. Lamp. Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue " Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects", 11(4), 215, [doi.org/10.3390/insects11040215](https://doi.org/10.3390/insects11040215)  
+Avanesyan, A., and W.O. Lamp. (2020) Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue " Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects", 11(4), 215, [doi.org/10.3390/insects11040215](https://doi.org/10.3390/insects11040215)  
 
 A few selected figures:
 
