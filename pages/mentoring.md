@@ -4,7 +4,11 @@ permalink:  /mentoring/
 
 ---
 <hr>
-In my current postdoctoral work at the University of Maryland I've been mentoring several students in DNA barcoding work. This work has been the main part of several ongoing projects in our lab, such as: wetland-stream connectivity; host plant usage of potato leafhoppers and the spotted lanternfly. Recently, we have also started working on molecular diet confirmation of dragonflies and damselflies conducting DNA barcoding from insect feces. I'm training the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, as well as sequence analysis and depositing the sequences to the NCBI GenBank datase. I'm also mentoring a student on retrieving data from published studies for our planned systematic review on efficiency of various molecular markers for plant DNA detection within insect gut contents.
+In my current postdoctoral work at the University of Maryland I've proposed, developed and managed DNA barcoding flow for our lab research: I've set up DNA extraction, PCR, and electrophoresis protocols, proposed and acquired reagents and equipment, set up sequencing software, managed sequencing service, trained and coordinated lab members. This DNA barcoding work became the main part of several ongoing projects in our lab, such as: wetland-stream connectivity; dragonflies diet composition; and host plant usage of potato leafhoppers and the spotted lanternfly. 
+
+Over the past 2 years, I've mentored 10 students in various DNA barcoding research projects. I trained the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, sequence analysis and depositing the sequences to the NCBI GenBank datase, as well as retrieving data from published studies as part of our planned systematic review on molecular approaches to study insect diet. All this work has resulted (so far) in 10 student GenBank submissions and 2 student school symposium presentations (with 1 award). I also have one manuscript in preparation with one of my mentees as a coauthors. I enjoy working with my students and seeing their progress, and I'm very happy for their big and small successes.
+
+
 
 <hr>
 
@@ -12,6 +16,27 @@ In my current postdoctoral work at the University of Maryland I've been mentorin
 <hr>
 
 I mentored two graduate students and several undergraduate students in their research projects which involved insect diet analysis using various molecular biology techniques. The students worked on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we tried to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolated plant DNA sequences, conducted sequence analysis, and learn how annotate the sequence and deposit it to GenBank.
+
+
+<h3><strong>DNA barcoding protocols we use:</strong></h3>
+
+* <a href="{{ 'assets/content/misc/DNAbarcoding_in_pictures.pdf' | relative_url }}">Overview of the main DNA barcoding steps</a> 
+* <a href="{{ 'assets/content/misc/DNAextraction_protocol.pdf' | relative_url }}">DNA extraction</a>
+* <a href="{{ 'assets/content/misc/Primer_dilutions.pdf' | relative_url }}">Primer dilutions</a> 
+* PCR protocols: (a) <a href="{{ 'assets/content/misc/PCRprotocol_isopods.pdf' | relative_url }}">isopods</a>; (b) <a href="{{ 'assets/content/misc/PCRprotocol_leafhoppers_lanternfly.pdf' | relative_url }}">leafhoppers</a>; (c) <a href="{{ 'assets/content/misc/PCRprotocol_leafhoppers_lanternfly.pdf' | relative_url }}">spotted lanternfly</a>
+* <a href="{{ 'assets/content/misc/PCRpurification_protocol_ExoSAP-IT.pdf' | relative_url }}">PCR product purification</a> 
+* <a href="{{ 'assets/content/misc/GelElectrophoresis_protocol.pdf' | relative_url }}">Gel electrophoresis</a>
+* Sanger sequencing: <a href="{{ 'assets/content/misc/SequenceAnalysis_BioEdit_steps.pdf' | relative_url }}">sequence editing and alignment</a>
+* Next-generation sequencing: (a) <a href="{{ 'assets/content/misc/NGS_sample_prep_submit.pdf' | relative_url }}">sample preparation and submission</a>; (b) <a href="{{ 'assets/content/misc/RetrievingNGSresults_steps.pdf' | relative_url }}">retrieving sequences from GENEWIZ</a>
+
+<div class="col-sm">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/pcr.jpg' | relative_url }}" alt="">
+    <figcaption class="figure-caption">This is a drawing of our PCR protocol which one of my mentees made while I was explaining the main steps. I was very impressed! (Sep, 2019)
+    </figcaption>
+    </figure>
+</div>
 
 To date, my mentees (in bold) have succesfully submitted to GenBank a total of 7 sequences for the chloroplast trnL-gene. All of them have been approved, and some of them are already available in the NCBI GenBank database: 
 
