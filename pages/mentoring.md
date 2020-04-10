@@ -38,21 +38,10 @@ I mentored two graduate students and several undergraduate students in their res
     </figure>
 </div>
 
-To date, my mentees (in bold) have succesfully submitted to GenBank a total of 7 sequences for the chloroplast trnL-gene. All of them have been approved, and some of them are already available in the NCBI GenBank database: 
-
-1. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Eupatorium serotinum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN395725
-2. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Lonicera maackii tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN365276
-3. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Pisum sativum isolate slf-2 tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN335637
-4. <strong>Stancliff, B.</strong>, Avanesyan, A. and W. Lamp. (2019) Vicia faba var. major tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK934667](https://www.ncbi.nlm.nih.gov/nuccore/MK934667.1) 
-5. <strong>Stancliff, B.</strong>, <strong>Smith, D.</strong>, Avanesyan, A. and W. Lamp. (2019) Pisum sativum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK919208](https://www.ncbi.nlm.nih.gov/nuccore/MK919208.1) 
-6. <strong>Stancliff, B.</strong>, <strong>Abdelwahab, O.</strong>, Avanesyan, A. and W. Lamp. (2019) Vigna unguiculata tRNA- Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK883492](https://www.ncbi.nlm.nih.gov/nuccore/MK883492.1) 
-7. <strong>Stancliff, B.</strong>, <strong>Ho, J.</strong>, Avanesyan, A. and W. Lamp. (2019) Helianthus annuus tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK875279](https://www.ncbi.nlm.nih.gov/nuccore/MK875279.1)
-
-Four of these sequences were obtained by my former mentee, <strong>Bryan</strong>, a high school student!
 <hr>
 <h3><strong>1. Molecular gut content analysis of the potato leafhopper</strong></h3>
 
-<strong>Bryan</strong> was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. Bryan joined us in January knowing nothing about wet lab techinques for DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four plant sequences. His work was the essential part of our paper on the use of molecular markers for plant DNA detection from leafhopper gut contents (the manuscript is currently in preparation). 
+<strong>Bryan</strong>, a high school student, was working with us during last Spring semester, and I was really impressed by his incredible progress during those several months. Bryan joined us in January knowing nothing about wet lab techinques for DNA barcoding process; he worked once a week only learning all the steps; and by the end of April he had successfully extracted genomic DNA from 100+ leafhopper samples, amplified plant DNA from leafhopper guts and succesfully obtained and deposited four plant sequences. His work was the essential part of our paper on the use of molecular markers for plant DNA detection from leafhopper gut contents (the manuscript is currently in preparation). 
 
 <div class="row">
   <div class="col-sm">
@@ -67,7 +56,7 @@ Four of these sequences were obtained by my former mentee, <strong>Bryan</strong
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
     src="{{ '/assets/content/misc/bryan_1.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">The results of Bryan's successfull work: plant sequences, obtained and deposited to the NCBI GenBank database (May-June, 2019)
+    <figcaption class="figure-caption">The results of Bryan's successfull work: four plant sequences, obtained and deposited to the NCBI GenBank database (May-June, 2019)
     </figcaption>
     </figure>
   </div>
@@ -115,6 +104,22 @@ Over the past 2 years, I've been mentoring several students in different aspects
   </div>
 </div>
 
+<h4>Updates:</h4>
+
+* 04/09/20: To date, my mentees (in bold) have succesfully submitted to GenBank a total of 10 sequences for the chloroplast trnL-gene. All of them have been approved and are already available in the NCBI GenBank database: 
+
+1. <strong>Illahi, N.</strong>, Avanesyan, A. and W. O. Lamp. (2020) Lonicera maackii ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission, GenBank Accession no. [MN631052](https://www.ncbi.nlm.nih.gov/nuccore/MN631052)
+1. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2020) Acer platanoides tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MN450067](https://www.ncbi.nlm.nih.gov/nuccore/MN450067)
+1. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2020) Acer rubrum tRNA-Leu (trnL) gene, intron; chloroplast. Direct Submission, GenBank Accession no. [MN450068](https://www.ncbi.nlm.nih.gov/nuccore/MN450068)
+1. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Eupatorium serotinum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MN395725](https://www.ncbi.nlm.nih.gov/nuccore/MN395725)
+2. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Lonicera maackii tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MN365276](https://www.ncbi.nlm.nih.gov/nuccore/MN365276)
+3. <strong>Smith, D.K.</strong>, Avanesyan, A. and W. O. Lamp. (2019) Pisum sativum isolate slf-2 tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MN335637](https://www.ncbi.nlm.nih.gov/nuccore/MN335637)
+4. <strong>Stancliff, B.</strong>, Avanesyan, A. and W. Lamp. (2019) Vicia faba var. major tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK934667](https://www.ncbi.nlm.nih.gov/nuccore/MK934667.1) 
+5. <strong>Stancliff, B.</strong>, <strong>Smith, D.</strong>, Avanesyan, A. and W. Lamp. (2019) Pisum sativum tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK919208](https://www.ncbi.nlm.nih.gov/nuccore/MK919208.1) 
+6. <strong>Stancliff, B.</strong>, <strong>Abdelwahab, O.</strong>, Avanesyan, A. and W. Lamp. (2019) Vigna unguiculata tRNA- Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK883492](https://www.ncbi.nlm.nih.gov/nuccore/MK883492.1) 
+7. <strong>Stancliff, B.</strong>, <strong>Ho, J.</strong>, Avanesyan, A. and W. Lamp. (2019) Helianthus annuus tRNA-Leu (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. [MK875279](https://www.ncbi.nlm.nih.gov/nuccore/MK875279.1)
+
+Four of these sequences were obtained by my former mentee, <strong>Bryan</strong>, a high school student!
 <hr>
 
 ## Wetland-stream connectivity: DNA barcoding of isopods 
