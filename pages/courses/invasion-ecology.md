@@ -78,10 +78,11 @@ The course includes weekly lectures and laboratories, weekly homework, 6 online 
 * Introduction pathways, examples
 * Impact on terrestrial ecosystems
 
-4. Invasive species in aquatic ecosystems	
+4. <a href="{{ 'assets/content/courses/invasionecology/INVASION_ECOLOGY_lecture_slides_wk4.pdf' | relative_url }}">Invasive species in aquatic ecosystems</a>	
 * Freshwater and marine invasive species
 * Introduction pathways, examples
 * Impact on aquatic ecosystems
+* {% include download.html base=path file="INVASION_ECOLOGY_worksheet_wk4.pdf" text="worksheet" -%} {% include download.html base=path file="INVASION_ECOLOGY_homework_wk4.pdf" text="homework" -%} 
 
 5. Hands-on experience: 'special' invasive species	
 * Group project: invasive species portrait
