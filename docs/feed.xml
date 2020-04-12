@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-11T11:54:38-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!</title><link href="http://localhost:4000/blog/2020/04/lanternfly-paper-published/" rel="alternate" type="text/html" title="Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!" /><published>2020-04-01T00:00:00-04:00</published><updated>2020-04-01T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/04/lanternfly-paper-published</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/lanternfly-paper-published/">&lt;p&gt;So happy to see our &lt;a href=&quot;https://doi.org/10.3390/insects11040215&quot;&gt;paper&lt;/a&gt; on molecular gut content analysis of the invasive spotted lanternfly, Lycorma delicatula, published today in Insects special issue &lt;a href=&quot;https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact&quot;&gt;“Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”&lt;/a&gt;! &lt;!--more--&gt; 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-12T00:58:23-04:00</updated><id>http://localhost:4000/</id><title type="html">Alina Avanesyan</title><subtitle>Alina's personal website</subtitle><entry><title type="html">Developed an undergraduate course in Invasion Ecology</title><link href="http://localhost:4000/blog/2020/04/invasion-ecology-course/" rel="alternate" type="text/html" title="Developed an undergraduate course in Invasion Ecology" /><published>2020-04-11T00:00:00-04:00</published><updated>2020-04-11T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/04/invasion-ecology-course</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/invasion-ecology-course/">&lt;p&gt;I’ve finished developing the main outline of my course in Invasion Ecology which I hope to teach some day. This is a semester-long course; I see it as an upper-division undergraduate course but I think it can be easily adapted for a low-division undergraduate course or an elective graduate course. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Invasion ecology is a fascinating area to me: Why do some introduced species become invasive? Why do some introduced species fail to establish? What can we do to learn more about invasive species?, etc. All these questions have been driving my research since my doctoral studies at the University of Cincinnati. This course has been my ‘pet’ project since then, and I developed it based on both my own research and teaching experience.&lt;/p&gt;
+
+&lt;p&gt;I’ve designed this course to include weekly lectures and laboratories, weekly homework, online quizzes, as well as a mid-term and cumulative final exam. During both lectures and laboratories students would design and conduct experiments, develop and present group projects, participate in short local field trips, write article critiques, analyze case studies, and develop risk assessment protocols. I’d like my future students to gain all this experience and see themselves as scientists in training during that semester.&lt;/p&gt;
+
+&lt;p&gt;The course outline with examples of lecture slides, assignments and worksheets are available &lt;a href=&quot;http://alinaavanesyan.com/courses/invasion-ecology&quot;&gt;here&lt;/a&gt;. 
+I’m currently exploring online alternatives for experimental laboratories and field trips. I really enjoyed developing this course, and I know I’ll enjoy even more teaching it some day!&lt;/p&gt;
+
+&lt;div class=&quot;col-sm&quot;&gt;
+    &lt;figure class=&quot;text-center&quot;&gt;
+    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/hannah_2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Invasive spotted lanternfly, my current primary research object. We know so little about this unusual and one of the most aggressive forest insect pests in the eastern US. 
+    &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;</content><author><name></name></author><summary type="html">I’ve finished developing the main outline of my course in Invasion Ecology which I hope to teach some day. This is a semester-long course; I see it as an upper-division undergraduate course but I think it can be easily adapted for a low-division undergraduate course or an elective graduate course.</summary></entry><entry><title type="html">Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!</title><link href="http://localhost:4000/blog/2020/04/lanternfly-paper-published/" rel="alternate" type="text/html" title="Our paper on molecular gut content analysis of the invasive spotted lanternfly published in Insects!" /><published>2020-04-01T00:00:00-04:00</published><updated>2020-04-01T00:00:00-04:00</updated><id>http://localhost:4000/blog/2020/04/lanternfly-paper-published</id><content type="html" xml:base="http://localhost:4000/blog/2020/04/lanternfly-paper-published/">&lt;p&gt;So happy to see our &lt;a href=&quot;https://doi.org/10.3390/insects11040215&quot;&gt;paper&lt;/a&gt; on molecular gut content analysis of the invasive spotted lanternfly, Lycorma delicatula, published today in Insects special issue &lt;a href=&quot;https://www.mdpi.com/journal/insects/special_issues/gut_trophic_interact&quot;&gt;“Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects”&lt;/a&gt;! &lt;!--more--&gt; 
 This paper summarizes the results of my work on molecular confirmation of diet of the spotted lanternfly. In this study we showed, for the first time, that host plant DNA can be identified within the gut contents of the spotted lanternfly and demonstrated the use of this approach for deciphering the host plant range of the lanternfly. I’m very happy to get it done and be able to share. I’m also very thankful to Darsy, Jessica, and Nurani - my mentees and great helpers - who helped me with routine DNA extraction, sequence editing, and depositing sequences to NCBI GenBank.&lt;/p&gt;
 
 &lt;p&gt;Here is our &lt;a href=&quot;/assets/content/publications/2020_SLF_gut_content.pdf&quot;&gt;paper&lt;/a&gt;:&lt;/p&gt;
@@ -163,86 +178,4 @@ This paper summarizes the results of my work on molecular confirmation of diet o
     &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/lecture.jpg&quot; alt=&quot;&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">I’m very excited about my upcoming guest lecture tomorrow. This lecture is on invasive species for an undegraduate honors class on insect biodiversity.</summary></entry><entry><title type="html">Maryland Day in pictures - 2</title><link href="http://localhost:4000/blog/2019/04/maryland-day-2/" rel="alternate" type="text/html" title="Maryland Day in pictures - 2" /><published>2019-04-27T00:00:00-04:00</published><updated>2019-04-27T00:00:00-04:00</updated><id>http://localhost:4000/blog/2019/04/maryland-day-2</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/maryland-day-2/">&lt;p&gt;We had a great time on campus enjoying yet another &lt;a href=&quot;https://marylandday.umd.edu/&quot;&gt;Maryland Day&lt;/a&gt;! While I was busy in our “Discover a Swamp” room, the rest of my family enjoyed ice-cream, baloons, trucks, books, and of course, our bugs! &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-1.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-2.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-    &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-3.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-4.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-5.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-6.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-7.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-8.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-    &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-9.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-10.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-11.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-4 col-sm-6&quot;&gt;
-    &lt;figure class=&quot;text-center&quot;&gt;
-    &lt;img class=&quot;ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md&quot; src=&quot;/assets/content/misc/md-12.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;/figure&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;</content><author><name></name></author><summary type="html">We had a great time on campus enjoying yet another Maryland Day! While I was busy in our “Discover a Swamp” room, the rest of my family enjoyed ice-cream, baloons, trucks, books, and of course, our bugs!</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I’m very excited about my upcoming guest lecture tomorrow. This lecture is on invasive species for an undegraduate honors class on insect biodiversity.</summary></entry></feed>
