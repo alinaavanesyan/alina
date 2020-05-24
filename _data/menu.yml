@@ -1,6 +1,6 @@
 items:
 
-  - title: What's new
+  - title: Home
     url:   /
 
   - title: Research
@@ -9,11 +9,11 @@ items:
   - title: Teaching
     url:   /teaching/
 
-  - title: Mentoring
-    url:   /mentoring/
-
   - title: Publications
     url:   /publications/
+
+  - title: Mentoring
+    url:   /mentoring/
 
   - title: CV
     url:   /cv/

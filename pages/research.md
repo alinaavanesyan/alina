@@ -2,11 +2,16 @@
 title:      Research Areas
 permalink:  /research/
 ---
+<div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
+NEW: <strong><a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a></strong> I've developed
+</div>
 
 <hr>
 
 In my research, I explore various mechanisms underlying ecology and evolution of species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
 Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
+
+My current and previous research projects are below, and here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which I've developed.
 
 <hr>
 <h2><strong>Hidden diversity of trophic interactions: use of molecular gut content analysis</strong></h2>
