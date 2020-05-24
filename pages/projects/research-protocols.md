@@ -14,7 +14,7 @@ menu:       /projects/
 * <a href="{{ 'assets/content/misc/SLF_collection_protocol.pdf' | relative_url }}">Collection of the spotted lanternfly and host plant samples</a>
 
 
-<h3><strong>DNA barcoding protocols we use:</strong></h3>
+<h3><strong>DNA barcoding protocols:</strong></h3>
 
 * <a href="{{ 'assets/content/misc/DNAbarcoding_in_pictures.pdf' | relative_url }}">Overview of the main DNA barcoding steps</a> 
 * <a href="{{ 'assets/content/misc/DNAextraction_protocol.pdf' | relative_url }}">DNA extraction</a>
