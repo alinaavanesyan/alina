@@ -2,6 +2,13 @@
 title:      Teaching
 permalink:  /teaching/
 ---
+<div style="padding: 10px;width:350px;text-align:center;background: #e9f0e9;">
+NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.md %}">Invasion Ecology course</a></strong> I've developed
+</div>
+
+<hr>
+
+
 
 ## Courses taught
 

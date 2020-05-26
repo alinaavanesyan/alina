@@ -9,11 +9,11 @@ items:
   - title: Teaching
     url:   /teaching/
 
-  - title: Publications
-    url:   /publications/
-
   - title: Mentoring
     url:   /mentoring/
+
+  - title: Publications
+    url:   /publications/
 
   - title: CV
     url:   /cv/
