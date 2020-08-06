@@ -8,10 +8,11 @@ NEW: <strong><a href="{{ site.baseurl }}{% link pages/projects/research-protocol
 
 <hr>
 
-In my research, I explore various mechanisms underlying ecology and evolution of species interactions using molecular, morphological, and behavioral approaches. In my current postdoctoral work at the University of Maryland (Department of Entomology; [Dr. Bill
-Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html)) I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
+In my research, I explore various mechanisms underlying ecology and evolution of species interactions using molecular, morphological, and behavioral approaches. I’m using arthropods and plant-insect study systems to invesitgate eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, and morphometric analysis.
 
-My current and previous research projects are below, and here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which I've developed.
+I've just joined [Dr. Paula Shrewsbury's lab](https://shrewsburylab.weebly.com/) (at the Department of Entomology, University of Maryland) as an Assistant Research Scientist. In my new position, I continue my research on novel species interactions and I will focus on native and introduced parasitoid interactions for biocontrol of the invasive brown marmorated stink bug. This is very exciting and I'm looking forward to my new research adventure!
+
+Below are my research projects from my postdoctoral work in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html) (also at the Department of Entomology at UMD), as well as previous research projects; and here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which I've developed.
 
 <hr>
 <h2><strong>Hidden diversity of trophic interactions: use of molecular gut content analysis</strong></h2>
