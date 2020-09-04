@@ -257,6 +257,9 @@ To date, we were able to identify seven unique stream species and four unique we
 
 To additionally explore the morphological adaptations of the lanternfly to host plant utilization, I focus on the following two objectives: (a) to assess changes in morphology of the lanternfly mouthparts (stylets and labium), and (b) to assess changes in morphology of the lanternfly tarsal tips (arolia and tarsal claws) at each developmental stage. The labium, stylets, and tarsal tips are the structures which are associated with primary contact of the lanternfly with its host plant, and which potentially facilitate the lanternfly successful host plant use. I assess the developmental changes in these structures using both scanning electron microscopy (SEM) and morphometric analysis. We expect these structures to undergo substantial morphological and morphometric changes throughout the lanternfly development which could potentially indicates the lanternfly association with certain host trees at each developmental stage. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wD-umL1EGBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The spotted lanternfly, Lycorma delicatula, on a host tree: 4th nymphal instar, 7/17/2018, Berks County, PA
+
 <div class="row">
   <div class="col-sm">
     <figure class="text-center">
@@ -373,6 +376,8 @@ Although exotic chinese silver grass, a gorgeous ornamental plant and important 
 </div>
 
 <h4>Updates:</h4>
+
+* 07/27/20: I presented this project at the [Botany-2020 virtual meeting](https://2020.botanyconference.org/), Annual Meeting of the Botanical Society of America. Here is a [video recording](https://www.youtube.com/watch?v=gZJb6n5DNWo&t=14s) of my talk, and here are my <a href="{{ 'assets/content/publications/2020_Botany_talk.pdf' | relative_url }}">slides</a>.
 
 * 09/20/19: I've finished the analysis of the data we collected in 2018 and 2019 summer seasons; we see some interesting patterns in plant tolerance to herbivory and their association with plant morphological appearance; and I'm about to start working on the manuscript. 
 

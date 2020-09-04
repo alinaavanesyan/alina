@@ -11,11 +11,5 @@ I've designed this course to include weekly lectures and laboratories, weekly ho
 The course outline with examples of lecture slides, assignments and worksheets are available [here](http://alinaavanesyan.com/courses/invasion-ecology). 
 I'm currently exploring online alternatives for experimental laboratories and field trips. I really enjoyed developing this course, and I know I'll enjoy even more teaching it some day!
 
-<div class="col-sm">
-    <figure class="text-center">
-    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/hannah_2.jpg' | relative_url }}" alt="">
-    <figcaption class="figure-caption">Invasive spotted lanternfly, my current primary research object. We know so little about this unusual and one of the most aggressive forest insect pests in the eastern US. 
-    </figcaption>
-    </figure>
-  </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wD-umL1EGBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Invasive spotted lanternfly, Lycorma delicatula, my current primary research object. We know so little about this unusual and one of the most aggressive forest insect pests in the eastern US. (4th nymphal instar, 7/17/2018, Berks County, PA)

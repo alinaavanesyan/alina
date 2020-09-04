@@ -201,16 +201,21 @@
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
 # ------------------------------------------------------------------------------
-- entry: '
-  Lamp W.O, and A. Avanesyan, A. (2020) Molecular gut content analysis reveals the host plant range of the invasive spotted lanternfly, Lycorma delicatula.
-Joint Eastern and Southeastern Branch Meeting of the Entomological Society of America, Atlanta, GA. Oral presentation. '
-  type: conference_upcoming
-  date: 2020-01-09
-  projects: [novel_associations] 
+
 
 #------------------------------------------------
 # conference presentations
 #------------------------------------------------
+
+- entry: '
+  Avanesyan, A., and W. Lamp. (2020) Variation in plant responses to grasshopper herbivory
+among the cultivars of the introduced Miscanthus sinensis. Botany 2020: Annual Meeting of the
+Botanical Society of America. Oral presentation. '
+  type: conference
+  date: 2020-07-27
+  file: 2020_Botany_talk.pdf
+  url: 'https://www.youtube.com/watch?v=gZJb6n5DNWo&t=14s'
+  projects: [novel_associations] 
 
 - entry: '
   Avanesyan, A., Maugel, T., and W. Lamp. (2019) External morphology and developmental
