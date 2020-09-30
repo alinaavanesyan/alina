@@ -1,6 +1,14 @@
 # ------------------------------------------------------------------------------
 # journal articles
 # ------------------------------------------------------------------------------
+
+
+- entry: '
+  Avanesyan, A., Illahi, N. and W.O. Lamp. (2020) Detecting ingested host plant DNA in potato leafhopper, Empoasca fabae: potential use of molecular markers for gut content analysis.  Journal of Economic Entomology (In Press). '
+  type: journal
+  date: 2020-09-30
+  projects: [novel_associations]
+
 - entry: '
   Avanesyan, A., and W.O. Lamp. (2020) Use of molecular gut content analysis to decipher the range of food plants of the invasive spotted lanternfly, Lycorma delicatula. Insects: Special Issue " Molecular Gut Content Analysis: Deciphering Trophic Interactions of Insects", 11(4), 215, doi.org/10.3390/insects11040215. '
   type: journal
