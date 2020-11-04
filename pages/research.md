@@ -61,6 +61,8 @@ The spotted lanternfly, Lycorma delicatula, on a host tree: 4th nymphal instar, 
 
 <h4>Updates:</h4>
 
+* 10/09/2020: I put together <a href="{{ site.baseurl }}{% link pages/projects/slf-bibliography.md %}">the SLF bibliography</a> which contains the peer-reviewed articles (that I could find), published in English, on different aspects of the spotted lanternfly biology, as well as management of this pest. I'm going to curate and keep this bibliography updated as much as possible.
+
 * 12/27/19: Our paper "External morphology and developmental changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula" has been just published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226995)! Here is our <a href="{{ 'assets/content/publications/2019_SLFmorphology.pdf' | relative_url }}">paper</a>.
 
 * 11/18/19: I've presented our updated results on the lanternfly external morphology at the ESA meeting. Here is <a href="{{ 'assets/content/publications/2019_ESA_poster.pdf' | relative_url }}">my poster</a>.  
