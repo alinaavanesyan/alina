@@ -8,7 +8,7 @@ menu:       /projects/
 This is the list of published studies on different aspects of the spotted lanternfly biology and management of this pest. The list includes studies published in English, in peer-reviewed journals only. Conference presentations, reports, newsletters, and extension fact sheets are not included in this list at this point. These are all the studies I could find, and I will be adding the new studies as they come out. I put tugether this list for myself, for my research work on the spotted lanternfly. The studies are arranged in several categories: this arrangement is completely subjective as this is what I found to be helpful for my work. 
 <hr>
 
-Last update: 11/1/2020
+Last update: 11/15/2020
 <hr>
 
 
@@ -39,6 +39,7 @@ Last update: 11/1/2020
 * Lee, J. E., Moon, S. R., Ahn, H. G., Cho, S. R., Yang, J. O., Yoon, C. M., & Kim, G. H. (2009). Feeding behavior of Lycorma delicatula (Hemiptera: Fulgoridae) and response on feeding stimulants of some plants. Korean journal of applied entomology, 48(4), 467-477.
 * Liu, H. (2019). Oviposition substrate selection, egg mass characteristics, host preference, and life history of the spotted lanternfly (Hemiptera: Fulgoridae) in North America. Environmental Entomology, 48(6), 1452-1468.
 * Mason, C. J., Walsh, B., Keller, J., Couture, J. J., Calvin, D., & Urban, J. M. (2020). Fidelity and Timing of Spotted Lanternfly (Hemiptera: Fulgoridae) Attack Patterns on Ornamental Trees in the Suburban Landscape. Environmental Entomology.
+* Murman, K., Setliff, G. P., Pugh, C. V., Toolan, M. J., Canlas, I., Cannon, S., ... & Wallace, M. (2020). Distribution, Survival, and Development of Spotted Lanternfly on Host Plants Found in North America. Environmental Entomology. XX-XXX
 
 <h3><strong>Pathogen transmission:</strong></h3>
 * Brooks, R. K., Toland, A., Dechaine, A. C., McAvoy, T., & Salom, S. (2020). The Inability of Spotted Lanternfly (Lycorma delicatula) to Vector a Plant Pathogen between its Preferred Host, Ailanthus altissima, in a Laboratory Setting. Insects, 11(8), 515.
