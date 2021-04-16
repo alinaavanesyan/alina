@@ -5,8 +5,18 @@ permalink:  /research/
 
 In my research, I explore various eco-evolutionary mechanisms which drive species interactions, and especially novel interactions between native and introduced species. I’m using primarily arthropods and plant-insect study systems to investigate how the lack of co-evolutionary history affect species adaptations to novel hosts, enemies, food sources, etc. I'm particularly curious how species behavior, morphology, and physiology change in response to novel environments. I’ve been working on a variety of projects that involve field and greenhouse experiments, molecular biology techniques, light and scanning electron microscopy, as well as systematic reviews and meta-analyses of existing ecological data. 
 
-Below are my current and previous research projects which I conducted as a postdoctoral researcher in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html) (also at the Department of Entomology at UMD); research associate at the University of Wisconsin-Madison; research assistant at the Unviersity of Cincinnati; and before that, as a researcher at the Institute of Cytology of the Russian Academy of
-Science and Herzen State University (St. Petersburg, Russia). My studies species have spanned various invertebrates (insects, isopods, snails, trematodes), as well as plants. Also, here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which I've been using.
+I'm currently an Assistant Research Scientist in [Dr. Paula Shrewsbury's lab](https://shrewsburylab.weebly.com/) (at the Department of Entomology, University of Maryland); I work on native and introduced parasitoid interactions for biocontrol of the invasive brown marmorated stink bug (BMSB). Below are my current and previous research projects which I conducted as a postdoctoral researcher in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html) (also at the Department of Entomology at UMD); research associate at the University of Wisconsin-Madison; research assistant at the Unviersity of Cincinnati; and before that, as a researcher at the Institute of Cytology of the Russian Academy of
+Science and Herzen State University (St. Petersburg, Russia). My studies species have spanned various invertebrates (insects, isopods, snails, trematodes), as well as plants. 
+
+<hr>
+<h2><strong>Augmentative biocontrol of the invasive brown marmorated stink bug </strong></h2>
+<hr>
+
+The brown marmorated stink bug (BMSB), Halyomorpha halys (Hemiptera: Pentatomidae) is a widespread invasive insect pest. It originated from eastern Asia and was first detected in Pennsylvania in the mid-1990s. BMSB is highly polyphagous and cause damage to many economically important crop plants, fruit trees, as well as ornamental plants. In my current work, I focus on two egg parasitoids of BMSB, Anastatus reduvii (native parasitoid wasp in the US) and Trissolcus japonicus (accidentally introduced parasitoid wasp, a natural enemy of BMSB in its native range in Asia). Indigenous egg parasitoids, such as Anastatus reduvii, which exploit BMSB, are especially promising biocontrol agents for sustainable management of BMSB. In my research, I’m especially interested in how interspecific and intraspecific parasitoid interactions affect the BMSB egg fate, and how we can use the outcome from these species interactions for biocontrol of this invasive insect pest. 
+
+<h4>Updates:</h4>
+
+* 03/22/2021: I’ve presented our intermediate results at the Entomological Society of America Annual Meeting, Eastern Branch, March 22-24, virtual meeting. Here is my <a href="{{ 'assets/content/publications/2021_EBESA_talk.pdf' | relative_url }}">talk</a>.
 
 
 <hr>
