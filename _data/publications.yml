@@ -4,12 +4,17 @@
 
 
 - entry: '
-  Avanesyan, A., Illahi, N. and W.O. Lamp. (2020) Detecting ingested host plant DNA in potato
-leafhopper, Empoasca fabae: potential use of molecular markers for gut content analysis. Journal
-of Economic Entomology, doi: 10.1093/jee/toaa247. '
+  Avanesyan, A., Sutton, H., and W.O. Lamp. (2021) Choosing an effective PCR-based approach for diet analysis of insect herbivores: A systematic review. Journal of Economic Entomology (Accepted). '
   type: journal
-  date: 2020-11-04
-  file: 2020_PLH_feeding.pdf
+  date: 2021-03-25
+  projects: [novel_associations]
+
+- entry: '
+  Avanesyan, A., Illahi, N. and W.O. Lamp. (2021) Detecting ingested host plant DNA in potato
+leafhopper, Empoasca fabae: potential use of molecular markers for gut content analysis. Journal of Economic Entomology, 114(1), 2021, 472–475. '
+  type: journal
+  date: 2021-02-15
+  file: 2021_PLH_feeding.pdf
   projects: [novel_associations]
 
 - entry: '
@@ -198,16 +203,11 @@ of Economic Entomology, doi: 10.1093/jee/toaa247. '
 # manuscripts in preparation 
 # ------------------------------------------------------------------------------
 - entry: '
-  Avanesyan, A., and W.O. Lamp. Use of molecular markers for gut content analysis of potato leafhopper, Empoasca fabae. '
+  Avanesyan, A., Waterworth, R. A., Ramsey, S., Stelzig, O., and P. M. Shrewsbury. (2021) Interspecific and intraspecific interactions of Anastatus reduvii, an egg parasitoid of the brown marmorated stink bug (BMSB), Halyomorpha halys Stål (Hemiptera: Pentatomidae). '
   type: journal_prep
-  date: 2019-09-02
+  date: 2021-03-29
   projects: [novel_associations]
 
-- entry: '
-  Avanesyan, A., and W.O. Lamp. Molecular approaches to diet analysis of insect herbivores: a systematic review. '
-  type: journal_prep
-  date: 2019-11-18
-  projects: [novel_associations]
 
 # ------------------------------------------------------------------------------
 # upcoming conference presentations
@@ -217,6 +217,25 @@ of Economic Entomology, doi: 10.1093/jee/toaa247. '
 #------------------------------------------------
 # conference presentations
 #------------------------------------------------
+
+- entry: '
+  Avanesyan, A., Waterworth, R. A., Ramsey, S., Stelzig, O., and P. M. Shrewsbury. (2021)
+Interspecific and intraspecific interactions of Anastatus reduvii, an egg parasitoid of the brown
+marmorated stink bug (BMSB), Halyomorpha halys Stål (Hemiptera: Pentatomidae). Entomological Society of America Annual Meeting, Eastern Branch. Oral presentation. '
+  type: conference
+  date: 2021-03-23
+  file: 2021_EBESA_talk.pdf
+  url: 'https://esa.confex.com/esa/2021eb/meetingapp.cgi/Paper/153355'
+  projects: [novel_associations] 
+
+- entry: '
+  Lamp, W., Avanesyan, A., Sulc M., Griggs, T., and Y. Park. (2021) Using alfalfa leaf temperature
+to detect injury by potato leafhopper, Empoasca fabae: A comparison of handheld and drone
+measurements. Entomological Society of America Annual Meeting, Eastern Branch. Oral
+presentation. '
+  type: conference
+  date: 2021-03-22
+  projects: [novel_associations] 
 
 - entry: '
   Avanesyan, A., and W. Lamp. (2020) Variation in plant responses to grasshopper herbivory
@@ -490,6 +509,23 @@ America Annual Meeting, Eastern Branch. Blacksburg, VA. Oral presentation.'
 # ------------------------------------------------------------------------------
 # invited talks
 # ------------------------------------------------------------------------------
+
+- entry: '
+    Avanesyan, A. (2020) Using databases for exploring research questions. Department of
+Entomology, University of Maryland, College Park, MD; The Lamp lab, weekly meeting. Guest
+speaker.'
+  type: talk 
+  date: 2020-11-30
+  projects: [teaching]
+
+- entry: '
+    Avanesyan, A. (2020) Molecular resources and protocols: from PLS4178 to PLS4172.
+Department of Entomology, University of Maryland, College Park, MD; The Lamp lab, weekly
+meeting. Guest speaker.'
+  type: talk 
+  date: 2020-10-20
+  projects: [novel_associations]
+
 - entry: '
     Avanesyan, A. (2019) Ecology of invasive species, consequences on society. Department of
 Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lecturer.'
@@ -600,7 +636,7 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
   projects: [teaching]
     
 # ------------------------------------------------------------------------------
-# nesletters
+# newsletters
 # ------------------------------------------------------------------------------
 - entry: '
     Avanesyan, A. and C. Guédot. (2016) Exclusion barriers as a sustainable
@@ -623,24 +659,114 @@ Entomology, University of Maryland, College Park, MD; HONR208D class. Guest lect
 # ------------------------------------------------------------------------------
 
 - entry: '
-    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Eupatorium serotinum tRNA-Leu (trnL)
+    Avanesyan, A. and W. O. Lamp. (2020) Betula pendula isolate 1E4a ribulose-1,5-bisphosphate
+carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
+GenBank Accession no. MT119453'
+  type: genbank
+  date: 2020-05-05
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MT119453'
+  projects: [novel_associations]
+
+- entry: '
+    Avanesyan, A. and W. O. Lamp. (2020) Acer pseudoplatanus isolate 1F4b ribulose-1,5-
+bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct
+Submission, GenBank Accession no. MT108179'
+  type: genbank
+  date: 2020-05-04
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MT108179'
+  projects: [novel_associations]
+
+- entry: '
+    Avanesyan, A. and W. O. Lamp. (2020) Vitis vinifera isolate 1B3 ribulose-1,5-bisphosphate
+carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
+GenBank Accession no. MN862495'
+  type: genbank
+  date: 2020-05-03
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN862495'
+  projects: [novel_associations]
+
+- entry: '
+    Avanesyan, A. and W. O. Lamp. (2020) Ailanthus altissima ribulose-1,5-bisphosphate
+carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
+GenBank Accession no. MN853649'
+  type: genbank
+  date: 2020-05-02
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN853649'
+  projects: [novel_associations]
+
+- entry: '
+    Avanesyan, A. and W. O. Lamp. (2020) Celastrus orbiculatus isolate TT4a ribulose-1,5-
+bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct
+Submission, GenBank Accession no. MN862496'
+  type: genbank
+  date: 2020-05-01
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN862496'
+  projects: [novel_associations]
+
+- entry: '
+    Illahi, N., Avanesyan, A. and W. O. Lamp. (2020) Lonicera maackii ribulose-1,5-bisphosphate
+carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
+GenBank Accession no. MN631052'
+  type: genbank
+  date: 2020-01-21
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN631052'
+  projects: [novel_associations]
+
+- entry: '
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2020) Eupatorium serotinum tRNA-Leu (trnL)
 gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN395725'
   type: genbank
-  date: 2019-09-03
+  date: 2020-01-20
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN395725'
   projects: [novel_associations]
 
 - entry: '
-    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Lonicera maackii tRNA-Leu (trnL) gene,
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2020) Lonicera maackii tRNA-Leu (trnL) gene,
 partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN365276'
   type: genbank
-  date: 2019-09-02
+  date: 2020-01-05
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN365276'
   projects: [novel_associations]
 
 - entry: '
-    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2019) Pisum sativum isolate slf-2 tRNA-Leu
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2020) Pisum sativum isolate slf-2 tRNA-Leu
 (trnL) gene, partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN335637'
   type: genbank
+  date: 2020-01-04
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN335637'
+  projects: [novel_associations]
+
+- entry: '
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2020) Acer platanoides tRNA-Leu (trnL) gene,
+partial sequence; chloroplast. Direct Submission, GenBank Accession no. MN450067'
+  type: genbank
+  date: 2020-01-03
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN450067'
+  projects: [novel_associations]
+
+- entry: '
+    Smith, D.K., Avanesyan, A. and W. O. Lamp. (2020) Acer rubrum tRNA-Leu (trnL) gene,
+intron; chloroplast. Direct Submission, GenBank Accession no. MN450068'
+  type: genbank
+  date: 2019-09-03
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN450068'
+  projects: [novel_associations]
+
+- entry: '
+    Illahi, N., Avanesyan, A. and W. O. Lamp. (2019) Ailanthus altissima isolate BC4b ribulose1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct
+Submission, GenBank Accession no. MN856629'
+  type: genbank
+  date: 2019-09-02
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN856629'
+  projects: [novel_associations]
+
+- entry: '
+    Illahi, N., Avanesyan, A. and W. O. Lamp. (2019) Ailanthus altissima ribulose-1,5-bisphosphate
+carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast. Direct Submission,
+GenBank Accession no. MN853649'
+  type: genbank
   date: 2019-09-01
+  url: 'https://www.ncbi.nlm.nih.gov/nuccore/MN853649'
   projects: [novel_associations]
 
 - entry: '
