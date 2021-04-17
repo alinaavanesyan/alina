@@ -4,11 +4,9 @@ permalink:  /mentoring/
 
 ---
 <hr>
-In my postdoctoral work in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html) at the University of Maryland I proposed, developed and managed DNA barcoding flow for our lab research: I set up DNA extraction, PCR, and electrophoresis protocols, proposed and acquired reagents and equipment, set up sequencing software, managed sequencing service, trained and coordinated lab members. This DNA barcoding work became the main part of several ongoing projects in Dr. Bill Lamp's lab, such as: wetland-stream connectivity; dragonflies diet composition; and host plant usage of potato leafhoppers and the spotted lanternfly. Here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which we've been using.
+My recent mentoring experience included my work with undergraduate and graduate students during my postdoctoral research in [Dr. Bill Lamp’s lab](http://www.clfs.umd.edu/entm/lamp/index.html) at the University of Maryland. During my postdoctoral work, I proposed, developed and managed DNA barcoding flow for our lab research: I set up DNA extraction, PCR, and electrophoresis protocols, proposed and acquired reagents and equipment, set up sequencing software, managed sequencing service, trained and coordinated lab members. This DNA barcoding work became the main part of several ongoing projects in Dr. Bill Lamp's lab, such as: wetland-stream connectivity; dragonflies diet composition; and host plant usage of potato leafhoppers and the spotted lanternfly. Here are the <a href="{{ site.baseurl }}{% link pages/projects/research-protocols.md %}">research protocols</a> which we were using.
 
-Over the past 2 years, I mentored 11 students in various DNA barcoding research projects. I trained the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, sequence analysis and depositing the sequences to the NCBI GenBank datase, as well as retrieving data from published studies as part of our planned systematic review on molecular approaches to study insect diet. All this work resulted in 10 student GenBank submissions and 2 student school symposium presentations (with 1 award). I also have two manuscripts in preparation with two of my mentees as coauthors. I enjoy working with my students and seeing their progress, and I'm very happy for their big and small successes.
-
-
+During 2.5 years of my postdoctoral work, I mentored 11 students in various DNA barcoding research projects. I trained the students in tissue preparation, DNA isolation, PCR, visualization results using gel electrophoresis, sequence analysis and depositing the sequences to the NCBI GenBank datase, as well as retrieving data from published studies as part of our planned systematic review on molecular approaches to study insect diet. All this work resulted in 10 student GenBank submissions and 2 student school symposium presentations (with 1 award). I also have two manuscripts in preparation with two of my mentees as coauthors. I enjoy working with my students and seeing their progress, and I'm very happy for their big and small successes.
 
 <hr>
 
@@ -16,18 +14,6 @@ Over the past 2 years, I mentored 11 students in various DNA barcoding research 
 <hr>
 
 I mentored two graduate students and several undergraduate students in their research projects which involved insect diet analysis using various molecular biology techniques. The students worked on plant DNA detection from the potato leafhopper and the spotted lanternfly guts: we tried to identify insect host plants, confirm their ingestion, and explore insect host plant switch during insect development. The students isolated plant DNA sequences, conducted sequence analysis, and learn how annotate the sequence and deposit it to GenBank.
-
-
-<h3><strong>DNA barcoding protocols we use:</strong></h3>
-
-* <a href="{{ 'assets/content/misc/DNAbarcoding_in_pictures.pdf' | relative_url }}">Overview of the main DNA barcoding steps</a> 
-* <a href="{{ 'assets/content/misc/DNAextraction_protocol.pdf' | relative_url }}">DNA extraction</a>
-* <a href="{{ 'assets/content/misc/Primer_dilutions.pdf' | relative_url }}">Primer dilutions</a> 
-* PCR protocols: (a) <a href="{{ 'assets/content/misc/PCRprotocol_isopods.pdf' | relative_url }}">isopods</a>; (b) <a href="{{ 'assets/content/misc/PCRprotocol_leafhoppers_lanternfly.pdf' | relative_url }}">leafhoppers</a>; (c) <a href="{{ 'assets/content/misc/PCRprotocol_leafhoppers_lanternfly.pdf' | relative_url }}">spotted lanternfly</a>
-* <a href="{{ 'assets/content/misc/PCRpurification_protocol_ExoSAP-IT.pdf' | relative_url }}">PCR product purification</a> 
-* <a href="{{ 'assets/content/misc/GelElectrophoresis_protocol.pdf' | relative_url }}">Gel electrophoresis</a>
-* Sanger sequencing: <a href="{{ 'assets/content/misc/SequenceAnalysis_BioEdit_steps.pdf' | relative_url }}">sequence editing and alignment</a>
-* Next-generation sequencing: (a) <a href="{{ 'assets/content/misc/NGS_sample_prep_submit.pdf' | relative_url }}">sample preparation and submission</a>; (b) <a href="{{ 'assets/content/misc/RetrievingNGSresults_steps.pdf' | relative_url }}">retrieving sequences from GENEWIZ</a>
 
 <div class="col-sm">
     <figure class="text-center">
