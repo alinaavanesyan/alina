@@ -12,7 +12,9 @@ Science and Herzen State University (St. Petersburg, Russia). My studies species
 <h2><strong>Augmentative biocontrol of the invasive brown marmorated stink bug </strong></h2>
 <hr>
 
-The brown marmorated stink bug (BMSB), Halyomorpha halys (Hemiptera: Pentatomidae) is a widespread invasive insect pest. It originated from eastern Asia and was first detected in Pennsylvania in the mid-1990s. BMSB is highly polyphagous and cause damage to many economically important crop plants, fruit trees, as well as ornamental plants. In my current work, I focus on two egg parasitoids of BMSB, Anastatus reduvii (native parasitoid wasp in the US) and Trissolcus japonicus (accidentally introduced parasitoid wasp, a natural enemy of BMSB in its native range in Asia). Indigenous egg parasitoids, such as Anastatus reduvii, which exploit BMSB, are especially promising biocontrol agents for sustainable management of BMSB. In my research, I’m especially interested in how interspecific and intraspecific parasitoid interactions affect the BMSB egg fate, and how we can use the outcome from these species interactions for biocontrol of this invasive insect pest. 
+The brown marmorated stink bug (BMSB), Halyomorpha halys (Hemiptera: Pentatomidae) is a widespread invasive insect pest. It originated from eastern Asia and was first detected in Pennsylvania in the mid-1990s. BMSB is highly polyphagous and cause damage to many economically important crop plants, fruit trees, as well as ornamental plants. In my current work, I focus on two egg parasitoids of BMSB, Anastatus reduvii (native parasitoid wasp in the US) and Trissolcus japonicus (accidentally introduced parasitoid wasp, a natural enemy of BMSB in its native range in Asia). Indigenous egg parasitoids, such as Anastatus reduvii, which exploit BMSB, are especially promising biocontrol agents for sustainable management of BMSB. 
+
+In my current research, I’m especially interested in how interspecific and intraspecific parasitoid interactions affect the BMSB egg fate, and how we can use the outcome from these species interactions for biocontrol of this invasive insect pest. 
 
 <div class="row">
   <div class="col-sm">
@@ -87,8 +89,6 @@ The spotted lanternfly, Lycorma delicatula, on a host tree: 4th nymphal instar, 
 </div>
 
 <h4>Updates:</h4>
-
-* 10/09/2020: I put together <a href="{{ site.baseurl }}{% link pages/projects/slf-bibliography.md %}">the SLF bibliography</a> which contains the peer-reviewed articles (that I could find), published in English, on different aspects of the spotted lanternfly biology, as well as management of this pest. I'm going to curate and keep this bibliography updated as much as possible.
 
 * 12/27/19: Our paper "External morphology and developmental changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula" has been just published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226995)! Here is our <a href="{{ 'assets/content/publications/2019_SLFmorphology.pdf' | relative_url }}">paper</a>.
 
