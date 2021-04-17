@@ -14,7 +14,7 @@ NEW: <strong><a href="{{ site.baseurl }}{% link pages/courses/invasion-ecology.m
 
 <p class="mb-1"><strong>Department of Entomology, University of Maryland, College Park</strong> (2018-present)</p>
 
-* <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; 2019, 2020; instructor) 
+* <a href="{{ site.baseurl }}{% link pages/courses/evolutionary-biology.md %}">Evolutionary Biology</a> (CLFS 609J; online course; 3 units; 2019-present; instructor) 
 * <a href="{{ site.baseurl }}{% link pages/courses/insect-biodiversity.md %}">Insect Biodiversity: The Good, The Bad and The Weird</a> (HONR208D; 3 units; 2018; teaching assistant)
 * <a href="{{ site.baseurl }}{% link pages/courses/aquatic-entomology.md %}">Aquatic Entomology</a> (ENTM667; 3 units; 2018; teaching assistant)
 
