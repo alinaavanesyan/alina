@@ -39,11 +39,12 @@ In my current research, I’m especially interested in how interspecific and int
 
 * 03/22/2021: I’ve presented our intermediate results at the Entomological Society of America Annual Meeting, Eastern Branch, March 22-24, virtual meeting. Here is my <a href="{{ 'assets/content/publications/2021_EBESA_talk.pdf' | relative_url }}">talk</a>.
 
+<h4>Representative presentation:</h4>
+1. <strong> Avanesyan, A.</strong>, Waterworth, R. A., Ramsey, S., Stelzig, O., and P. M. Shrewsbury. (2021) Interspecific and intraspecific interactions of Anastatus reduvii, an egg parasitoid of the brown marmorated stink bug (BMSB), Halyomorpha halys Stål (Hemiptera: Pentatomidae). Entomological Society of America Annual Meeting, Eastern Branch. Oral presentation. <a class="ic4f-nowrap" href="/assets/content/publications/2021_EBESA_talk.pdf"><i class="material-icons md-18">file_download</i><span class="ic4f-download">full text</span></a> 
 
 <hr>
 <h2><strong>Invasive spotted lanternfly and its host plant usage in the introduced range (postdoctoral research)</strong></h2>
 <hr>
-
 
 Spotted lanternfly (SLF), Lycorma delicatula (Hemiptera: Fulgoridae), is an emerging, highly invasive insect pest of fruit crops and trees in the eastern US. It originated from and is widely distributed in China, but due to its highly polyphagous behavior and presumably high ecological tolerance it has successfully invaded other countries such as Korea and Japan. It was first detected in Berks County, PA in 2014. Since this first detection, the spotted lanternfly has rapidly spread to 13 counties in PA. In a few years, it was detected in New York and Delaware (fall, 2017), Virginia (January, 2018), as well as in West Virginia and Maryland (2019). Spotted lanternfly is one of the most aggressive leafhopping pests in Mid-Atlantic region: it is extremely polyphagous and can utilize over 70 host plants, such as apple, plum, cherry, peach, apricot, grape, pine, tree of heaven (preferred tree host), as well as many ornamental plants. 
 
