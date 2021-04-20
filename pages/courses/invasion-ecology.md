@@ -101,7 +101,7 @@ The course includes weekly lectures and laboratories, weekly homework, 6 online 
 
 8. Mid-term review and exam
 * Special topic: TBD (students' choice)
-* What have we learned so far: Invasive species: definition, diversity, interactions with other species and environment
+* What we have learned so far: Invasive species: definition, diversity, interactions with other species and environment
 * Mid-term exam
 
 9. <a href="{{ 'assets/content/courses/invasionecology/INVASION_ECOLOGY_lecture_ slides_wk9.pdf' | relative_url }}">Narrowing down the focus: novel plant-insect interactions</a>
