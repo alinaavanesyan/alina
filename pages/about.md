@@ -17,7 +17,7 @@ From January 2018 to July 2020, I was a Postdoctoral Associate at the Department
 
 In August 2020, I joined [Dr. Paula Shrewsbury's lab](https://shrewsburylab.weebly.com/) (also at the Department of Entomology at UMD) as an Assistant Research Scientist. In this position, I continue my research on novel species interactions. My current focus is interactions between native and introduced parasitoids of the brown marmorated stink bug with implications for effective biocontrol of this invasive insect pest. This is a fascinating area and I enjoy my research adventures very much!
 
-Outside my work I enjoy spending time with [my husband](http://ic4f.me) and our little daughter. We enjoy the outdoors whenever we get a chance – hiking, biking, skiing, and simply exploring new places! And if the weather isn’t cooperating, you will find me exploring the unpredictable worlds of Neil Gaiman, Kim Stanley Robinson, J.R.R. Tolkien, and George Martin, enjoying new adventures with Stephen Hunter, or looking for all those who disappeared and “were said to been seen in San-Francisco” with Armistead Maupin… 
+Outside my work I enjoy spending time with [my husband](http://ic4f.me) and our little daughter. We enjoy the outdoors whenever we get a chance – hiking, biking, skiing, and simply exploring new places! And if the weather isn’t cooperating, you will find me drawing or exploring the unpredictable worlds of Neil Gaiman, Kim Stanley Robinson, J.R.R. Tolkien, and George Martin, enjoying new adventures with Stephen Hunter, or looking for all those who disappeared and “were said to been seen in San-Francisco” with Armistead Maupin… 
 
 
 <figure>
