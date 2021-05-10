@@ -11,35 +11,35 @@ Here is [my page](https://www.deviantart.com/totodor) at deviantart.com where I 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/mf.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img018.jpg' | relative_url }}" alt="">
         </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/ladybug.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img021.jpg' | relative_url }}" alt="">
     </figure>
     </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/slf.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img017.jpg' | relative_url }}" alt="">
         </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/bmsb.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img022.jpg' | relative_url }}" alt="">
     </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/Ar3.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img027.jpg' | relative_url }}" alt="">
     
     </figure>
   </div>
@@ -47,7 +47,7 @@ Here is [my page](https://www.deviantart.com/totodor) at deviantart.com where I 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/Tj.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img026.jpg' | relative_url }}" alt="">
     
     </figure>
   </div>
@@ -59,35 +59,35 @@ Here is [my page](https://www.deviantart.com/totodor) at deviantart.com where I 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/sm.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img023.jpg' | relative_url }}" alt="">
         </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/odonata2.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img024.jpg' | relative_url }}" alt="">
     </figure>
     </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/ms.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img025.jpg' | relative_url }}" alt="">
         </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/goose.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img032.jpg' | relative_url }}" alt="">
     </figure>
   </div>
 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/sq.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img031.jpg' | relative_url }}" alt="">
     
     </figure>
   </div>
@@ -95,7 +95,34 @@ Here is [my page](https://www.deviantart.com/totodor) at deviantart.com where I 
   <div class="col-md-4 col-sm-6">
     <figure class="text-center">
     <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
-    src="{{ '/assets/content/misc/pond.jpg' | relative_url }}" alt="">
+    src="{{ '/assets/content/misc/img020.jpg' | relative_url }}" alt="">
+    
+    </figure>
+  </div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/img029.jpg' | relative_url }}" alt="">
+    </figure>
+  </div>
+
+  <div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/img028.jpg' | relative_url }}" alt="">
+    
+    </figure>
+  </div>
+
+  <div class="col-md-4 col-sm-6">
+    <figure class="text-center">
+    <img class="ic4f-mtrig ic4f-zoomin figure-img img-fluid ic4f-max-height-md"
+    src="{{ '/assets/content/misc/img030.jpg' | relative_url }}" alt="">
     
     </figure>
   </div>
